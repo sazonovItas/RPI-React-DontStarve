@@ -18,10 +18,11 @@ module.exports = {
       },
     },
   ],
+  parser: "@typescript-eslint/parser",
   parserOptions: {
-    parser: "@typescript-eslint/parser",
+    ecmaVersion: "latest",
     sourceType: "module",
-    project: ["tsconfig.json"],
+    project: ["./tsconfig.json", "./tsconfig.node.json"],
   },
   plugins: ["react-refresh"],
   rules: {
