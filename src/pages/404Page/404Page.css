@@ -1,0 +1,20 @@
+.container {
+  max-width: 600px;
+  margin: 50px auto 40px auto;
+  text-align: center;
+}
+
+.not-found-image {
+  max-height: 200px;
+}
+
+h1 {
+  max-width: 600px;
+  position: relative;
+  font-size: 60px;
+  font-weight: 100;
+}
+
+div {
+  display: block;
+}

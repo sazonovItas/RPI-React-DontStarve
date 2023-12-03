@@ -5,4 +5,11 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   plugins: [react()],
   base: "/RPI-React-DontStarve/",
+  resolve: {
+    alias: {
+      src: "/src",
+      public: "/public",
+      assets: "/src/assets",
+    },
+  },
 });
