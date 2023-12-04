@@ -1,7 +1,7 @@
 import NotFoundImage from "assets/images/404NotFound/404NotFound1.png";
 import "./404Page.css";
 
-function PageNotFound() {
+function NotFoundPage() {
   return (
     <>
       <div className="container">
@@ -16,4 +16,4 @@ function PageNotFound() {
   );
 }
 
-export default PageNotFound;
+export default NotFoundPage;
