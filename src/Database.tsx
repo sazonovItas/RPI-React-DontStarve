@@ -1,6 +1,6 @@
 import { createContext, useContext } from "react";
 import { Database } from "./DbScheme";
-import db from "assets/data/database.json";
+import db from "./assets/data/database.json";
 
 const DbContext = createContext<Database>(db["en"]);
 
