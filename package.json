@@ -1,10 +1,12 @@
 {
   "name": "rpi-react-dontstarve",
+  "homepage": "https://sazonovitas.github.io/RPI-React-DontStarve",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "deploy": "gh-pages -b main -d build",
     "build": "tsc && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
