@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import "./500Page.css";
 import background from "/images/backgrounds/ServerErrorPage.png";
 import { useTranslation } from "react-i18next";
-import ErrorPage from "../../components/ErrorPage/ErrorPage";
+import ErrorComponent from "../../components/ErrorComponent/ErrorComponent";
 import character from "../../assets/images/500ServerError/character.png";
 
 function ServerErrorPage() {
@@ -15,7 +15,7 @@ function ServerErrorPage() {
   });
   return (
     <>
-      <ErrorPage
+      <ErrorComponent
         Img={character}
         Title={t("ServerErrorPage.Title")}
         SubTitle={t("ServerErrorPage.SubTitle")}
