@@ -1,0 +1,12 @@
+{
+  "NotFoundPage": {
+    "Title": "Error 404",
+    "SubTitle": "Page not found",
+    "Description": "Looks like Maxwell pulled this page to the Unknown. Try exploring other pages."
+  },
+  "ServerErrorPage": {
+    "Title": "Error 500",
+    "SubTitle": "Server isn't avaliable",
+    "Description": "Oh, no, Willow set our server on fire! We'll put it out soon..."
+  }
+}

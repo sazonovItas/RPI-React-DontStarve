@@ -1,14 +1,15 @@
+import { Suspense } from "react";
 import "./App.css";
 import NotFoundPage from "./pages/404Page/404Page.tsx";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import { useDatabase } from "./Database.tsx";
+import ServerErrorPage from "./pages/500Page/500Page.tsx";
 
 function App() {
-  console.log(useDatabase());
   return (
     <Router>
       <div>
         <Routes>
+          <Route path="/RPI-React-DontStarve/" element={<ServerErrorPage />} />
           <Route path="*" element={<NotFoundPage />} />
         </Routes>
       </div>
@@ -16,4 +17,10 @@ function App() {
   );
 }
 
-export default App;
+export default function WrappedApp() {
+  return (
+    <Suspense fallback="Loading...">
+      <App />
+    </Suspense>
+  );
+}

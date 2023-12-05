@@ -7,9 +7,9 @@ export default defineConfig({
   base: "/RPI-React-DontStarve",
   resolve: {
     alias: {
-      src: "/src",
-      public: "/public",
-      assets: "/src/assets",
+      src: "/src/",
+      public: "/public/",
+      assets: "/src/assets/",
     },
   },
 });
