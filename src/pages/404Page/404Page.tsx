@@ -1,18 +1,18 @@
 import "./404Page.css";
 import background from "/images/backgrounds/NotFoundPage.png";
-import { useTranslation } from "react-i18next";
 import ErrorComponent from "../../components/ErrorComponent/ErrorComponent";
-import character from "../../assets/images/404NotFound/character.png";
+import character from "/images/404NotFound/character.png";
+import { useDatabase } from "../../db/DataContext";
 
 function NotFoundPage() {
-  const { t } = useTranslation();
+  const db = useDatabase();
 
   return (
     <>
       <ErrorComponent
-        Title={t("NotFoundPage.Title")}
-        SubTitle={t("NotFoundPage.SubTitle")}
-        Description={t("NotFoundPage.Description")}
+        Title={db.NotFoundPage.Title}
+        SubTitle={db.NotFoundPage.SubTitle}
+        Description={db.NotFoundPage.Description}
         Img={character}
         BackImg={background}
       />

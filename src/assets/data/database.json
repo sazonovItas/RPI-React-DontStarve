@@ -1,4 +1,71 @@
 {
-  "NotFoundPage": {},
-  "ServerErrorPage": {}
+  "en": {
+    "NotFoundPage": {
+      "Title": "Error 404",
+      "SubTitle": "Page not found",
+      "Description": "Looks like Maxwell pulled this page to the Unknown. Try exploring other pages."
+    },
+    "ServerErrorPage": {
+      "Title": "Error 500",
+      "SubTitle": "Server isn't avaliable",
+      "Description": "Oh, no, Willow sets our server on fire! We'll put it out soon..."
+    },
+    "Header": {},
+    "Characters": [
+      {
+        "ID": "wilson",
+        "Name": "Wilson",
+        "Phrase": "...",
+        "Background": "...",
+        "Description": "...",
+        "Percs": {
+          "Pros": [],
+          "Cons": [],
+          "General": []
+        },
+        "Tips": [],
+        "Quotes": [],
+        "Others": "...",
+        "StatsImg": "...",
+        "DayCharacterImg": "...",
+        "CharacterSkinsImg": "...",
+        "VideoLink": "...",
+        "Gallery": ["..."]
+      }
+    ]
+  },
+  "ru": {
+    "NotFoundPage": {
+      "Title": "Ошибка 404",
+      "SubTitle": "Страница не найдена",
+      "Description": "Похоже Максвелл утащил эту страницу в Постоянство. Возможно вам стоит посмотреть другие страницы."
+    },
+    "ServerErrorPage": {
+      "Title": "Ошибка 500",
+      "SubTitle": "Сервер недоступен",
+      "Description": "О нет, Уиллоу, подпалила наш сервер! Cкоро мы его потушим..."
+    },
+    "Characters": [
+      {
+        "ID": "wilson",
+        "Name": "Wilson",
+        "Phrase": "...",
+        "Background": "...",
+        "Description": "...",
+        "Percs": {
+          "Pros": [],
+          "Cons": [],
+          "General": []
+        },
+        "Tips": [],
+        "Quotes": [],
+        "Others": "...",
+        "StatsImg": "...",
+        "DayCharacterImg": "...",
+        "CharacterSkinsImg": "...",
+        "VideoLink": "...",
+        "Gallery": ["..."]
+      }
+    ]
+  }
 }

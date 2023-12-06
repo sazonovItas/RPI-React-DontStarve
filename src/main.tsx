@@ -1,13 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import WrappedApp from "./App.tsx";
+import App from "./App.tsx";
 import "./index.css";
-
-// import i18n (needs to be bundled)
-import "./i18n";
+import { DataProvider } from "./db/DataContext.tsx";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
-    <WrappedApp />
+    <DataProvider>
+      <App />
+    </DataProvider>
   </React.StrictMode>,
 );

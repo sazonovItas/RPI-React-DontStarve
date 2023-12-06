@@ -1,18 +1,19 @@
 import "./500Page.css";
 import background from "/images/backgrounds/ServerErrorPage.png";
-import { useTranslation } from "react-i18next";
 import ErrorComponent from "../../components/ErrorComponent/ErrorComponent";
-import character from "../../assets/images/500ServerError/character.png";
+import character from "/images/500ServerError/character.png";
+import { useDatabase } from "../../db/DataContext";
 
 function ServerErrorPage() {
-  const { t } = useTranslation();
+  const db = useDatabase();
+
   return (
     <>
       <ErrorComponent
+        Title={db.ServerErrorPage.Title}
+        SubTitle={db.ServerErrorPage.SubTitle}
+        Description={db.ServerErrorPage.Description}
         Img={character}
-        Title={t("ServerErrorPage.Title")}
-        SubTitle={t("ServerErrorPage.SubTitle")}
-        Description={t("ServerErrorPage.Description")}
         BackImg={background}
       />
     </>
