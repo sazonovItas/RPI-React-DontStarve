@@ -17,6 +17,7 @@
   text-align: center;
   flex-direction: column;
   justify-content: center;
+  max-width: 650px;
 }
 
 .img-container {

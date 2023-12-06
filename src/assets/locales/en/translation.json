@@ -7,6 +7,6 @@
   "ServerErrorPage": {
     "Title": "Error 500",
     "SubTitle": "Server isn't avaliable",
-    "Description": "Oh, no, Willow set our server on fire! We'll put it out soon..."
+    "Description": "Oh, no, Willow sets our server on fire! We'll put it out soon..."
   }
 }
