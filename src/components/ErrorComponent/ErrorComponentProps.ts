@@ -5,5 +5,6 @@ export interface ErrorPageProps {
   SubTitle: string;
   Description: string;
   Img: string;
+  BackImg: string;
   children?: React.ReactNode;
 }

@@ -3,6 +3,6 @@ export interface Database {
   ServerErrorPage: ServerErrorPage;
 }
 
-export interface NotFoundPage {}
+export interface NotFoundPage { }
 
-export interface ServerErrorPage {}
+export interface ServerErrorPage { }

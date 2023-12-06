@@ -7,12 +7,10 @@ import ServerErrorPage from "./pages/500Page/500Page.tsx";
 function App() {
   return (
     <Router>
-      <div>
-        <Routes>
-          <Route path="/RPI-React-DontStarve/" element={<ServerErrorPage />} />
-          <Route path="*" element={<NotFoundPage />} />
-        </Routes>
-      </div>
+      <Routes>
+        <Route path="/RPI-React-DontStarve/" element={<ServerErrorPage />} />
+        <Route path="*" element={<NotFoundPage />} />
+      </Routes>
     </Router>
   );
 }
