@@ -12,28 +12,46 @@
     },
     "Header": {
       "Logo": {
-        "Src": "images/logo.png",
+        "Src": "images/common/DontStarveLogo.png",
         "Alt": "Logo"
       },
       "Title": "Survivor Encyclopedia: Don't Starve Together Characters",
       "Menu": [
         {
           "Text": "Main",
-          "Url": "/RPI-React-DontStarve/"
-        },
-        {
-          "Text": "Character of the day",
-          "Url": "/RPI-React-DontStarve/#daycharacter"
+          "Url": "/RPI-React-DontStarve/#main"
         },
         {
           "Text": "Characters",
           "Url": "/RPI-React-DontStarve/Characters"
         },
         {
+          "Text": "Daily Character",
+          "Url": "/RPI-React-DontStarve/#dailycharacter"
+        },
+        {
           "Text": "Developers",
           "Url": "/RPI-React-DontStarve/#developers"
         }
       ]
+    },
+    "Footer": {
+      "Logo": {
+        "Src": "images/common/DontStarveLogo.png",
+        "Alt": "Logo"
+      },
+      "Title": "Survivor Encyclopedia: Don't Starve Together Characters",
+      "Menu": [
+        {
+          "Text": "Main",
+          "Url": "/RPI-React-DontStarve/#main"
+        },
+        {
+          "Text": "Developers",
+          "Url": "/RPI-React-DontStarve/#developers"
+        }
+      ],
+      "GithubLogo": "images/githublogo.png"
     },
     "Characters": [
       {
@@ -73,18 +91,18 @@
     },
     "Header": {
       "Logo": {
-        "Src": "images/logo.png",
+        "Src": "images/common/DontStarveLogo.png",
         "Alt": "Logo"
       },
       "Title": "Энциклопедия выживших: Персонажи Don't Starve Together",
       "Menu": [
         {
-          "Text": "Заглавная",
-          "Url": "/RPI-React-DontStarve/"
+          "Text": "Главная",
+          "Url": "/RPI-React-DontStarve/#main"
         },
         {
           "Text": "Персонаж дня",
-          "Url": "/RPI-React-DontStarve/#daycharacter"
+          "Url": "/RPI-React-DontStarve/#dailycharacter"
         },
         {
           "Text": "Персонажи",
@@ -95,6 +113,24 @@
           "Url": "/RPI-React-DontStarve/#developers"
         }
       ]
+    },
+    "Footer": {
+      "Logo": {
+        "Src": "images/common/DontStarveLogo.png",
+        "Alt": "Logo"
+      },
+      "Title": "Энциклопедия выживших: Персонажи Don't Starve Together",
+      "Menu": [
+        {
+          "Text": "Главная",
+          "Url": "/RPI-React-DontStarve/#main"
+        },
+        {
+          "Text": "Авторы",
+          "Url": "/RPI-React-DontStarve/#developers"
+        }
+      ],
+      "GithubLogo": "images/githublogo.png"
     },
     "Characters": [
       {

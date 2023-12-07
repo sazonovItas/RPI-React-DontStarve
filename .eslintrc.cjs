@@ -9,7 +9,7 @@ module.exports = {
   ignorePatterns: ["dist", ".eslintrc.cjs", "node_modules"],
   overrides: [
     {
-      files: ["*.ts", "*.tsx"],
+      files: ["*.ts", "*.tsx", "*.png"],
       rules: {
         "no-unused-vars": "off",
       },

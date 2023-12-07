@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import { ErrorPageProps } from "./ErrorComponentProps";
+import { ErrorPageProps } from "./ErrorComponentValidator";
 import "./ErrorComponent.css";
 
 function ErrorPage(props: ErrorPageProps) {

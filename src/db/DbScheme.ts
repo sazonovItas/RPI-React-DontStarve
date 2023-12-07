@@ -2,6 +2,7 @@ export interface Database {
   NotFoundPage: NotFoundPage;
   ServerErrorPage: ServerErrorPage;
   Header: Header;
+  Footer: Footer;
   Characters: Character[];
 }
 
@@ -21,6 +22,13 @@ export interface Header {
   Logo: Logo;
   Title: string;
   Menu: Menu[];
+}
+
+export interface Footer {
+  Logo: Logo;
+  Title: string;
+  Menu: Menu[];
+  GithubLogo: string;
 }
 
 export interface Character {

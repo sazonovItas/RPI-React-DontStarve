@@ -4,8 +4,6 @@
   min-width: 300px;
 
   display: flex;
-  align-self: center;
   flex-direction: column;
-
-  font-family: "DontStarveFont";
+  align-self: center;
 }

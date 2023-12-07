@@ -27,3 +27,27 @@
   cursor: pointer;
   transform: translateY(2px);
 }
+
+@media (max-width: 1320px) {
+  .LangBtn {
+    width: 30px;
+    height: 30px;
+  }
+}
+
+@media (max-width: 1100px) {
+  .LangBtn {
+    width: 25px;
+    height: 25px;
+  }
+}
+
+@media (max-width: 700px) {
+  .LangBtn {
+    width: 20px;
+    height: 20px;
+  }
+}
+
+@media (max-width: 530px) {
+}

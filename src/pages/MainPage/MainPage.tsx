@@ -1,5 +1,8 @@
 import { useEffect } from "react";
 import background from "/images/backgrounds/MainPage.png";
+import Header from "../../components/Layouts/Header/Header";
+import Footer from "../../components/Layouts/Footer/Footer";
+import "./MainPage.module.css";
 
 function MainPage() {
   useEffect(() => {
@@ -8,7 +11,14 @@ function MainPage() {
       body.style.backgroundImage = `url(${background})`;
     }
   });
-  return <></>;
+  return (
+    <>
+      <Header isFullWidth={true} />
+      <div className="main-container">
+        <Footer />
+      </div>
+    </>
+  );
 }
 
 export default MainPage;
