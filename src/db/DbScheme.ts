@@ -1,6 +1,7 @@
 export interface Database {
   NotFoundPage: NotFoundPage;
   ServerErrorPage: ServerErrorPage;
+  Header: Header;
   Characters: Character[];
 }
 
@@ -16,7 +17,11 @@ export interface ServerErrorPage {
   Description: string;
 }
 
-export interface Header { }
+export interface Header {
+  Logo: Logo;
+  Title: string;
+  Menu: Menu[];
+}
 
 export interface Character {
   ID: string;
@@ -41,4 +46,19 @@ export interface Percs {
   Pros: string[];
   Cons: string[];
   General: string[];
+}
+
+export interface Logo {
+  Src: string;
+  Alt: string;
+}
+
+export interface Button {
+  Text: string;
+  Url: string;
+}
+
+export interface Menu {
+  Text: string;
+  Url: string;
 }

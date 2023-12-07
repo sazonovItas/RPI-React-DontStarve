@@ -1,0 +1,58 @@
+.header-container {
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+}
+
+.header-title {
+  color: #070707;
+
+  font-family: "DontStarveFont";
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 75%; /* 36.842% */
+}
+
+.header-description {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo {
+  max-width: 154px;
+  max-height: 148px;
+}
+
+@media (max-width: 1320px) {
+  .header-title {
+    font-size: 48px;
+    line-height: 100%;
+  }
+  .logo {
+    max-width: 129px;
+    max-height: 113px;
+  }
+}
+
+@media (max-width: 880px) {
+  .header-title {
+    font-size: 30px;
+    line-height: 100%;
+  }
+  .logo {
+    max-width: 89px;
+    max-height: 80px;
+  }
+}
+
+@media (max-width: 450px) {
+  .header-title {
+    font-size: 24px;
+    line-height: 100%;
+  }
+  .logo {
+    max-width: 45px;
+    max-height: 42px;
+  }
+}

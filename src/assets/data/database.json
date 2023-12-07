@@ -10,7 +10,31 @@
       "SubTitle": "Server isn't avaliable",
       "Description": "Oh, no, Willow sets our server on fire! We'll put it out soon..."
     },
-    "Header": {},
+    "Header": {
+      "Logo": {
+        "Src": "images/logo.png",
+        "Alt": "Logo"
+      },
+      "Title": "Survivor Encyclopedia: Don't Starve Together Characters",
+      "Menu": [
+        {
+          "Text": "Main",
+          "Url": "/RPI-React-DontStarve/"
+        },
+        {
+          "Text": "Character of the day",
+          "Url": "/RPI-React-DontStarve/#daycharacter"
+        },
+        {
+          "Text": "Characters",
+          "Url": "/RPI-React-DontStarve/Characters"
+        },
+        {
+          "Text": "Developers",
+          "Url": "/RPI-React-DontStarve/#developers"
+        }
+      ]
+    },
     "Characters": [
       {
         "ID": "wilson",
@@ -30,7 +54,9 @@
         "DayCharacterImg": "...",
         "CharacterSkinsImg": "...",
         "VideoLink": "...",
-        "Gallery": ["..."]
+        "Gallery": [
+          "..."
+        ]
       }
     ]
   },
@@ -45,6 +71,31 @@
       "SubTitle": "Сервер недоступен",
       "Description": "О нет, Уиллоу, подпалила наш сервер! Cкоро мы его потушим..."
     },
+    "Header": {
+      "Logo": {
+        "Src": "images/logo.png",
+        "Alt": "Logo"
+      },
+      "Title": "Энциклопедия выживших: Персонажи Don't Starve Together",
+      "Menu": [
+        {
+          "Text": "Заглавная",
+          "Url": "/RPI-React-DontStarve/"
+        },
+        {
+          "Text": "Персонаж дня",
+          "Url": "/RPI-React-DontStarve/#daycharacter"
+        },
+        {
+          "Text": "Персонажи",
+          "Url": "/RPI-React-DontStarve/Characters"
+        },
+        {
+          "Text": "Авторы",
+          "Url": "/RPI-React-DontStarve/#developers"
+        }
+      ]
+    },
     "Characters": [
       {
         "ID": "wilson",
@@ -64,7 +115,9 @@
         "DayCharacterImg": "...",
         "CharacterSkinsImg": "...",
         "VideoLink": "...",
-        "Gallery": ["..."]
+        "Gallery": [
+          "..."
+        ]
       }
     ]
   }
