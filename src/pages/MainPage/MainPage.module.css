@@ -1,7 +1,9 @@
 .main-container {
   width: 100%;
-  max-width: 1600px;
+  max-width: 1280px;
   min-width: 300px;
+
+  background-image: url("/images/backgrounds/ground.png");
 }
 
 .header-container {

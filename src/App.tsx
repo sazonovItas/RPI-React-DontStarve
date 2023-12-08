@@ -8,11 +8,11 @@ function App() {
     <Router>
       <Routes>
         <Route path="/RPI-React-DontStarve/" element={<MainPage />} />
-        <Route path="/RPI-React-DontStarve/:id" element={<NotFoundPage />} />
         <Route
           path="/RPI-React-DontStarve/Characters"
           element={<NotFoundPage />}
         />
+        <Route path="/RPI-React-DontStarve/:id" element={<NotFoundPage />} />
         <Route path="*" element={<NotFoundPage />} />
       </Routes>
     </Router>

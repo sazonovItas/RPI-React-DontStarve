@@ -1,4 +1,142 @@
+.footer-container {
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
 .Hands {
   width: 100%;
-  height: 100%;
+}
+
+.footer-title-container {
+  padding: 0 0 0 35px;
+
+  display: flex;
+}
+
+.footer-title {
+  padding: 20px 0 0 0;
+
+  max-width: 280px;
+  text-align: left;
+
+  font-family: "DontStarveFont";
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 87.6%;
+
+  color: #fff;
+}
+
+.footer-logo {
+  padding: 5px 5px 10px 10px;
+  max-width: 90px;
+  max-height: 87px;
+}
+
+.footer-githublogo {
+  max-width: 35px;
+  max-height: 35px;
+
+  padding: 35px 15px 0 0;
+}
+
+.footer-description-container {
+  width: 100%;
+
+  display: flex;
+  justify-content: space-between;
+
+  background: #000;
+}
+
+.footer-Menu-H {
+  display: flex;
+  gap: 10px;
+}
+
+.footer-Item-Menu-H {
+  padding: 40px 10px 0 10px;
+
+  font-family: "DontStarveFont";
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 87.6%;
+  text-decoration: none;
+  color: #fff;
+}
+
+.footer-Item-Menu-H:hover {
+  text-shadow: 0px 0px 7px #fff;
+  cursor: pointer;
+}
+
+@media (max-width: 880px) {
+  .footer-title-container {
+    padding: 0 0 0 20px;
+  }
+
+  .footer-logo {
+    padding: 5px 5px 10px 10px;
+    max-width: 75px;
+    max-height: 65px;
+  }
+
+  .footer-title {
+    padding: 15px 0 0 0;
+    font-size: 20px;
+    max-width: 200px;
+  }
+
+  .footer-githublogo {
+    max-width: 25px;
+    max-height: 25px;
+
+    padding: 25px 5px 0 0;
+  }
+
+  .footer-Item-Menu-H {
+    padding: 30px 8px 0 8px;
+    font-size: 20px;
+  }
+
+  .footer-Menu-H {
+    gap: 5px;
+  }
+}
+
+@media (max-width: 550px) {
+  .footer-title-container {
+    padding: 0 0 0 10px;
+    max-width: 180px;
+  }
+
+  .footer-logo {
+    padding: 5px 5px 10px 10px;
+    max-width: 40px;
+    max-height: 40px;
+  }
+
+  .footer-title {
+    padding: 10px 0 0 0;
+    font-size: 15px;
+    max-width: 200px;
+  }
+
+  .footer-Item-Menu-H {
+    padding: 20px 5px 0 5px;
+    font-size: 15px;
+  }
+
+  .footer-Menu-H {
+    gap: 5px;
+  }
+
+  .footer-githublogo {
+    display: none;
+  }
 }

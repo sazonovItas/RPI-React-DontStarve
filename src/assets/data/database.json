@@ -51,7 +51,7 @@
           "Url": "/RPI-React-DontStarve/#developers"
         }
       ],
-      "GithubLogo": "images/githublogo.png"
+      "GithubLogo": "images/common/githublogo.png"
     },
     "Characters": [
       {
@@ -72,9 +72,7 @@
         "DayCharacterImg": "...",
         "CharacterSkinsImg": "...",
         "VideoLink": "...",
-        "Gallery": [
-          "..."
-        ]
+        "Gallery": ["..."]
       }
     ]
   },
@@ -130,7 +128,7 @@
           "Url": "/RPI-React-DontStarve/#developers"
         }
       ],
-      "GithubLogo": "images/githublogo.png"
+      "GithubLogo": "images/common/githublogo.png"
     },
     "Characters": [
       {
@@ -151,9 +149,7 @@
         "DayCharacterImg": "...",
         "CharacterSkinsImg": "...",
         "VideoLink": "...",
-        "Gallery": [
-          "..."
-        ]
+        "Gallery": ["..."]
       }
     ]
   }

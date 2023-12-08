@@ -33,7 +33,7 @@
   max-width: 375px;
 }
 
-h1 {
+.Error-title {
   color: #fcfcfc;
   text-align: center;
   font-family: "DontStarveFont";
@@ -42,7 +42,7 @@ h1 {
   font-weight: 400;
 }
 
-h2 {
+.Error-subtitle {
   color: #fcfcfc;
   text-align: center;
   font-family: "DontStarveFont";
@@ -51,7 +51,7 @@ h2 {
   font-weight: 400;
 }
 
-p {
+.Error-desc {
   color: #683f0e;
   text-align: center;
   font-family: "DontStarveFont";
@@ -76,15 +76,15 @@ p {
     justify-content: center;
   }
 
-  h1 {
+  .Error-title {
     font-size: 54px;
   }
 
-  h2 {
+  .Error-subtitle {
     font-size: 24px;
   }
 
-  p {
+  .Error-desc {
     max-width: 370px;
 
     font-size: 27px;
@@ -115,15 +115,15 @@ p {
     flex-direction: column;
   }
 
-  h1 {
+  .Error-title {
     font-size: 54px;
   }
 
-  h2 {
+  .Error-subtitle {
     font-size: 24px;
   }
 
-  p {
+  .Error-desc {
     max-width: 370px;
 
     padding: 0 5px 0 5px;

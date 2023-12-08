@@ -16,9 +16,9 @@ function ErrorPage(props: ErrorPageProps) {
           <img className="img" src={props.Img} alt="ErrorImg" />
         </div>
         <div className="desc-container">
-          <h1>{props.Title}</h1>
-          <h2>{props.SubTitle}</h2>
-          <p>{props.Description}</p>
+          <h1 className="Error-title">{props.Title}</h1>
+          <h2 className="Error-subtitle">{props.SubTitle}</h2>
+          <p className="Error-desc">{props.Description}</p>
         </div>
       </div>
     </>
