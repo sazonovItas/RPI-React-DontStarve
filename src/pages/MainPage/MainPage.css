@@ -3,5 +3,8 @@
   max-width: 1280px;
   min-width: 300px;
 
+  display: flex;
+  flex-direction: column;
+
   background-image: url("/images/backgrounds/ground.png");
 }

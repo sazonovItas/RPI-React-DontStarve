@@ -11,6 +11,7 @@ function Intro(props: IntroProps) {
             width={"90%"}
             text={props.Title}
             backColor={"#3C2F28"}
+            fontColor={"#FFF"}
           />
         </div>
         <p className="Intro-description">{props.Desc}</p>

@@ -61,6 +61,35 @@
       "Update": {
         "Img": "images/MainPage/Update.png",
         "Desc": "Don't Starve Together update “Host of Horros” is already avaliable!"
+      },
+      "Authors": {
+        "Title": "Developers",
+        "Developers": [
+          {
+            "Logo": {
+              "Src": "images/MainPage/0TheThing0.png",
+              "Alt": "0TheThing0"
+            },
+            "Nick": "Ilya Markouwski",
+            "Link": "https://github.com/0TheThing0"
+          },
+          {
+            "Logo": {
+              "Src": "images/MainPage/GGQwerty.png",
+              "Alt": "GGQwerty"
+            },
+            "Nick": "Vitalya Lapus",
+            "Link": "https://github.com/GGqwerty"
+          },
+          {
+            "Logo": {
+              "Src": "images/MainPage/sazonovItas.png",
+              "Alt": "sazonovItas"
+            },
+            "Nick": "Alex Sazonov",
+            "Link": "https://github.com/sazonovItas"
+          }
+        ]
       }
     },
     "Characters": [
@@ -75,7 +104,9 @@
             "Wilson have a skill tree",
             "Wilson one of the most balanced character"
           ],
-          "Cons": ["No cons"],
+          "Cons": [
+            "No cons"
+          ],
           "General": [
             "Wilson grows a beard that protects against freezing, but slows down cooling when overheated"
           ]
@@ -183,8 +214,12 @@
             "Capable of restoring sanity without additional means (+6.7/min)",
             "Does not cost Sanity when equipping Armor of Night, Darksaber, Dreadstone Armor, Dreadstone Helm, Void Robe, Void Hood, and Shadow Reaper"
           ],
-          "Cons": ["Physically weak: has only 75 health units."],
-          "General": ["Can use Wickerbottom books, but not create them."]
+          "Cons": [
+            "Physically weak: has only 75 health units."
+          ],
+          "General": [
+            "Can use Wickerbottom books, but not create them."
+          ]
         },
         "Tips": [
           "Mage is the main role in Maxwell's priority. Starting the game with a Tome of Petrification, Maxwell must neutralize small groups of enemy warriors, turning them to stone. Pairs especially well with Wickerbottom in a team, allowing the use of 2 volumes of petrification. Once the Hellstaff drops, Maxwell can either wield it for the rest of the match, dealing significant damage with his duelists, or alternate it with the Summon Tome, setting up Golems for more firepower",
@@ -276,6 +311,35 @@
       "Update": {
         "Img": "images/MainPage/Update.png",
         "Desc": "Обновление Don't Starve Together “Host of Horros” уже вышло!"
+      },
+      "Authors": {
+        "Title": "Авторы",
+        "Developers": [
+          {
+            "Logo": {
+              "Src": "images/MainPage/0TheThing0.png",
+              "Alt": "0TheThing0"
+            },
+            "Nick": "Илья Марковский",
+            "Link": "https://github.com/0TheThing0"
+          },
+          {
+            "Logo": {
+              "Src": "images/MainPage/GGQwerty.png",
+              "Alt": "GGQwerty"
+            },
+            "Nick": "Виталий Лапусь",
+            "Link": "https://github.com/GGqwerty"
+          },
+          {
+            "Logo": {
+              "Src": "images/MainPage/sazonovItas.png",
+              "Alt": "sazonovItas"
+            },
+            "Nick": "Алексей Сазонов",
+            "Link": "https://github.com/sazonovItas"
+          }
+        ]
       }
     },
     "Characters": [
@@ -290,7 +354,9 @@
             "У Уилсона есть древо навыков",
             "Уилсон один из самых сбалансированных персонажей"
           ],
-          "Cons": ["Нет недостатков"],
+          "Cons": [
+            "Нет недостатков"
+          ],
           "General": [
             "Уилсон отращивает бороду, которая защищает от замерзания, но замедляет охлаждение при перегреве"
           ]
@@ -399,7 +465,9 @@
             "Способен восстанавливать рассудок без дополнительных средств (+6.7/мин)",
             "Не тратит рассудок при экипировке брони ночи, тёмного меча, брони из камня ужаса, шлема из камня ужаса, мантии пустоты, капюшона пустоты и теневого жнеца"
           ],
-          "Cons": ["Слаб физически: имеет всего 75 единиц здоровья"],
+          "Cons": [
+            "Слаб физически: имеет всего 75 единиц здоровья"
+          ],
           "General": [
             "Может использовать книги Уикерботтом, но не создавать их"
           ]

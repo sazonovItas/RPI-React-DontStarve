@@ -5,6 +5,8 @@ import Footer from "../../components/Layouts/Footer/Footer";
 import "./MainPage.css";
 import Intro from "./Components/Intro/Intro";
 import { useDatabase } from "../../db/DataContext";
+import Update from "./Components/Update/Update";
+import Developers from "./Components/Developers/Developers";
 
 function MainPage() {
   const db = useDatabase();
@@ -19,6 +21,8 @@ function MainPage() {
       <Header isFullWidth={true} />
       <div className="main-container">
         <Intro Title={db.MainPage.Intro.Title} Desc={db.MainPage.Intro.Desc} />
+        <Update Img={db.MainPage.Update.Img} Desc={db.MainPage.Update.Desc} />
+        <Developers Developers={db.MainPage.Authors} />
         <Footer />
       </div>
     </>

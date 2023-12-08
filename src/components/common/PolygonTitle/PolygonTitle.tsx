@@ -11,7 +11,12 @@ function PolygonTitle(props: PolygonTitleProps) {
           backgroundColor: `${props.backColor}`,
         }}
       >
-        <p className="PolygonTitle-text">{props.text}</p>
+        <p
+          className="PolygonTitle-text"
+          style={{ color: `${props.fontColor}` }}
+        >
+          {props.text}
+        </p>
       </div>
     </>
   );
