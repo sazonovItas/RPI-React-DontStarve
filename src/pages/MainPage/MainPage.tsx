@@ -2,9 +2,12 @@ import { useEffect } from "react";
 import background from "/images/backgrounds/MainPage.png";
 import Header from "../../components/Layouts/Header/Header";
 import Footer from "../../components/Layouts/Footer/Footer";
-import "./MainPage.module.css";
+import "./MainPage.css";
+import Intro from "./Components/Intro/Intro";
+import { useDatabase } from "../../db/DataContext";
 
 function MainPage() {
+  const db = useDatabase();
   useEffect(() => {
     const body = document.body;
     if (body != null) {
@@ -15,6 +18,7 @@ function MainPage() {
     <>
       <Header isFullWidth={true} />
       <div className="main-container">
+        <Intro Title={db.MainPage.Intro.Title} Desc={db.MainPage.Intro.Desc} />
         <Footer />
       </div>
     </>

@@ -53,26 +53,164 @@
       ],
       "GithubLogo": "images/common/githublogo.png"
     },
+    "MainPage": {
+      "Intro": {
+        "Title": "Welcome to Survivor Encyclopedia Don't Starve Together!",
+        "Desc": "Welcome to our website dedicated to the characters of the game Don't starve together! Here you will find a detailed description of each hero, their unique features, strengths and weaknesses, and tips for use. We have collected useful information for you that help you choose the right character, master it and successfully survive in a dangerous world Don't Starve Together."
+      },
+      "Update": {
+        "Img": "images/MainPage/Update.png",
+        "Desc": "Don't Starve Together update “Host of Horros” is already avaliable!"
+      }
+    },
     "Characters": [
       {
         "ID": "wilson",
         "Name": "Wilson",
-        "Phrase": "...",
-        "Background": "...",
-        "Description": "...",
+        "Phrase": "I will conquer it all with the power of my MIND!",
+        "Background": "Late one evening, while working in his home laboratory, Wilson was stunned to hear a voice from the radio speaking directly to him. At first he was overcome by the fear that he had gone crazy from too many late experiments or from chemical fumes that he might accidentally inhale. But the voice assured that he was not just a figment of the imagination. Moreover, the voice voiced a proposal to the scientist: if Wilson builds a machine according to all the rules, then his reward will be forbidden knowledge that no one has ever seen before. Leaving all his sanity aside (what harm can suspicious transactions with mysterious disembodied voices do, after all?), Wilson immediately began creating the machine. When it was finally completed, the scientist began to have a bit of doubt... something that could have saved him from his impending fate if he had had a stronger will. But the voice insisted, and Wilson turned the lever, activating his creation... and it was never seen again.",
+        "Description": "Wilson (full name - Wilson Percival Higgsbury) is the first and main character, a kind of calling card of the game Don't Starve. He is a fearless but rather arrogant gentleman scientist who is captured by Maxwell and taken to a mysterious wild world in which he must survive.",
         "Percs": {
-          "Pros": [],
-          "Cons": [],
-          "General": []
+          "Pros": [
+            "Wilson have a skill tree",
+            "Wilson one of the most balanced character"
+          ],
+          "Cons": ["No cons"],
+          "General": [
+            "Wilson grows a beard that protects against freezing, but slows down cooling when overheated"
+          ]
         },
-        "Tips": [],
-        "Quotes": [],
-        "Others": "...",
-        "StatsImg": "...",
-        "DayCharacterImg": "...",
-        "CharacterSkinsImg": "...",
-        "VideoLink": "...",
-        "Gallery": ["..."]
+        "Tips": [
+          "Wilson is most comfortable building meat decoys because he doesn't have to hunt harebeards and rabbitbeards.",
+          "A beard is an excellent source of fuel.",
+          "Without any downsides, Wilson is equally effective in almost all situations."
+        ],
+        "Quotes": [
+          "Normal: “Star-atoms! Are you my double?”",
+          "Attacker: “Oh my god. Do I always look this creepy?”",
+          "Assassin: “Your existence violates the laws of science, (player)!”",
+          "Resurrectionist: “(The player) is excellent at putting theories into practice.”",
+          "Ghost: “It`s better to concoct a means of resurrection. I can`t leave another scientist hanging.”",
+          "Pyro: “It wasn't very scientific to burn it, (player).”"
+        ],
+        "Others": "Wilson is just over 30 years old, as Klei wrote on their Facebook. According to some players, Wilson is wearing what appears to be a long-sleeved T-shirt or glove under his shirt; however, this is nothing more than speculation. According to official information, the black “sleeves“ are actually shading added for added contrast.Wilson may have a medical background. This is hinted at by his ability to revive allies faster in The Forge, the quote when examining the wooden leg, and his costume in The Gorge, where he is depicted as a doctor. Based on the quotes, Wilson seems to care a lot about his hair. Wilson had a nanny, as evidenced by his quote when examining Mumzy. Suffers from arachnophobia. His field notes exist in which he described his adventures in Persistence. A thick beard also protects against the cold: the stubble and beard are very weak, but a thick beard is a little better than a winter hat. Wilson's last name is Higgsbury, possibly a reference to the famous Higgs boson. Lefty; Possibly ambidextrous. Gentleman Scientist is a special social status that was assigned to a person with an academic degree who conducts independent research work. Research could be ordered - and, accordingly, financed - by the university to which the scientist belonged, or it could be a personal initiative and financed from personal funds; in such cases, the scientist usually had a private source of income (for example, dividends) and conducted research on topics of personal interest to him. The most famous gentlemen scientists are Thomas Jefferson, Antoine Lavoisier, Charles Darwin and others. Seven seconds into the “The Forbidden Knowledge“ video, a “GENIUS AT WORK“ sign can be seen nailed to the fence of Wilson's home. While being the ruler of Permanence, Wilson did not increase in size, although the other two rulers (Maxwell and Charlie) grew taller than other characters. This link provides access to Wilson's workshop, where Maxwell's door still stands. If you pull down the switch, the door will open and redirect you to a hidden page where you can see a message from Maxwell and concept art for the game. Team Fortress 2 featured a headdress based on Wilson's hairstyle. Before the August 7, 2012 update, Wilson had a different sprite. You can read Wilson's remarks here.",
+        "StatsImg": "images/Characters/Wilson/en/Character_Card.png",
+        "DayCharacterImg": "images/Characters/Wilson/Daily/Character.png",
+        "CharacterSkinsImg": "images/Characters/Wilson/Daily/Skins.png",
+        "VideoLink": "https://www.youtube.com/watch?v=A-A9RM0jdwo",
+        "Gallery": [
+          "images/Characters/Wilson/Galery/Sleep.png",
+          "images/Characters/Wilson/Galery/Portret.png",
+          "images/Characters/Wilson/Galery/Ghost.png",
+          "images/Characters/Wilson/Galery/Meme.png"
+        ]
+      },
+      {
+        "ID": "wormwood",
+        "Name": "Wormwood",
+        "Phrase": "Hello friend?",
+        "Background": "In one of the dimensions of Permanence with a wild jungle, a strange green gem fell from the “moon” (not to be confused with a green gem!), which gave life to a plant sprout. The newborn Wormwood is trying to figure out who he is. Butterfly? Maybe a bird? No, it doesn't look like it. Or maybe a dog? But no, he only scares all the little animals. A lonely Wormwood goes to sleep under the root of one of its inanimate relatives, after which flowers bloom on it, like on other plants.",
+        "Description": "Wormwood is a character initially available in Don't Starve: Hamlet, as well as one of the paid characters in Don't Starve Together, but will be unlocked if the player has already purchased the Hamlet DLC.",
+        "Percs": {
+          "Pros": [
+            "Gifted gardener. Can plant seeds in the ground without using beds",
+            "Plants are relatives. Restores sanity by planting seeds, pine cones, sea roots, and dug up plants",
+            "Eyeflowers and angry bees are neutral to it",
+            "Loves fertilizers",
+            "Can talk to planted vegetables and fruits, learning at the same time what they need",
+            "Fire Nettle and Prickly Bindweed have no negative effects on Wormwood",
+            "During flowering, it gives plants care when it is nearby",
+            "Doesn't go crazy when wet",
+            "It can independently cause flowering in any season"
+          ],
+          "Cons": [
+            "Loses his mind due to cutting down and burning trees, picking flowers and digging up plants. This does not apply to trees that have already been burned",
+            "If characters or creatures near Wormwood negatively affect plants, Wormwood receives a negative aura to sanity",
+            "Like most plants, when in contact with an open flame, it can catch fire, which is why, in addition to damage from fire, it will also receive damage from burning. It may even catch fire from a strong fire or lightning strike. In the summer it may begin to smolder and then catch fire",
+            "Takes 25% more fire damage and burns longer than other characters",
+            "Seeds planted in bare soil will not grow into huge fruits"
+          ],
+          "General": [
+            "Has a special “Gift of Gardening“ tab",
+            "Food restores satiety, but does not affect health in any way - neither positively nor negatively",
+            "It blooms in the spring, which affects its movement speed and fasting rate. Details below"
+          ]
+        },
+        "Tips": [
+          "No matter how unpleasant it may be for Wormwood, logs are a very important resource for successful survival in the harsh world of Permanence, and in the world of the pig village, traffic jam is also important. Sanity also decreases when digging up stumps. At first, sanity for fallen brothers can be restored by studying recipes; later the rule “Cut down a tree, plant two” comes into play",
+          "Since planting grass restores 10 Sanity and digging up removes 5, you can restore your Sanity by planting and digging up one grass bush, sapling, or thorny bush. A good way to convert twigs and flint (or gold) into sanity",
+          "Sanity can also be restored by planting seeds - this increases it by only 5, i.e. weaker than when planting trees and bushes, but seeds are found in abundance, cost nothing and are added to 40 per cell - thanks to this, a cell with seeds serves as an excellent a means of compensation for any extreme decline in sanity - for example, when harvesting logs from trees that do not produce planting material, such as chestnut birches in winter or gnarled spruce trees",
+          "Due to the fact that sanity also drops when plants are destroyed by bosses, additional problems may unexpectedly arise when encountering a boss in a dense forest. Mass harvesting of logs by the pursuing boss, which is available to other characters, is a bad decision for Wormwood. Walking through the dense jungles of the Hamlet worlds is safer for Wormwood than for other characters. Of course, this is the place of his birth",
+          "Wormwood's toothy relatives can save him from periodic attacks by swarms of vampire bats. However, getting prey from the winged ones is problematic, since the tooth-eaters also want the carcass",
+          "It is much more convenient to create leafy meat farms from bait flowers, without the help of man-made turf",
+          "Pick up any seeds you find. More seeds means more potential food for Wormwood in the future without much effort. It is especially useful during the flowering season, spring or monsoon season. In addition, like plants in beds, plants grown by Wormwood on bare soil do not spoil in winter, which makes it possible to prepare them for the winter in this form",
+          "On the one hand, this is a very strong blow to the guts of the usual gameplay. A huge number of dishes from the cauldron lose their charm: where any other character can cancel the spider's damage by eating a frog sandwich, Wormwood will have to rely on other methods of treatment, for example, healing ointment",
+          "On the other hand, Wormwood can eat monster meat, monster lasagna and other junk food without harm to health (sanity is still reduced). In addition, raw red mushrooms can be eaten instead of carrots",
+          "Choose a base location close to the city of pigs, spider monkeys (Hamlet), beefalo, mouseliks (RoG), sneaky primates, water beefalo (SW) to constantly have access to dung",
+          "Thanks to Wormwood's immunity to allergies, you no longer have to worry about finding nettles, a gas mask, or a fan! You can spend this time on other things"
+        ],
+        "Quotes": [
+          "Normal: “Looking great, buddy!”",
+          "Attacker: “Why are you behaving badly, (player)?”",
+          "Assassin: “(Player), no! It is forbidden!”",
+          "Resurrectionist: “(Player) makes friends better!”",
+          "Ghost: “Oh. (player), is that you?”",
+          "Pyro: “Why make so much fire?!”"
+        ],
+        "Others": "You can find Wormwood's replicas here. Wormwood was added to the Hamlet DLC on February 7, 201Added to Don't Starve Together on June 6, 201Wormwood's voice is a didgeridoo. His name, Wormwood, translates to “wormwood“ in English. In the DLC, Hamlet has a unique font and phrase color. The font was transferred to DST, but the color became standard, because each player in the chat has its own random color. Appears surrounded by stones, instead of a balloon, which is more useful in terms of resources. Maxameleon also has a different dialogue with him. If any other creature starts a fire while Wormwood stands nearby, its sanity will also decrease. Has a special item creation animation when creating a living log. Special animations do not work if the character is in a boat. If the character has 20 health units left, you cannot kill yourself by creating a living log, since there will be one unit left. Dung, guano and a bucket of fertilizer restore two health points to Wormwood. If the fertilizer bucket is completely used in this way, you can get a total of 10 health units. Before Wormwood was officially released into the game, animations of Wormwood with a different design were found in the files.",
+        "StatsImg": "images/Characters/Wormwood/en/Character_Card.png",
+        "DayCharacterImg": "images/Characters/Wormwood/Daily/Character.png",
+        "CharacterSkinsImg": "images/Characters/Wormwood/Daily/Skins.png",
+        "VideoLink": "https://www.youtube.com/watch?v=4hugrMLgDsQ",
+        "Gallery": [
+          "images/Characters/Wormwood/Galery/Sleep.png",
+          "images/Characters/Wormwood/Galery/Portret.png",
+          "images/Characters/Wormwood/Galery/Ghost.png",
+          "images/Characters/Wormwood/Galery/Meme.png"
+        ]
+      },
+      {
+        "ID": "maxwell",
+        "Name": "Maxwell",
+        "Phrase": "Freedom, at last!",
+        "Background": "The former king of the nightmare throne and also an egoist. Maxwell (who took his name from his former stage persona “The Incredible Maxwell“) was once the naive “William Carter“, a poor man from London who dreamed of becoming a world-famous magician. The moment fate handed William the Umbra Codex, he felt real power for the first time in his life. Having abandoned his old habits and fully embraced his new identity as a charismatic master of dark magic, Maxwell achieved fame and success, but it was not enough for him. As he delved deeper and deeper into his magical tome, studying its secrets, dark knowledge stupefied his mind and clouded his heart. In his final performance, Maxwell lost control of the black magic he had so brazenly used, and both he and his assistant Charlie were drawn into the Persistence. There he would remain for what seemed like an eternity, tied to a nightmare throne and forced to lure more and more victims into the Persistence trap. He's still haunted by the thought that someone he tricked into this world might find it in their hearts to set him free... and it irritates him greatly. He never liked being in debt.",
+        "Description": "Maxwell (also known as ”The Demon” and William Carter) is the main antagonist in Don't Starve, appearing as a non-playable character. Subsequently, he can be unlocked as a playable character, and in Don't Starve Together he is initially such, in the mobile version the DLC is available immediately. Has unique abilities closely related to shadow magic.",
+        "Percs": {
+          "Pros": [
+            "He can create his own doubles, capable of doing various jobs and fighting for him",
+            "Can protect itself with shadow traps",
+            "Has access to the creation of a cabinet and a magician's top hat, which share the same inventory",
+            "Capable of restoring sanity without additional means (+6.7/min)",
+            "Does not cost Sanity when equipping Armor of Night, Darksaber, Dreadstone Armor, Dreadstone Helm, Void Robe, Void Hood, and Shadow Reaper"
+          ],
+          "Cons": ["Physically weak: has only 75 health units."],
+          "General": ["Can use Wickerbottom books, but not create them."]
+        },
+        "Tips": [
+          "Mage is the main role in Maxwell's priority. Starting the game with a Tome of Petrification, Maxwell must neutralize small groups of enemy warriors, turning them to stone. Pairs especially well with Wickerbottom in a team, allowing the use of 2 volumes of petrification. Once the Hellstaff drops, Maxwell can either wield it for the rest of the match, dealing significant damage with his duelists, or alternate it with the Summon Tome, setting up Golems for more firepower",
+          "The role of a healer is not the best choice for Maxwell, because... Maxwell does not have any advantages for healing, and shadow clones are summoned from the staff of life very rarely due to its low damage (before meeting mini-bosses, they may never be summoned at all due to the death of targets before causing a total damage of 300 units)",
+          "Due to his low health points, Maxwell should equip Greater Silk Armor in the mid-game, both to increase his maximum health and to allow his magic weapon's special abilities to recharge faster",
+          "In addition, clones disrupt attacks against small enemy units"
+        ],
+        "Quotes": [
+          "Normal: “What a neat guy!”",
+          "Attacker: “I'm familiar with this look, (player). What are you up to?”",
+          "Assassin: “Old habits need to be broken... just like you!”",
+          "Resurrectionist: “Just rely on yourself, huh, (player)?”",
+          "Ghost: “I must pay in blood to bring you back, (player).”",
+          "Pyro: “Don't blow it up on us, (player).”"
+        ],
+        "Others": "Maxwell was added as a playable character with the ”The End of the Beginning” update. And with the update ”All's Well that Maxwell” I received the Umbra Codex. Initially, in the guise of the antagonist, his head was supposed to be smaller. This texture and its animations are still in the game files. In very early versions, he was much older than he is represented in the game, he was hunchbacked and fat, and also wore a top hat. Despite the fact that Maxwell is only one of the three known rulers of Permanence (the other two are Charlie and Wilson), he can easily be considered the main antagonist of the franchise, because it was because of him and his games with dark magic that this whole story began. Maxwell's voice sounds like a harmonium. The proportions of the game character are noticeably different from the proportions of Maxwell, who appears at the start of the game. In Adventure mode, he is dressed differently than throughout the rest of the game. Maxwell was the first to mention Charlie. When he had phrases associated with her, no one yet knew what kind of character he was. Maxwell loves chess. Judging by the Wolfgang animation, he wore glasses for a while. As with Charlie, Maxwell's exact height is unknown. It varies in cinematics and from form to form in Adventure mode; it is especially worth noting the huge head of the antagonist hanging over Wilson's house in one of the cinematics. It is possible that Maxwell simply knows how to change his appearance, at least in the role of an antagonist. Unlike other characters, Maxwell differs significantly from himself in the cinematics and in the game, both in his villainous form and in his character form. Created his statues in the world. Klei created a very large puzzle for the players, as a result of which a story was revealed to everyone, which caused a lot of emotions. The complete solution to this puzzle is here. When Maxwell appears in the normal world, he says the line: “Freedom, at last!” (“Freedom, finally!”). You can use the console to summon his huge head, but judging by the character quotes, this is a mock-up. Using the console, you can summon Maxwell himself using the DebugSpawn(”maxwell”) command, and the model of Maxwell that appears when you start the game with any character except Maxwell himself will appear. The characters can examine it. In the game code it is written as Waxwell.",
+        "StatsImg": "images/Characters/Maxwell/en/Character_Card.png",
+        "DayCharacterImg": "images/Characters/Maxwell/Daily/Character.png",
+        "CharacterSkinsImg": "images/Characters/Maxwell/Daily/Skins.png",
+        "VideoLink": "https://www.youtube.com/watch?v=A35X4h590Ek",
+        "Gallery": [
+          "images/Characters/Maxwell/Galery/Sleep.png",
+          "images/Characters/Maxwell/Galery/Portret.png",
+          "images/Characters/Maxwell/Galery/Ghost.png",
+          "images/Characters/Maxwell/Galery/Meme.png"
+        ]
       }
     ]
   },
@@ -130,26 +268,167 @@
       ],
       "GithubLogo": "images/common/githublogo.png"
     },
+    "MainPage": {
+      "Intro": {
+        "Title": "Добро пожаловать на энциклопедию Don't Starve Together!",
+        "Desc": "Приветствуем на нашем сайте, посвященном персонажам игры Don't Starve Together! Здесь вы найдете подробные описания каждого героя, их уникальные особенности, сильные и слабые  стороны, а также советы по использованию. Мы собрали для вас полезную информацию, которая поможет вам выбрать подходящего персонажа, освоить его и успешно выживать в опасном мире Don't Starve Together."
+      },
+      "Update": {
+        "Img": "images/MainPage/Update.png",
+        "Desc": "Обновление Don't Starve Together “Host of Horros” уже вышло!"
+      }
+    },
     "Characters": [
       {
         "ID": "wilson",
-        "Name": "Wilson",
-        "Phrase": "...",
-        "Background": "...",
-        "Description": "...",
+        "Name": "Уилсон",
+        "Phrase": "“Я буду побеждать силой своего РАЗУМА!”",
+        "Background": "Однажды поздно вечером, работая в своей домашней лаборатории, Уилсон был ошеломлён: он услышал голос из радио, что обращался непосредственно к нему. Сперва его обуял страх, что он свихнулся от слишком частых поздних экспериментов или от химических паров, что мог случайно вдохнуть. Но голос заверил, что он не просто плод воображения. Более того, голос озвучил учёному предложение: если Уилсон построит машину согласно всем правилам, то наградой ему станут запретные знания, которых ещё никто никогда не видел. Оставив в стороне всё своё здравомыслие (ну какой вред могут принести подозрительные сделки с таинственными бестелесными голосами, в конце-то концов?), Уилсон немедля приступил к созданию машины. Когда она была наконец завершена, у учёного зародилась толика сомнения... то, что могло бы спасти его от его предстоящей участи, будь он твёрже волей. Но голос настоял, и Уилсон повернул рычаг, активировав своё творение... и его больше никогда не видели. Ну, по крайней мере, не в этом мире.",
+        "Description": "Уилсон (Wilson) (полн. имя — Уилсон Персиваль Хиггсбери) — первый и главный персонаж, своего рода визитная карточка игры Don't Starve. Он бесстрашный, но довольно самонадеянный учёный джентльмен, который был пойман Максвеллом и перенесён в таинственный дикий мир, в котором он должен выжить.",
         "Percs": {
-          "Pros": [],
-          "Cons": [],
-          "General": []
+          "Pros": [
+            "У Уилсона есть древо навыков",
+            "Уилсон один из самых сбалансированных персонажей"
+          ],
+          "Cons": ["Нет недостатков"],
+          "General": [
+            "Уилсон отращивает бороду, которая защищает от замерзания, но замедляет охлаждение при перегреве"
+          ]
         },
-        "Tips": [],
-        "Quotes": [],
-        "Others": "...",
-        "StatsImg": "...",
-        "DayCharacterImg": "...",
-        "CharacterSkinsImg": "...",
-        "VideoLink": "...",
-        "Gallery": ["..."]
+        "Tips": [
+          "Уилсону удобнее всего строить мясные чучела, потому что ему не требуется охотиться на зайцебородов и кролебородов.",
+          "Борода — отличный источник топлива.",
+          "За неимением минусов, Уилсон почти во всех ситуациях одинаково эффективен."
+        ],
+        "Quotes": [
+          "Обычный: “Звёзды-атомы! Ты мой двойник?”",
+          "Атакующий: “Боже. Я всегда выгляжу так жутко?”",
+          "Убийца: “Твоё существование нарушает законы науки, (игрок)!”",
+          "Воскрешающий: “(Игрок) отлично применяет теории на практике.”",
+          "Призрак: “Лучше состряпать средство воскрешения. Не могу оставить другого учёного в подвешенном состоянии.”",
+          "Поджигатель: “Не особо научным было сжигание этого, (игрок).”"
+        ],
+        "Others": "Уилсону чуть больше 30 лет, о чём написали Klei на своём Facebook. По мнению некоторых игроков, у Уилсона под рубашкой надето нечто вроде футболки с длинным рукавом, или же перчатки; однако это не более чем домыслы. Согласно официальной информации, чёрные “рукава“ на самом деле штриховка, добавленная для большей контрастности. Уилсон, возможно, имеет медицинское образование. На это намекают его способность быстрее воскрешать союзников в событии The Forge, цитата при осмотре деревянной ноги и костюм в событии The Gorge, где он изображен врачом. Судя по цитатам, Уилсона сильно заботит его прическа. У Уилсона была няня, о чем говорит его цитата при осмотре Мамзи. Страдает арахнофобией. Существуют его полевые заметки, в которых он описал свои приключения в Постоянстве. Также густая борода защищает от холода: щетина и борода очень слабо, а густая ‒ немного лучше, чем зимняя шапка. Фамилия Уилсона ‒ Хиггсбери, возможно, отсылка к знаменитому бозону Хиггса. Левша; возможно, является амбидекстром. Учёный джентльмен (англ. Gentleman Scientist) ‒ особый социальный статус, который присваивался человеку с учёной степенью, ведущему самостоятельную исследовательскую работу. Исследования могли заказываться ‒ и оответственно, финансироваться ‒ университетом, к которому относился учёный, либо являлись личной инициативой и финансировались из личных средств; в таких случаях учёный, как правило, имел частный источник дохода (например, дивиденды) и проводил исследования на темы, интересующие лично его. Самые известные учёные джентльмены ‒ Томас Джефферсон, Антуан Лавуазье, Чарльз Дарвин и др. На седьмой секунде видео “The Forbidden Knowledge“ видна табличка “GENIUS AT WORK“ (“Гений за работой“), прибитая к забору дома Уилсона. Будучи правителем Постоянства, Уилсон не увеличился в размерах, хотя два других правителя (Максвелл и Чарли) становились выше других персонажей. По этой ссылке доступен вход в мастерскую Уилсона, где всё ещё стоит дверь Максвелла. Если опустить рубильник, дверь откроется и перенаправит вас на скрытую страницу, где можно увидеть обращение от Максвелла и концепт-арт к игре. В Team Fortress 2 был головной убор, основанный на прическе Уилсона. До обновления за 7 августа 2012 Уилсон имел другой спрайт. Ознакомиться с репликами Уилсона можно здесь.",
+        "StatsImg": "images/Characters/Wilson/ru/Character_Card.png",
+        "DayCharacterImg": "images/Characters/Wilson/Daily/Character.png",
+        "CharacterSkinsImg": "images/Characters/Wilson/Daily/Skins.png",
+        "VideoLink": "https://www.youtube.com/watch?v=A-A9RM0jdwo",
+        "Gallery": [
+          "images/Characters/Wilson/Galery/Sleep.png",
+          "images/Characters/Wilson/Galery/Portret.png",
+          "images/Characters/Wilson/Galery/Ghost.png",
+          "images/Characters/Wilson/Galery/Meme.png"
+        ]
+      },
+      {
+        "ID": "wormwood",
+        "Name": "Вормвуд",
+        "Phrase": "Привет. Друг?",
+        "Background": "В одном из измерений Постоянства с дикими джунглями с ”луны” свалился странный драгоценный камень зелёного цвета (не путать с зелёным самоцветом!), который подарил жизнь ростку растения. Новорождённый Вормвуд пытается осознать, кто он такой. Бабочка? Может, птичка? Нет, не похоже. А может, собачка? Но нет, он только пугает всех зверюшек. Одинокий Вормвуд ложится спать под корень одного из своих неодушевлённых родственников, после чего на нём, как и на других растениях, распускаются цветы.",
+        "Description": "Вормвуд (Wormwood) — изначально доступный в Don't Starve: Hamlet персонаж, а также один из платных персонажей в Don't Starve Together, однако будет открыт, если у игрока уже приобретено DLC Hamlet.",
+        "Percs": {
+          "Pros": [
+            "Одарённый садовод. Может сажать семена в землю, не используя грядок",
+            "Растения — родственники. Восстанавливает рассудок за счёт посадки семян, шишек, морских корней и выкопанных растений",
+            "Глазоцветы и злые пчёлы нейтральны к нему",
+            "Любит удобрения",
+            "Может разговаривать с посаженными овощами и фруктами, узнавая при этом, в чём они нуждаются",
+            "Огненная крапива и колючий вьюнок не оказывают негативных воздействий на Вормвуда",
+            "Во время цветения дарит растениям заботу, когда находится рядом",
+            "Не теряет рассудок при намокании",
+            "Может самостоятельно вызывать цветение в любой сезон"
+          ],
+          "Cons": [
+            "Теряет рассудок из-за срубания и сжигания деревьев, собирания цветов и выкапывания растений. Это не относится к уже сожжённым деревьям",
+            "Если рядом с Вормвудом персонажи или существа негативно влияют на растения, Вормвуд получает отрицательную ауру к рассудку",
+            "Как большинство растений, при контакте с открытым огнём может загореться, из-за чего помимо урона от огня будет получать ещё и урон от горения. Может даже загореться от сильного костра или удара молнии. Летом может начать тлеть, после чего загорится",
+            "Получает на 25% больше урона от огня и горит дольше других персонажей",
+            "Посаженные в голую землю семена не вырастут в огромные плоды"
+          ],
+          "General": [
+            "Имеет особую вкладку ”Дар садоводства”",
+            "Еда восстанавливает сытость, но никак не влияет на здоровье — ни положительно, ни отрицательно (исключение: зловещий пирог, мармеладки)",
+            "Зацветает весной, что влияет на его скорость передвижения и скорость голодания. Подробности ниже"
+          ]
+        },
+        "Tips": [
+          "Как бы Вормвуду ни было неприятно, но брёвна — очень важный ресурс для успешного выживания в суровом мире Постоянства, а в мире свиного селения также немаловажна пробка. Рассудок понижается и при выкапывании пней. На первых порах рассудок за павших братьев можно восстановить изучением рецептов, позже вступает правило ”Срубил дерево — посади два”",
+          "Поскольку посадка травы восстанавливает 10 рассудка, а выкапывание снимает 5, можно восстанавливать себе рассудок, сажая и выкапывая один куст травы, саженец или колючий куст. Хороший способ конвертации веток и кремня (или золота) в рассудок",
+          "Рассудок можно восстановить и посадкой семян — так он повышается всего на 5, т. е. слабее, чем при посадке деревьев и кустов, зато семена встречаются в избытке, ничего не стоят и складываются по 40 в ячейку — благодаря этому ячейка с семенами служит отличным средством компенсации при любом экстремальном понижении рассудка — например, при заготовке брёвен из не дающих посадочного материала деревьев, вроде каштановых берёз зимой или узловатых елей",
+          "Из-за того, что рассудок падает и при уничтожении растений боссами, могут неожиданно возникнуть дополнительные проблемы при встрече с боссом в густом лесу. Массовая заготовка брёвен силами преследующего босса, доступная другим персонажам, — плохое решение для Вормвуда",
+          "Прогулки по густым джунглям в мирах Hamlet более безопасны для Вормвуда, чем для остальных персонажей. Конечно, это же место его рождения",
+          "Зубастые родственники Вормвуда могут спасать его от периодических атак стай летучих мышей-вампиров. Однако получить добычу с крылатых проблематично, так как зубощёлки тоже хотят мясца",
+          "Гораздо удобнее создавать фермы лиственного мяса с приманкоцветов, без помощи рукотворного дёрна",
+          "Подбирайте любые семена, которые найдёте. Больше семян — больше потенциальной еды для Вормвуда в будущем без особых усилий. Особенно она пригодится в сезон цветения, весной или в сезон муссонов. Кроме того, как и растения на грядках, растения, выращенные Вормвудом на голой земле, не портятся зимой, что позволяет заготовить их на зиму в такой форме",
+          "С одной стороны это очень сильный удар под дых привычному игровому процессу. Огромное количество блюд из казана теряют своё очарование: там, где любой другой персонаж может аннулировать урон паука, скушав лягушачий сэндвич, Вормвуду придётся рассчитывать на другие методы лечения, например, на лечебную мазь",
+          "С другой стороны, Вормвуд может есть мясо монстра, монстро-лазанью и другую вредную пищу без вреда к здоровью (рассудок всё ещё понижается). Кроме того, сырые красные грибы можно употреблять в пищу вместо моркови",
+          "Выбирайте место для базы неподалёку от города свиней, обезьян-пауков (Hamlet), бифало, мышелисков (RoG), подлых приматов, водяных бифало (SW), чтобы постоянно иметь доступ к навозу",
+          "Благодаря иммунитету Вормвуда к аллергии больше не нужно беспокоиться за добычу крапивы, противогаза или вентилятора! Можно потратить это время на другие дела"
+        ],
+        "Quotes": [
+          "Обычный: “Отлично выглядишь, друг!”",
+          "Атакующий: “Пришло время пустить тебя на дрова.”",
+          "Убийца: “Не переживай, (игрок). Вырубка будет быстрой.”",
+          "Воскрешающий: “(Игрок) делает друзьям лучше!”",
+          "Призрак: “Помощь нужна, малыш?”",
+          "Поджигатель: “(Игрок), наверное, не очень умён...”"
+        ],
+        "Others": "С репликами Вормвуда вы можете ознакомится здесь. В DLC Hamlet Вормвуд был добавлен 7 февраля 201В Don't Starve Together был добавлен 6 июня 201Голос Вормвуда — диджериду. Его имя, Wormwood, переводится с английского как ”горькая полынь”. В DLC Hamlet имеет уникальный шрифт и цвет фраз. Шрифт был перенесён и в DST, однако цвет стал стандартным, потому что для каждого игрока в чате предусмотрен свой случайный цвет. Появляется в окружении камней, вместо воздушного шара, который более полезен по ресурсам. Также Максамелеон ведёт с ним другой диалог. Если любое другое существо устроит пожар, а Вормвуд будет стоять рядом, то его рассудок тоже будет снижаться. Имеет особую анимацию создания предмета при создании живого бревна. Особые анимации не работают, если персонаж в лодке. Если у персонажа осталось 20 единиц здоровья, убить себя с помощью создания живого бревна нельзя, поскольку останется одна единица. Навоз, гуано и ведро с удобрениями восстанавливают Вормвуду две единицы здоровья. Если ведро с удобрениями полностью использовать таким способом, то всего можно получить 10 единиц здоровья. Перед тем как Вормвуд был официально введён в игру, в файлах были найдены его анимации с другим дизайном.",
+        "StatsImg": "images/Characters/Wormwood/ru/Character_Card.png",
+        "DayCharacterImg": "images/Characters/Wormwood/Daily/Character.png",
+        "CharacterSkinsImg": "images/Characters/Wormwood/Daily/Skins.png",
+        "VideoLink": "https://www.youtube.com/watch?v=4hugrMLgDsQ",
+        "Gallery": [
+          "images/Characters/Wormwood/Galery/Sleep.png",
+          "images/Characters/Wormwood/Galery/Portret.png",
+          "images/Characters/Wormwood/Galery/Ghost.png",
+          "images/Characters/Wormwood/Galery/Meme.png"
+        ]
+      },
+      {
+        "ID": "maxwell",
+        "Name": "Максвелл",
+        "Phrase": "Свобода!",
+        "Background": "Бывший король кошмарного трона и к тому же эгоист. Максвелл (который получил своё имя от своей бывшей сценической персоны ”Невероятный Максвелл”) когда-то был наивным ”Уильямом Картером”, бедняком из Лондона, который мечтал стать всемирно известным фокусником. В тот момент, когда судьба вручила Уильяму Кодекс Умбры, он впервые в жизни ощутил настоящую силу. Отбросив свои старые привычки и полностью приняв свою новую личность как харизматичного мастера тёмной магии, Максвелл добился славы и успеха, но ему этого было мало. По мере того, как он всё глубже и глубже погружался в свой магический том, изучая его тайны, тёмное знание одурманивало разум и затуманивало сердце. В своём последнем выступлении Максвелл потерял контроль над чёрной магией, которую он так нагло использовал, и он, и его ассистентка Чарли были втянуты в Постоянство. Там он пробудет, казалось, целую вечность, привязанный к кошмарному трону и вынужденный заманивать всё больше жертв в ловушку Постоянства. Его всё ещё не покидает мысль, что кто-то, кого он обманом заманил в этот мир, мог найти в своём сердце желание освободить его... и это его сильно раздражает. Он никогда не любил быть должником.",
+        "Description": "Максвелл (Maxwell) (также известен как ”Демон” и Уильям Картер) — главный антагонист в игре Don't Starve, выступающий в роли неигрового персонажа. Впоследствии может быть разблокирован в качестве игрового персонажа, а в Don't Starve Together изначально является таковым, в мобильной версии DLC доступен сразу. Имеет уникальные способности, тесно связанные с теневой магией.",
+        "Percs": {
+          "Pros": [
+            "Может создавать своих двойников, способных делать за него различную работу и сражаться",
+            "Может защитить себя с помощью теневых ловушек",
+            "Имеет доступ к созданию шкафа и цилиндра фокусника, имеющих общий инвентарь",
+            "Способен восстанавливать рассудок без дополнительных средств (+6.7/мин)",
+            "Не тратит рассудок при экипировке брони ночи, тёмного меча, брони из камня ужаса, шлема из камня ужаса, мантии пустоты, капюшона пустоты и теневого жнеца"
+          ],
+          "Cons": ["Слаб физически: имеет всего 75 единиц здоровья"],
+          "General": [
+            "Может использовать книги Уикерботтом, но не создавать их"
+          ]
+        },
+        "Tips": [
+          "Маг — основная роль в приоритете Максвелла. Начиная игру с томом окаменения, Максвелл должен нейтрализовывать небольшие группы вражеских воинов, обращая их в камень. Особенно хорошо сочетается с Уикерботтом в команде, позволяя использовать 2 тома окаменения. После выпадения адского посоха Максвелл может либо владеть им до конца матча, нанося существенный урон своими дуэлянтами, либо чередовать его с томом призыва, устанавливая големов для большей огневой мощи",
+          "Роль лекаря для Максвелла — не лучший выбор, т.к. Максвелл не имеет никаких плюсов для лечения, а теневые клоны призываются с посоха жизни очень редко из-за его малого урона (до встречи с мини-боссами они могут вообще ни разу не призваться из-за умирания целей до нанесения суммарного урона в 300 единиц)",
+          "Из-за малого количества очков здоровья Максвеллу в середине игры следует экипировать великую броню с шёлком, и для увеличения максимального здоровья, и для более быстрой перезарядки особых способностей магического оружия",
+          "Кроме того, клоны сбивают атаки малым вражеским единицам"
+        ],
+        "Quotes": [
+          "Обычный: “Что за опрятный парень!”",
+          "Атакующий: “Мне знаком этот вид, (игрок). Что ты задумал?”",
+          "Убийца: “От старых привычек нужно избавляться... как и от тебя!”",
+          "Воскрешающий: “Только на себя и надейся, а, (игрок)?”",
+          "Призрак: “Я должен расплатиться кровью, дабы вернуть тебя назад, (игрок).”",
+          "Поджигатель: “Не раздувай его на нас, (игрок).”"
+        ],
+        "Others": "Максвелл, в качестве играбельного персонажа, был добавлен с обновлением ”The End of the Beginning”. А с обновлением ”All's Well that Maxwell” получил Кодекс Умбра. Изначально в облике антагониста его голова должна была быть меньших размеров. Данная текстура и её анимации всё ещё остались в файлах игры. В совсем ранних версиях был гораздо старше, нежели чем представлен в игре, был горбатым и толстым, а также носил цилиндр. Несмотря на то, что Максвелл является лишь одним из трёх известных правителей Постоянства (другие два: Чарли и Уилсон), его вплоне можно считать главным антагонистом франшизы, ведь именно из-за него и его игр с тёмной магией началась вся эта история. Голос Максвелла звучит как фисгармония. Пропорции игрового персонажа заметно отличаются от пропорций Максвелла, появляющегося при старте игры. В режиме Приключения одет иначе, нежели на протяжении всей остальной игры. Максвелл был первым, кто упомянул Чарли. Когда у него появились связанные с ней фразы, никто ещё не знал, что это за персонаж. Максвелл любит шахматы. Судя из анимации про Вольфганга, некоторое время носил очки. Как и в случае Чарли, точный рост Максвелла неизвестен. Он разнится в синематиках и от формы к форме в режиме Приключений, отдельно стоит отметить огромную голову антагониста, нависшую над домом Уилсона в одном из синематиков. Не исключено, что Максвелл просто умеет менять свою внешность, по крайней мере в роли антагониста. В отличии от других персонажей, Максвелл в синематиках и в игре значительно отличается от самого себя, причём это касается как его злодейской формы, так и формы персонажа. Создал свои статуи в мире.",
+        "StatsImg": "images/Characters/Maxwell/ru/Character_Card.png",
+        "DayCharacterImg": "images/Characters/Maxwell/Daily/Character.png",
+        "CharacterSkinsImg": "images/Characters/Maxwell/Daily/Skins.png",
+        "VideoLink": "https://www.youtube.com/watch?v=A35X4h590Ek",
+        "Gallery": [
+          "images/Characters/Maxwell/Galery/Sleep.png",
+          "images/Characters/Maxwell/Galery/Portret.png",
+          "images/Characters/Maxwell/Galery/Ghost.png",
+          "images/Characters/Maxwell/Galery/Meme.png"
+        ]
       }
     ]
   }

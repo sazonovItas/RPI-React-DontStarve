@@ -3,6 +3,7 @@ export interface Database {
   ServerErrorPage: ServerErrorPage;
   Header: Header;
   Footer: Footer;
+  MainPage: MainPage;
   Characters: Character[];
 }
 
@@ -16,6 +17,21 @@ export interface ServerErrorPage {
   Title: string;
   SubTitle: string;
   Description: string;
+}
+
+export interface MainPage {
+  Intro: Intro;
+  Update: Update;
+}
+
+export interface Intro {
+  Title: string;
+  Desc: string;
+}
+
+export interface Update {
+  Img: string;
+  Desc: string;
 }
 
 export interface Header {
