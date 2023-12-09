@@ -81,7 +81,7 @@
   align-self: center;
 }
 
-@media (max-width: 940px) {
+@media (max-width: 970px) {
   .DailyCharacter-container {
     width: 90%;
   }
