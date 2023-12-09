@@ -3,7 +3,7 @@ import background from "/images/backgrounds/MainPage.png";
 import Header from "../../components/Layouts/Header/Header";
 import Footer from "../../components/Layouts/Footer/Footer";
 import "./MainPage.css";
-import Intro from "./Components/Intro/Intro";
+import Intro from "../../components/common/Intro/Intro.tsx";
 import { useDatabase } from "../../db/DataContext";
 import Update from "./Components/Update/Update";
 import Developers from "./Components/Developers/Developers";
@@ -32,7 +32,10 @@ function MainPage() {
           Character={db.Characters[characterId]}
         />
         <Developers Developers={db.MainPage.Authors} />
-        <Footer />
+        <Footer
+          Title={db.MainPage.Footer.Title}
+          Menu={db.MainPage.Footer.Menu}
+        />
       </div>
     </>
   );

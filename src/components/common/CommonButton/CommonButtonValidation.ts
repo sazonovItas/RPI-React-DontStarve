@@ -3,4 +3,5 @@ export interface ICommonButton {
   Type: "button" | "submit" | "reset";
   Url: string;
   style?: object;
+  children?: React.ReactNode;
 }

@@ -1,8 +1,9 @@
 import { useDatabase } from "../../../db/DataContext";
 import hands from "/images/common/Hands.png";
+import { FooterProps } from "./FooterValidator.ts";
 import "./Footer.css";
 
-function Footer() {
+function Footer(props: FooterProps) {
   const db = useDatabase();
 
   return (
@@ -16,10 +17,10 @@ function Footer() {
               src={db.Footer.Logo.Src}
               alt={db.Footer.Logo.Alt}
             />
-            <p className="footer-title">{db.Footer.Title}</p>
+            <p className="footer-title">{props.Title}</p>
           </div>
           <div className="footer-Menu-H">
-            {db.Footer.Menu.map((item, index) => (
+            {props.Menu.map((item, index) => (
               <a key={index} className="footer-Item-Menu-H" href={item.Url}>
                 {item.Text}
               </a>

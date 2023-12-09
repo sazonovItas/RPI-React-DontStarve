@@ -3,4 +3,5 @@ export interface PolygonTitleProps {
   width: string;
   backColor: string;
   fontColor: string;
+  children?: React.ReactNode;
 }

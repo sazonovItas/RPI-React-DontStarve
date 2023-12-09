@@ -1,15 +1,15 @@
 .SearchCard-container {
-  max-width: 300px;
-  max-height: 300px;
+  max-width: 375px;
+  max-height: 375px;
+  filter: brightness(65%);
   margin: 10px 10px 10px 10px;
+}
+
+.SearchCard-container:hover {
+  filter: brightness(100%);
+  transform: translateY(-5px);
 }
 
 .SearchCard-img {
   width: 100%;
-  filter: brightness(90%);
-}
-
-.Search-img:hover {
-  filter: brightness(100%);
-  transform: translateY(-5px);
 }

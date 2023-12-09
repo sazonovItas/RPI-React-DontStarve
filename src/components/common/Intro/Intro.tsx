@@ -1,4 +1,4 @@
-import PolygonTitle from "../../../../components/common/PolygonTitle/PolygonTitle";
+import PolygonTitle from "../PolygonTitle/PolygonTitle";
 import { IntroProps } from "./IntroValidator";
 import "./Intro.css";
 

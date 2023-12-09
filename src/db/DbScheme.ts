@@ -4,6 +4,7 @@ export interface Database {
   Header: Header;
   Footer: Footer;
   MainPage: MainPage;
+  SearchPage: SearchPage;
   Characters: Character[];
 }
 
@@ -24,6 +25,18 @@ export interface MainPage {
   Update: Update;
   DailyCharacter: DailyCharacter;
   Authors: Authors;
+  Footer: FooterItems;
+}
+
+export interface SepTitle {
+  Text: string;
+  Id: string;
+}
+
+export interface SearchPage {
+  Intro: Intro;
+  Title: SepTitle;
+  Footer: FooterItems;
 }
 
 export interface Intro {
@@ -59,9 +72,12 @@ export interface Developer {
 
 export interface Footer {
   Logo: Logo;
+  GithubLogo: string;
+}
+
+export interface FooterItems {
   Title: string;
   Menu: Menu[];
-  GithubLogo: string;
 }
 
 export interface Character {

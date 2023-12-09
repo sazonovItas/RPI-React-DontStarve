@@ -40,17 +40,6 @@
         "Src": "images/common/DontStarveLogo.png",
         "Alt": "Logo"
       },
-      "Title": "Survivor Encyclopedia: Don't Starve Together Characters",
-      "Menu": [
-        {
-          "Text": "Main",
-          "Url": "/RPI-React-DontStarve/#main"
-        },
-        {
-          "Text": "Daily Character",
-          "Url": "/RPI-React-DontStarve/#dailycharacter"
-        }
-      ],
       "GithubLogo": "images/common/githublogo.png"
     },
     "MainPage": {
@@ -91,6 +80,42 @@
             },
             "Nick": "Alex Sazonov",
             "Link": "https://github.com/sazonovItas"
+          }
+        ]
+      },
+      "Footer": {
+        "Title": "Survivor Encyclopedia: Don't Starve Together Characters",
+        "Menu": [
+          {
+            "Text": "Main",
+            "Url": "/RPI-React-DontStarve/#main"
+          },
+          {
+            "Text": "Daily Character",
+            "Url": "/RPI-React-DontStarve/#dailycharacter"
+          }
+        ]
+      }
+    },
+    "SearchPage": {
+      "Intro": {
+        "Title": "Characters",
+        "Desc": "The game features 19 characters, some of which will be unlocked only after purchasing the DLC. In Don't Starve Together, all standard characters are immediately unlocked, as well as Wynonna and Walter. Wormwood, Vortox, Wurt and Wanda are unlocked for 2700 threads."
+      },
+      "Title": {
+        "Text": "List of game characters",
+        "Id": "gamecharacters"
+      },
+      "Footer": {
+        "Title": "Survivor Encyclopedia: Don't Starve Together Characters",
+        "Menu": [
+          {
+            "Text": "Main",
+            "Url": "/RPI-React-DontStarve/#main"
+          },
+          {
+            "Text": "Daily Character",
+            "Url": "/RPI-React-DontStarve/#dailycharacter"
           }
         ]
       }
@@ -540,17 +565,6 @@
         "Src": "images/common/DontStarveLogo.png",
         "Alt": "Logo"
       },
-      "Title": "Энциклопедия выживших: Персонажи Don't Starve Together",
-      "Menu": [
-        {
-          "Text": "Главная",
-          "Url": "/RPI-React-DontStarve/#main"
-        },
-        {
-          "Text": "Персонаж дня",
-          "Url": "/RPI-React-DontStarve/#dailycharacter"
-        }
-      ],
       "GithubLogo": "images/common/githublogo.png"
     },
     "MainPage": {
@@ -591,6 +605,42 @@
             },
             "Nick": "Алексей Сазонов",
             "Link": "https://github.com/sazonovItas"
+          }
+        ]
+      },
+      "Footer": {
+        "Title": "Энциклопедия выживших: Персонажи Don't Starve Together",
+        "Menu": [
+          {
+            "Text": "Главная",
+            "Url": "/RPI-React-DontStarve/#main"
+          },
+          {
+            "Text": "Персонаж дня",
+            "Url": "/RPI-React-DontStarve/#dailycharacter"
+          }
+        ]
+      }
+    },
+    "SearchPage": {
+      "Intro": {
+        "Title": "Персонажи",
+        "Desc": "В игре присутствую 19 персонажей, часть из которых будут разблокированы только после покупки DLC. В Don't Starve Together сразу открыты все стандартные персонажи, а также Винона и Уолтер. Вормвуд, Вортокс, Вурт и Ванда открываются за 2700 ниток."
+      },
+      "Title": {
+        "Text": "Список игровых персонажей",
+        "Id": "gamecharacters"
+      },
+      "Footer": {
+        "Title": "Энциклопедия выживших: Персонажи Don't Starve Together",
+        "Menu": [
+          {
+            "Text": "Главная",
+            "Url": "/RPI-React-DontStarve/#main"
+          },
+          {
+            "Text": "Персонаж дня",
+            "Url": "/RPI-React-DontStarve/#dailycharacter"
           }
         ]
       }

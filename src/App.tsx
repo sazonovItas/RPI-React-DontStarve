@@ -2,7 +2,7 @@ import "./App.css";
 import NotFoundPage from "./pages/404Page/404Page.tsx";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import MainPage from "./pages/MainPage/MainPage.tsx";
-import SearchPage from "./pages/SearchPage/SarchPage.tsx";
+import SearchPage from "./pages/SearchPage/SearchPage.tsx";
 
 function App() {
   return (
