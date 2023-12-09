@@ -25,6 +25,7 @@
   "include": [
     "src",
     "pages",
+    ".eslintrc.cjs",
     "**/*.ts",
     "**/*.tsx",
     "**/*.js",
