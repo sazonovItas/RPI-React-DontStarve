@@ -22,6 +22,7 @@ export interface ServerErrorPage {
 export interface MainPage {
   Intro: Intro;
   Update: Update;
+  DailyCharacter: DailyCharacter;
   Authors: Authors;
 }
 
@@ -39,6 +40,10 @@ export interface Header {
   Logo: Logo;
   Title: string;
   Menu: Menu[];
+}
+
+export interface DailyCharacter {
+  Title: string;
 }
 
 export interface Authors {
@@ -63,6 +68,7 @@ export interface Character {
   ID: string;
   Name: string;
   Phrase: string;
+  PhraseColor: string;
   Background: string;
   Description: string;
   Percs: Percs;

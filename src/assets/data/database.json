@@ -47,8 +47,8 @@
           "Url": "/RPI-React-DontStarve/#main"
         },
         {
-          "Text": "Developers",
-          "Url": "/RPI-React-DontStarve/#developers"
+          "Text": "Daily Character",
+          "Url": "/RPI-React-DontStarve/#dailycharacter"
         }
       ],
       "GithubLogo": "images/common/githublogo.png"
@@ -61,6 +61,9 @@
       "Update": {
         "Img": "images/MainPage/Update.png",
         "Desc": "Don't Starve Together update “Host of Horros” is already avaliable!"
+      },
+      "DailyCharacter": {
+        "Title": "Daily Character"
       },
       "Authors": {
         "Title": "Developers",
@@ -96,7 +99,8 @@
       {
         "ID": "wilson",
         "Name": "Wilson",
-        "Phrase": "I will conquer it all with the power of my MIND!",
+        "Phrase": "“I will conquer it all with the power of my MIND!”",
+        "PhraseColor": "#2AF556",
         "Background": "Late one evening, while working in his home laboratory, Wilson was stunned to hear a voice from the radio speaking directly to him. At first he was overcome by the fear that he had gone crazy from too many late experiments or from chemical fumes that he might accidentally inhale. But the voice assured that he was not just a figment of the imagination. Moreover, the voice voiced a proposal to the scientist: if Wilson builds a machine according to all the rules, then his reward will be forbidden knowledge that no one has ever seen before. Leaving all his sanity aside (what harm can suspicious transactions with mysterious disembodied voices do, after all?), Wilson immediately began creating the machine. When it was finally completed, the scientist began to have a bit of doubt... something that could have saved him from his impending fate if he had had a stronger will. But the voice insisted, and Wilson turned the lever, activating his creation... and it was never seen again.",
         "Description": "Wilson (full name - Wilson Percival Higgsbury) is the first and main character, a kind of calling card of the game Don't Starve. He is a fearless but rather arrogant gentleman scientist who is captured by Maxwell and taken to a mysterious wild world in which he must survive.",
         "Percs": {
@@ -104,9 +108,7 @@
             "Wilson have a skill tree",
             "Wilson one of the most balanced character"
           ],
-          "Cons": [
-            "No cons"
-          ],
+          "Cons": ["No cons"],
           "General": [
             "Wilson grows a beard that protects against freezing, but slows down cooling when overheated"
           ]
@@ -139,7 +141,8 @@
       {
         "ID": "wormwood",
         "Name": "Wormwood",
-        "Phrase": "Hello friend?",
+        "Phrase": "“Hello friend?”",
+        "PhraseColor": "#2AF556",
         "Background": "In one of the dimensions of Permanence with a wild jungle, a strange green gem fell from the “moon” (not to be confused with a green gem!), which gave life to a plant sprout. The newborn Wormwood is trying to figure out who he is. Butterfly? Maybe a bird? No, it doesn't look like it. Or maybe a dog? But no, he only scares all the little animals. A lonely Wormwood goes to sleep under the root of one of its inanimate relatives, after which flowers bloom on it, like on other plants.",
         "Description": "Wormwood is a character initially available in Don't Starve: Hamlet, as well as one of the paid characters in Don't Starve Together, but will be unlocked if the player has already purchased the Hamlet DLC.",
         "Percs": {
@@ -203,7 +206,8 @@
       {
         "ID": "maxwell",
         "Name": "Maxwell",
-        "Phrase": "Freedom, at last!",
+        "Phrase": "“Freedom, at last!”",
+        "PhraseColor": "#2AF556",
         "Background": "The former king of the nightmare throne and also an egoist. Maxwell (who took his name from his former stage persona “The Incredible Maxwell“) was once the naive “William Carter“, a poor man from London who dreamed of becoming a world-famous magician. The moment fate handed William the Umbra Codex, he felt real power for the first time in his life. Having abandoned his old habits and fully embraced his new identity as a charismatic master of dark magic, Maxwell achieved fame and success, but it was not enough for him. As he delved deeper and deeper into his magical tome, studying its secrets, dark knowledge stupefied his mind and clouded his heart. In his final performance, Maxwell lost control of the black magic he had so brazenly used, and both he and his assistant Charlie were drawn into the Persistence. There he would remain for what seemed like an eternity, tied to a nightmare throne and forced to lure more and more victims into the Persistence trap. He's still haunted by the thought that someone he tricked into this world might find it in their hearts to set him free... and it irritates him greatly. He never liked being in debt.",
         "Description": "Maxwell (also known as ”The Demon” and William Carter) is the main antagonist in Don't Starve, appearing as a non-playable character. Subsequently, he can be unlocked as a playable character, and in Don't Starve Together he is initially such, in the mobile version the DLC is available immediately. Has unique abilities closely related to shadow magic.",
         "Percs": {
@@ -214,12 +218,8 @@
             "Capable of restoring sanity without additional means (+6.7/min)",
             "Does not cost Sanity when equipping Armor of Night, Darksaber, Dreadstone Armor, Dreadstone Helm, Void Robe, Void Hood, and Shadow Reaper"
           ],
-          "Cons": [
-            "Physically weak: has only 75 health units."
-          ],
-          "General": [
-            "Can use Wickerbottom books, but not create them."
-          ]
+          "Cons": ["Physically weak: has only 75 health units."],
+          "General": ["Can use Wickerbottom books, but not create them."]
         },
         "Tips": [
           "Mage is the main role in Maxwell's priority. Starting the game with a Tome of Petrification, Maxwell must neutralize small groups of enemy warriors, turning them to stone. Pairs especially well with Wickerbottom in a team, allowing the use of 2 volumes of petrification. Once the Hellstaff drops, Maxwell can either wield it for the rest of the match, dealing significant damage with his duelists, or alternate it with the Summon Tome, setting up Golems for more firepower",
@@ -297,8 +297,8 @@
           "Url": "/RPI-React-DontStarve/#main"
         },
         {
-          "Text": "Авторы",
-          "Url": "/RPI-React-DontStarve/#developers"
+          "Text": "Персонаж дня",
+          "Url": "/RPI-React-DontStarve/#dailycharacter"
         }
       ],
       "GithubLogo": "images/common/githublogo.png"
@@ -311,6 +311,9 @@
       "Update": {
         "Img": "images/MainPage/Update.png",
         "Desc": "Обновление Don't Starve Together “Host of Horros” уже вышло!"
+      },
+      "DailyCharacter": {
+        "Title": "Персонаж дня"
       },
       "Authors": {
         "Title": "Авторы",
@@ -347,6 +350,7 @@
         "ID": "wilson",
         "Name": "Уилсон",
         "Phrase": "“Я буду побеждать силой своего РАЗУМА!”",
+        "PhraseColor": "#2AF556",
         "Background": "Однажды поздно вечером, работая в своей домашней лаборатории, Уилсон был ошеломлён: он услышал голос из радио, что обращался непосредственно к нему. Сперва его обуял страх, что он свихнулся от слишком частых поздних экспериментов или от химических паров, что мог случайно вдохнуть. Но голос заверил, что он не просто плод воображения. Более того, голос озвучил учёному предложение: если Уилсон построит машину согласно всем правилам, то наградой ему станут запретные знания, которых ещё никто никогда не видел. Оставив в стороне всё своё здравомыслие (ну какой вред могут принести подозрительные сделки с таинственными бестелесными голосами, в конце-то концов?), Уилсон немедля приступил к созданию машины. Когда она была наконец завершена, у учёного зародилась толика сомнения... то, что могло бы спасти его от его предстоящей участи, будь он твёрже волей. Но голос настоял, и Уилсон повернул рычаг, активировав своё творение... и его больше никогда не видели. Ну, по крайней мере, не в этом мире.",
         "Description": "Уилсон (Wilson) (полн. имя — Уилсон Персиваль Хиггсбери) — первый и главный персонаж, своего рода визитная карточка игры Don't Starve. Он бесстрашный, но довольно самонадеянный учёный джентльмен, который был пойман Максвеллом и перенесён в таинственный дикий мир, в котором он должен выжить.",
         "Percs": {
@@ -354,9 +358,7 @@
             "У Уилсона есть древо навыков",
             "Уилсон один из самых сбалансированных персонажей"
           ],
-          "Cons": [
-            "Нет недостатков"
-          ],
+          "Cons": ["Нет недостатков"],
           "General": [
             "Уилсон отращивает бороду, которая защищает от замерзания, но замедляет охлаждение при перегреве"
           ]
@@ -389,7 +391,8 @@
       {
         "ID": "wormwood",
         "Name": "Вормвуд",
-        "Phrase": "Привет. Друг?",
+        "Phrase": "“Привет. Друг?”",
+        "PhraseColor": "#2AF556",
         "Background": "В одном из измерений Постоянства с дикими джунглями с ”луны” свалился странный драгоценный камень зелёного цвета (не путать с зелёным самоцветом!), который подарил жизнь ростку растения. Новорождённый Вормвуд пытается осознать, кто он такой. Бабочка? Может, птичка? Нет, не похоже. А может, собачка? Но нет, он только пугает всех зверюшек. Одинокий Вормвуд ложится спать под корень одного из своих неодушевлённых родственников, после чего на нём, как и на других растениях, распускаются цветы.",
         "Description": "Вормвуд (Wormwood) — изначально доступный в Don't Starve: Hamlet персонаж, а также один из платных персонажей в Don't Starve Together, однако будет открыт, если у игрока уже приобретено DLC Hamlet.",
         "Percs": {
@@ -454,7 +457,8 @@
       {
         "ID": "maxwell",
         "Name": "Максвелл",
-        "Phrase": "Свобода!",
+        "Phrase": "“Свобода!”",
+        "PhraseColor": "#2AF556",
         "Background": "Бывший король кошмарного трона и к тому же эгоист. Максвелл (который получил своё имя от своей бывшей сценической персоны ”Невероятный Максвелл”) когда-то был наивным ”Уильямом Картером”, бедняком из Лондона, который мечтал стать всемирно известным фокусником. В тот момент, когда судьба вручила Уильяму Кодекс Умбры, он впервые в жизни ощутил настоящую силу. Отбросив свои старые привычки и полностью приняв свою новую личность как харизматичного мастера тёмной магии, Максвелл добился славы и успеха, но ему этого было мало. По мере того, как он всё глубже и глубже погружался в свой магический том, изучая его тайны, тёмное знание одурманивало разум и затуманивало сердце. В своём последнем выступлении Максвелл потерял контроль над чёрной магией, которую он так нагло использовал, и он, и его ассистентка Чарли были втянуты в Постоянство. Там он пробудет, казалось, целую вечность, привязанный к кошмарному трону и вынужденный заманивать всё больше жертв в ловушку Постоянства. Его всё ещё не покидает мысль, что кто-то, кого он обманом заманил в этот мир, мог найти в своём сердце желание освободить его... и это его сильно раздражает. Он никогда не любил быть должником.",
         "Description": "Максвелл (Maxwell) (также известен как ”Демон” и Уильям Картер) — главный антагонист в игре Don't Starve, выступающий в роли неигрового персонажа. Впоследствии может быть разблокирован в качестве игрового персонажа, а в Don't Starve Together изначально является таковым, в мобильной версии DLC доступен сразу. Имеет уникальные способности, тесно связанные с теневой магией.",
         "Percs": {
@@ -465,9 +469,7 @@
             "Способен восстанавливать рассудок без дополнительных средств (+6.7/мин)",
             "Не тратит рассудок при экипировке брони ночи, тёмного меча, брони из камня ужаса, шлема из камня ужаса, мантии пустоты, капюшона пустоты и теневого жнеца"
           ],
-          "Cons": [
-            "Слаб физически: имеет всего 75 единиц здоровья"
-          ],
+          "Cons": ["Слаб физически: имеет всего 75 единиц здоровья"],
           "General": [
             "Может использовать книги Уикерботтом, но не создавать их"
           ]
