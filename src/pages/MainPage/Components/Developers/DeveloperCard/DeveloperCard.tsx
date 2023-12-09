@@ -5,7 +5,7 @@ import "./DeveloperCard.css";
 function DeveloperCard(props: DeveloperCardProps) {
   return (
     <>
-      <div className="DevloperCard-container">
+      <div className="DeveloperCard-container">
         <img
           className="DeveloperCard-img"
           src={props.Logo.Src}

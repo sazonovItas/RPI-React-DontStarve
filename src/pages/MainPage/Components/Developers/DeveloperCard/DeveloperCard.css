@@ -1,4 +1,4 @@
-.DevloperCard-container {
+.DeveloperCard-container {
   margin: 20px 0 20px 0;
 
   width: 100%;
@@ -8,6 +8,10 @@
 
   font-size: 56px;
   line-height: 180%;
+}
+
+.DeveloperCard-container:hover {
+  transform: translate(-5px);
 }
 
 .DeveloperCard-img {
