@@ -20,3 +20,15 @@
   border: 8px solid rgba(137, 77, 21, 0.8);
   border-radius: 50%;
 }
+
+@media (max-width: 880px) {
+  .DeveloperCard-img {
+    max-width: 65px;
+    max-height: 65px;
+  }
+
+  .DevloperCard-container {
+    font-size: 42px;
+    line-height: 180%;
+  }
+}

@@ -78,6 +78,7 @@ export interface Character {
 
   // Images paths, links and others
   StatsImg: string;
+  SearchImg: string;
   DayCharacterImg: string;
   CharacterSkinsImg: string;
   VideoLink: string;

@@ -42,7 +42,7 @@ function DailyCharacter(props: DailyCharacterProps) {
           </div>
         </div>
         <div className="DCVideo">
-          <Video VideoId="2g811Eo7K8U" />
+          <Video VideoId={props.Character.VideoLink} />
         </div>
       </div>
     </>

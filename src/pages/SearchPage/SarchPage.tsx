@@ -1,5 +1,8 @@
 import { useEffect } from "react";
-import background from "/images/backgrounds/SearchPage.png";
+import background from "/images/backgrounds/NotFoundPage.png";
+import "./SearchPage.css";
+import Header from "../../components/Layouts/Header/Header";
+import Footer from "../../components/Layouts/Footer/Footer";
 
 function SearchPage() {
   useEffect(() => {
@@ -8,7 +11,14 @@ function SearchPage() {
       body.style.backgroundImage = `url(${background})`;
     }
   });
-  return <></>;
+  return (
+    <>
+      <Header isFullWidth={true} />
+      <div className="main-container">
+        <Footer />
+      </div>
+    </>
+  );
 }
 
 export default SearchPage;

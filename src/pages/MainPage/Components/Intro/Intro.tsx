@@ -8,7 +8,7 @@ function Intro(props: IntroProps) {
       <div className="Intro-container">
         <div className="center-polygon-container">
           <PolygonTitle
-            width={"90%"}
+            width={"100%"}
             text={props.Title}
             backColor={"#3C2F28"}
             fontColor={"#FFF"}

@@ -100,7 +100,7 @@
         "ID": "wilson",
         "Name": "Wilson",
         "Phrase": "“I will conquer it all with the power of my MIND!”",
-        "PhraseColor": "#2AF556",
+        "PhraseColor": "#A88875",
         "Background": "Late one evening, while working in his home laboratory, Wilson was stunned to hear a voice from the radio speaking directly to him. At first he was overcome by the fear that he had gone crazy from too many late experiments or from chemical fumes that he might accidentally inhale. But the voice assured that he was not just a figment of the imagination. Moreover, the voice voiced a proposal to the scientist: if Wilson builds a machine according to all the rules, then his reward will be forbidden knowledge that no one has ever seen before. Leaving all his sanity aside (what harm can suspicious transactions with mysterious disembodied voices do, after all?), Wilson immediately began creating the machine. When it was finally completed, the scientist began to have a bit of doubt... something that could have saved him from his impending fate if he had had a stronger will. But the voice insisted, and Wilson turned the lever, activating his creation... and it was never seen again.",
         "Description": "Wilson (full name - Wilson Percival Higgsbury) is the first and main character, a kind of calling card of the game Don't Starve. He is a fearless but rather arrogant gentleman scientist who is captured by Maxwell and taken to a mysterious wild world in which he must survive.",
         "Percs": {
@@ -130,7 +130,8 @@
         "StatsImg": "images/Characters/Wilson/en/Character_Card.png",
         "DayCharacterImg": "images/Characters/Wilson/Daily/Character.png",
         "CharacterSkinsImg": "images/Characters/Wilson/Daily/Skins.png",
-        "VideoLink": "https://www.youtube.com/watch?v=A-A9RM0jdwo",
+        "VideoLink": "A-A9RM0jdwo",
+        "SearchImg": "images/Characters/Wilson/en/Search.png",
         "Gallery": [
           "images/Characters/Wilson/Galery/Sleep.png",
           "images/Characters/Wilson/Galery/Portret.png",
@@ -142,7 +143,7 @@
         "ID": "wormwood",
         "Name": "Wormwood",
         "Phrase": "“Hello friend?”",
-        "PhraseColor": "#2AF556",
+        "PhraseColor": "#05E55E",
         "Background": "In one of the dimensions of Permanence with a wild jungle, a strange green gem fell from the “moon” (not to be confused with a green gem!), which gave life to a plant sprout. The newborn Wormwood is trying to figure out who he is. Butterfly? Maybe a bird? No, it doesn't look like it. Or maybe a dog? But no, he only scares all the little animals. A lonely Wormwood goes to sleep under the root of one of its inanimate relatives, after which flowers bloom on it, like on other plants.",
         "Description": "Wormwood is a character initially available in Don't Starve: Hamlet, as well as one of the paid characters in Don't Starve Together, but will be unlocked if the player has already purchased the Hamlet DLC.",
         "Percs": {
@@ -195,7 +196,8 @@
         "StatsImg": "images/Characters/Wormwood/en/Character_Card.png",
         "DayCharacterImg": "images/Characters/Wormwood/Daily/Character.png",
         "CharacterSkinsImg": "images/Characters/Wormwood/Daily/Skins.png",
-        "VideoLink": "https://www.youtube.com/watch?v=4hugrMLgDsQ",
+        "VideoLink": "4hugrMLgDsQ",
+        "SearchImg": "images/Characters/Wormwood/en/Search.png",
         "Gallery": [
           "images/Characters/Wormwood/Galery/Sleep.png",
           "images/Characters/Wormwood/Galery/Portret.png",
@@ -207,7 +209,7 @@
         "ID": "maxwell",
         "Name": "Maxwell",
         "Phrase": "“Freedom, at last!”",
-        "PhraseColor": "#2AF556",
+        "PhraseColor": "#020C06",
         "Background": "The former king of the nightmare throne and also an egoist. Maxwell (who took his name from his former stage persona “The Incredible Maxwell“) was once the naive “William Carter“, a poor man from London who dreamed of becoming a world-famous magician. The moment fate handed William the Umbra Codex, he felt real power for the first time in his life. Having abandoned his old habits and fully embraced his new identity as a charismatic master of dark magic, Maxwell achieved fame and success, but it was not enough for him. As he delved deeper and deeper into his magical tome, studying its secrets, dark knowledge stupefied his mind and clouded his heart. In his final performance, Maxwell lost control of the black magic he had so brazenly used, and both he and his assistant Charlie were drawn into the Persistence. There he would remain for what seemed like an eternity, tied to a nightmare throne and forced to lure more and more victims into the Persistence trap. He's still haunted by the thought that someone he tricked into this world might find it in their hearts to set him free... and it irritates him greatly. He never liked being in debt.",
         "Description": "Maxwell (also known as ”The Demon” and William Carter) is the main antagonist in Don't Starve, appearing as a non-playable character. Subsequently, he can be unlocked as a playable character, and in Don't Starve Together he is initially such, in the mobile version the DLC is available immediately. Has unique abilities closely related to shadow magic.",
         "Percs": {
@@ -239,12 +241,260 @@
         "StatsImg": "images/Characters/Maxwell/en/Character_Card.png",
         "DayCharacterImg": "images/Characters/Maxwell/Daily/Character.png",
         "CharacterSkinsImg": "images/Characters/Maxwell/Daily/Skins.png",
-        "VideoLink": "https://www.youtube.com/watch?v=A35X4h590Ek",
+        "VideoLink": "A35X4h590Ek",
+        "SearchImg": "images/Characters/Maxwell/en/Search.png",
         "Gallery": [
           "images/Characters/Maxwell/Galery/Sleep.png",
           "images/Characters/Maxwell/Galery/Portret.png",
           "images/Characters/Maxwell/Galery/Ghost.png",
           "images/Characters/Maxwell/Galery/Meme.png"
+        ]
+      },
+      {
+        "ID": "willow",
+        "Name": "Willow",
+        "Phrase": "“Hmmm. I wonder if these will burn.”",
+        "PhraseColor": "#E54805",
+        "Background": "Willow came to Permanence in order to start everything from scratch - that`s what she always thought. This allowed her to leave a lot behind. From a young age, Willow seemed to do nothing but invite trouble. She was orphaned early and was forced to live in an orphanage with cruel teachers. And it soon turned out that at night she saw terrible creatures... creatures from which only her faithful teddy bear Bernie could protect her. But Bernie was taken away as punishment for what the teachers considered inappropriate behavior, and the shadows came for Willow. She had no choice but to stand up for herself. It was then that she learned: nothing could hold back the darkness like a roaring flame. And how nice it is to watch how all your troubles flare up one after another and immediately turn to ashes... This will not be the last time Willow burns everything down to start over.",
+        "Description": "Willow is the first unlockable character and the first girl in the game. Judging by his remarks, he has a rather bad character. He loves fire very much and does not take damage from it. Willow can survive the night without outside light sources because she has a lighter. To open Willow, the player needs 160 experience points (8 in-game days, or 1 hour 4 minutes).",
+        "Percs": {
+          "Pros": [
+            "In your inventory from the very beginning of the game there is a lighter, similar in functionality to a torch. It differs from it in having a smaller lighting area. The lighter has durability and a recipe, and you can also use it to fry foods.",
+            "In addition to the lighter, there is an old Bernie Bear. Bernie can be equipped to restore sanity and keep warm at the expense of durability. When Willow's sanity is low, Bernie will grow large and attract horrors and hostile creatures to himself.",
+            "Immune to fire damage.",
+            "Burning objects, as well as structures such as campfires or fire pits, increase Sanity by up to +6.25/min if the fire is bright enough and Willow is close to it (the effect stacks).",
+            "Takes less damage from overheating and is less susceptible to overheating.",
+            "Lights a fire 1.5 times more efficiently than other characters.",
+            "Does not take damage when extinguishing objects, and also does it faster than other characters."
+          ],
+          "Cons": [
+            "Loses sanity and takes more damage from freezing. She is more susceptible to both freezing and freezing (for example, from a cyclops deer or an ice staff), and warm clothes help her less than other characters.",
+            "Has few sanity units and therefore different insanity thresholds."
+          ],
+          "General": [
+            "Both unique items can be used by other players (only Willow, Varley and Walter can cook food with a lighter, and Bernie becomes giant only when Willow herself becomes mad).",
+            "Loses and gains 10% more sanity from the influence of monster auras, clothing, etc."
+          ]
+        },
+        "Tips": [
+          "Due to the fact that the lighter does not have infinite durability, it is recommended to wait out the night by setting trees on fire or starting a fire.",
+          "A very nice bonus is that you can fry food with a lighter: you can quickly cook meat without using an open fire.",
+          "Bernie is a full-fledged combat companion, capable of helping in the fight against numerous enemies, but is ineffective in battles with bosses. It is not recommended to use it all the time: firstly, you need to be in a state of madness, and without the proper equipment you can die, and secondly, to repair Bernie you need a sewing kit or the right ribbon, which are not very easy to get in the early stages of the game.",
+          "The downside to freezing does not play a special role if you heat the thermal stone in a timely manner and wear a beefalo hat. It is convenient to warm yourself by standing close to a burning tree."
+        ],
+        "Quotes": [
+          "Normal: “Hey! This is my face, (player)! Give it back!”",
+          "Attacker: “You're making us look like idiots, (player)!”",
+          "Assassin: “Murderer! Burn the impostor!”",
+          "Resurrectionist: “Haha, not bad, (player).”",
+          "Ghost: “Is this what my ghost hair looks like?”",
+          "Pyro: “The Arsonist Twins! High five.”"
+        ],
+        "Others": "Willow was added to the game with an update on August 7, 2012. With the update, Strange New Powers received its own features and a unique item. While inspecting the tent, she says that she was a Girl Scout and earned all her badges. Willow is approximately 20 years old. Willow has a mental disorder called pyromania. It manifests itself in a painful attraction to arson. It is not known exactly whether Willow, when her sanity is low, sets fire to the ground with matches or whether this is a case of her displaying pyrokinesis - the ability to ignite objects with the power of thought. Willow's persona is likely based on Stephen King's novel Fire in the Eye. You can check out Willow's lines here. Older versions of the game did not have a lighter. Willow would set the ground beneath her on fire if she was in complete darkness for too long. The dragon fly (RoG icon) does not set Willow on fire with its attack, which makes the battle much easier. DLC: RoG: if you extinguish buildings with your hands, Willow will not receive damage, but will say that she was burned. When examining the red umbrella, he says: “I love this color!” She also says about all red things that they are beautiful, for example: a red mushroom - “Beautiful”, a red gem - “So beautiful!” Therefore, it can be assumed that red is Willow's favorite color. Probably because red is always associated with fire. Hates everything related to cold and ice, as well as the blue color associated with them, which can be understood when examining the blue gem: ”Ugh. It's terrible.” and an ice amulet: ”Ugh! This thing is not for me.” Willow, like all female playable characters (except Wickerbottom and Wynonna), lacks pupils. If you equip a lighter along with a cylinder, your sanity will not fall from the darkness even at night. In the cinematic, you can see Willow's lighter on a shelf in the closet. Her voice resembles a flute. The prototype for the dark skin is probably Wednesday Addams.",
+        "StatsImg": "images/Characters/Willow/en/Character_Card.png",
+        "DayCharacterImg": "images/Characters/Willow/Daily/Character.png",
+        "CharacterSkinsImg": "images/Characters/Willow/Daily/Skins.png",
+        "VideoLink": "TKKXXKtFiQw",
+        "SearchImg": "images/Characters/Willow/en/Search.png",
+        "Gallery": [
+          "images/Characters/Willow/Galery/Sleep.png",
+          "images/Characters/Willow/Galery/Portret.png",
+          "images/Characters/Willow/Galery/Ghost.png",
+          "images/Characters/Willow/Galery/Meme.png"
+        ]
+      },
+      {
+        "ID": "wendy",
+        "Name": "Wendy",
+        "Phrase": "“Not all deaths are the same.”",
+        "PhraseColor": "#0579E5",
+        "Background": "Wendy's tale of grief begins with the untimely death of her dear sister Abigail. Wendy couldn't accept the idea that she would have to continue living without her sister. She turned to the occult in the hope that she would find some way to talk to those on the other side. In the end, after much trial and error, when the candles from the seances were burned to the ground, and all the Ouija boards were thrown out in a fit of anger, the girl was almost ready to give up and fall into despair... until, finally, a sign appeared. The ragtime tune might seem like a very strange message from the other world, but Wendy was ready to grab anything to get closer to her sister. And of course, soon the voice will tell her what to do...",
+        "Description": "Wendy is a girl with a very macabre outlook on life. Everything that happens around her connects with death, even herself. To open Wendy, you need 640 experience points (32 game days, or 4 hours 16 minutes).",
+        "Percs": {
+          "Pros": [
+            "Starts the game with the Abigail Flower, which summons the ghost of her deceased twin sister Abigail.",
+            "Loses only 75% of sanity from monsters and darkness.",
+            "Doesn't lose his mind near ghosts.",
+            "Does not lose sanity if there is a ghost of another player in the world in the ”Survival” server mode.",
+            "Restores 15 sanity when summoning Abigail.",
+            "Can enhance Abigail with elixirs from her creation filter.",
+            "Can create a sister urn in its filter. The building restores 25 Sanity per minute and doubles Abigail's next level when filled with petals."
+          ],
+          "Cons": [
+            "Deals 25% less damage than other characters.",
+            "Loses 30 sanity when Abigail dies."
+          ],
+          "General": ["Sistra's Wraith deals splash damage."]
+        },
+        "Tips": [
+          "Summon your sister from the very beginning of the game so that by the third day she can deal more damage.",
+          "Attack groups of enemies (bees, spiders, etc.), due to the high damage and protection of the sister, this will be an easy farm."
+        ],
+        "Quotes": [
+          "Normal: “She looks sad...”",
+          "Attacker: “Wait, that's not necessary, (player).”",
+          "Assassin: “Haven't we seen enough death, (player)?”",
+          "Resurrectionist: “I hope Abigail doesn't like you more than me...”",
+          "Ghost: “At least the heart will bring one sister back to this world...”",
+          "Pyro: “Fire is probably not the method I would choose...”"
+        ],
+        "Others": "Wendy was added to the game with an unnamed update on August 7, 2012. Before the Strange New Powers update, Abigail would come to Wendy for no reason at night and could even cause damage to her. DST received a character update on March 19, 2020. Before him, Wendy had the same features as in Don't Starve. According to the developers, Wendy's age is from 8 to 10 years. Wendy loves to read, as evidenced by her quotes with references to various literary works. Judging by Wendy's remarks about the musical instruments available in the game, she is interested in music. It is possible that Wendy likes sweet potatoes, as hinted at by the girl's line in the Shipwrecked DLC, which is one of her few optimistic lines about herself. However, this may be a hint that Wendy will be sweet for the monsters. Wendy loves Abigail very much. Wendy and Abigail are the daughters of Jack Carter, brother of William Carter, known as Maxwell. However, what is noteworthy is that they do not react to Maxwell, as an uncle, in any way, either in a single game, or in DST, or even in cinematics. Moreover, Maxwell also does not see his relatives in them. The assumption that Wendy and Abigail are Maxwell`s relatives appeared long before the official confirmation of this fact by the developers. In her DST ghost form, the flower on her head turns yellow to differentiate her from Abigail. Judging by some of the lines, Wendy and Webber have a friendly relationship. The concept (just like science) of “ectoherbology” does not exist in the real world. It is formed by crossing the ancient Greek word “ἐϰτός“ (external) and the English word “herbology“ (herbology/herbology). What this science studies is currently unknown, but based on the words that form its name, it can be assumed that it implies a connection with the “outer world” (the world of the dead) through plants. Actually, this is how it looks in the game. A similar trend existed in alchemy, but not in occultism. What is noteworthy is that Wendy was interested in the latter, but not the first.",
+        "StatsImg": "images/Characters/Wendy/en/Character_Card.png",
+        "DayCharacterImg": "images/Characters/Wendy/Daily/Character.png",
+        "CharacterSkinsImg": "images/Characters/Wendy/Daily/Skins.png",
+        "VideoLink": "7ozRwX35fHE",
+        "SearchImg": "images/Characters/Wendy/en/Search.png",
+        "Gallery": [
+          "images/Characters/Wendy/Galery/Sleep.png",
+          "images/Characters/Wendy/Galery/Portret.png",
+          "images/Characters/Wendy/Galery/Ghost.png",
+          "images/Characters/Wendy/Galery/Meme.png"
+        ]
+      },
+      {
+        "ID": "wx-78",
+        "Name": "WX-78",
+        "Phrase": "“EMPATHY MODULE NOT RESPONDING”",
+        "PhraseColor": "#E58B05",
+        "Background": "[SYNTAX_ERROR_LOG]\nThe WX-78 was the result of an incredible experiment led by {[Loading Compassion Module Library().......MEMORY_ERROR_PATH_NOT_FOUND]} and Robert Wagstaff. The experiment turned out to be a [STUNDERING SUCCESS], but Wagstaff, [A SMALL FOOL FEARING PROGRESS], decided to stop further research. Adamantly believing that the process of its creation could still be improved, WX refused to give up and continued his experiments in secret. When Wagstaff finally found out what he was doing, a heated argument broke out, but 1111 00100000 01101100 01100001 01110100 01100101 00100000 01110100 01101111 01101111 00100000 01101100 01100001 01110100 011 00101",
+        "Description": "WX-78 is the fifth (fourth unlockable) character in the game. A robot that despises all biological life forms with rare exceptions. Has the lowest stats of any character (with the exception of DST), but can increase them significantly.",
+        "Percs": {
+          "Pros": [
+            "In DST, a character can also eat spoiled food without penalties to the food's stats.",
+            "It has a unique energy scale into which it can insert various circuits to obtain boosts.",
+            "Can eat gears to gain 60 health, 75 satiety, and 50 sanity, although cannot improve their maximum stats with them, unlike the single-player version of the game.",
+            "Mechanical chess is more neutral to the WX-78, the radius of approaching it without subsequent aggression is significantly reduced."
+          ],
+          "Cons": [
+            "If the humidity parameter rises above 15, it begins to lose 1 unit of charge every five seconds and receive from 3.3 to 9 units of damage every five seconds, depending on the degree of wetness.",
+            "Starts the game with lower stats than most characters, but can improve them with schematics."
+          ],
+          "General": [
+            "Can use lightning rods, generators, Winona D.R.A.G. generators, electric milk and Volt-goat chauffeur to generate energy.",
+            "Receives a certain amount of eaten gears back after changing characters or dying."
+          ]
+        },
+        "Tips": [
+          "WX-78 attracts lightning to itself like a lightning rod, however, the latter has higher priority - if it is within the range of a structure, lightning will strike it and not the character.",
+          "The following ways to get a system overload are also available: activate the altar, use the telelocation staff, hit the ancient pseudoscientific station with a hammer, be within the radius of the husky whirlwind, approach the thunderbird."
+        ],
+        "Quotes": [
+          "Normal: “GREETINGS, (player). YOU LOOK SMARTER THAN OTHERS”",
+          "Attacker: “MY EXECUTABLES ARE READY TO RUN, (player)”",
+          "Assassin: “TIME TO ELIMINATE THE VIRUS (player).”",
+          "Resurrectionist: “(Player), OF COURSE, OUR MOST VALUABLE ASSET”",
+          "Ghost: “SUBJECT (player) NEEDS A HEART”",
+          "Pyro: “MY FAVORITE SETTING. BURNING”"
+        ],
+        "Others": "The WX-78 was added to the game with the Spoiled Rotten update. With the update, “Strange New Powers“ received more of its own features. The name WX-78 is likely a reference to the RX-78 series mobile suits from the anime Mobile Suit Gundam. The most notable is the RX-78-2 from the same series. You can check out the WX-78 replicas here. WX-78 has a quote about the strange potato: “REMINDS ME OF MY MOTHER“, which may be a reference to GLaDOS from the Portal series. In the Reign of Giants DLC, when the humidity is high, the player loses 0.5 sanity per second. In DST, when the PvP server mode is enabled, WX does not receive additional damage from electric weapons. Judging by his lines, the few living things he doesn't despise are bees, thunderbirds, and worker pigs: when examining the former, he says, “THE MINDLESS DRONE. I LIKE IT,“ and the latter, “FINALLY! A USEFUL BIOLOGICAL UNIT!“ , and third - “WORKER. NOBLE PROFESSION.“ Charged Volt-Goat and Jellyfish do not charge the WX-78 when they are shocked. His ghost resembles the droid R2-D2 from the Star Wars movie. The duration of the lightning buffs is cumulative and can last for several days, however it is advisable to keep a torch in your pocket to be prepared for the end of these powers at night, otherwise you will be killed by Charlie. If WX-78 moves between world levels, it will lose its speed bonus and glow. In Don't Starve Together, if WX-78 dies near Vortox, he will not lose his soul, unlike other characters. For some reason, he doesn't even like Lucy, although in the game she is not an organic life form. Upon examining her, he says, “TAKE IT OUT.“ From the animation and some details you can understand that the WX-78 is the creation of Robert Wagstaff: Its name is similar to the name of one of the Voxol radio models - PR-76. The radio can be seen on the search rod. When inspecting the ship's horse, Wagstaff says: “Incredible! Even I couldn't make my car waterproof.“ This may be a reference to the WX-78's weakness to water. When Wagstaff examines WX-78 sitting on the nightmare throne, he recognizes it. (“This is...? It can't be!“) Both Wagstaff and WX-78 have similar cues when examining a bud. (Wagstaff: “My Favorite Portable Fibonacci Counter“ and WX-78: “PORTABLE FIBONACCI COUNTER“) WX-78 and Wagstaff are the only characters able to understand what part the broken AAK device is missing, namely DR356X001. (Wagstaff: “Oh. It's missing DR356X001“ and WX-78: “OF COURSE IT'S BROKEN, IT'S MISSING DR356X001“) Based on the grainy broadcast cue, WX-78 recognizes Wagstaff (“YOU“). Based on the new information in the video dedicated to the WX-78 update, you can understand the following: Inside WX-78 is the consciousness of an unknown scientist, copied or transferred into the robot's mechanical body by Wagstaff during an experiment. There was a conflict between the WX-78 and Wagstaff, as WX wanted to continue producing similar machines. Wagstaff destroyed his designs and sent WX-78 itself to Permanence. Wilson's line when examining the WX-78 killer refers to the first law of robotics[6]. In early versions of Don't Starve Together, the hunger, sanity, and health caps were capped at 200. All WX-78 phrases are written in capital letters. If you write a chat message in Don't Starve Together, it will also appear above the robot in all capital letters.",
+        "StatsImg": "images/Characters/WX-78/en/Character_Card.png",
+        "DayCharacterImg": "images/Characters/WX-78/Daily/Character.png",
+        "CharacterSkinsImg": "images/Characters/WX-78/Daily/Skins.png",
+        "VideoLink": "UDfzBh_p2YM",
+        "SearchImg": "images/Characters/WX-78/en/Search.png",
+        "Gallery": [
+          "images/Characters/WX-78/Galery/Sleep.png",
+          "images/Characters/WX-78/Galery/Portret.png",
+          "images/Characters/WX-78/Galery/Ghost.png",
+          "images/Characters/WX-78/Galery/Meme.png"
+        ]
+      },
+      {
+        "ID": "woodie",
+        "Name": "Woodie",
+        "Phrase": "“Lucy would want me to chop it down.”",
+        "PhraseColor": "#9F3000",
+        "Background": "Woody is a modest but terribly mysterious man, originally from the Great White North, where the mountains are completely covered with pine trees. The woodcutter keeps the past to himself, with his vest (or, in his case, his flannel). He is never seen without his signature bushy beard or Lucy's trusty axe, which is a mystery in itself. The remaining survivors cannot say for sure: either Woody simply moved, or something lives in an inanimate-looking object. Sometimes they swear that they hear a cheerful woman's voice talking to Woody when no one is around... As the moon's power increased, so did the effects of Woody's curse. He soon discovered that he could transform not only into a beaver, but also into an elk, and even into a goose. When his transformations became harder to predict, Woody decided to find a way to better control his curse. Using all the knowledge he had gained during his time at Permanence (and some additional advice from Wickerbottom), he soon discovered that his transformations could indeed be controlled. And now, by creating idols and consuming them when he wanted to convert, Woody feels more comfortable in his own skin than before.",
+        "Description": "Woodie is the seventh (sixth unlockable) character, representing the image of a typical lumberjack: a thick beard and mustache, a flannel plaid shirt and pants with suspenders.",
+        "Percs": {
+          "Pros": [
+            "He has a talking ax named Lucy, which has no durability and cuts down trees 2 times stronger and faster than usual.",
+            "Can create special idols for transformation.",
+            "Tames pigs, hares and rock lobsters for longer than other characters."
+          ],
+          "Cons": [
+            "Inventory, collecting, crafting and using items are not available when transformed.",
+            "If Woody dies in werewolf form, he will also die in his normal state, similar to Wilba.",
+            "Decrease in sanity at a rate of 6 units/min when transformed."
+          ],
+          "General": [
+            "The chance to summon a Treant is 50% higher than other characters (that is, approximately 2%).",
+            "The beard provides 45 insulation (same as Wilson's beard stage 2), but cannot be shaved.",
+            "Transforms into a beaver, elk, or goose on a full moon, when eating two pieces of monster meat (random werewolf), or when eating one of the idols (werewolf corresponding to the idol).",
+            "Tree Hunger has been removed and replaced with Weremeter, which only appears in Werewolf form. Accordingly, you can no longer eat vegetation."
+          ]
+        },
+        "Tips": [
+          "Despite his lines, Woody is a natural runner. Lucy's throws instantly provoke the warriors' aggression towards Woody, which allows him to keep the attention of dangerous enemies on himself even better than Ves. A feather wreath and a reed tunic with a feather allow Woody to be practically inaccessible to the attacks of Pugna's retinue, even to Pig.",
+          "In the early waves, when there are few dangerous warriors, it can play the role of a good tank due to the increased attack speed of its axe. It is also recommended to take this role in battle with the most dangerous warrior."
+        ],
+        "Quotes": [
+          "Normal: “(Player)! It's funny to see another Canadian here.”",
+          "Attacker: “(Player) is not a real Canadian...”",
+          "Assassin: “Hey, come here, (player)! Here one question came to the fore!”",
+          "Resurrectionist: “You truly have a heart as big as your beard, (player).”",
+          "Ghost: “Canadians should help each other, (player). Let's get the heart.”",
+          "Pyro: “Now this fire seems to be harmful, huh?”"
+        ],
+        "Others": "Woody was added to the game with the Strange New Powers update. Received a character update in DST on September 12, 2019. Before him, wood hunger was an additional parameter that fell over time or intensely when trees were cut down. Upon reaching 25 units of wood hunger, Woody turned into a beaver. Woody's voice is cello; Lucy is a musical saw. The phrase “I love Lucy!“ may be a reference to the series of the same name. If, after turning the beaver back into Woody, you go into the dungeon and exit, Lucy will appear in your inventory. When passing through Maxwell's portal, Lucy is added to the inventory again. Woody's lines can be found here. Judging by his remarks, he suffers from ornithophobia (fear of birds). Judging by the remark about the web, he may suffer from arachnophobia (fear of spiders). Canadian by birth. The reaction to a filled chest is “It`s already packed worse than a tram in Toronto” and to an open sinkhole – “It`s like what`s in your Sudbury down there.” Woody may have worked in railroad construction in the past, because when he looks at the saltpeter, he says, “This is how we build railroads.” Also, judging by the remarks, he suffers from an allergy to grass. Refuses to shave his beard. He comments on this by saying that real woodcutters do not shave. Woody can't swim. This may explain the inability to swim as a beaver (SW). During the battle, Woody shouts the phrase: “Get over here, eh!“ This may be a reference to Scorpion's famous line from the Mortal Kombat series. Pigs left without a home run after Woody Beaver at night, saying: “Fire is good,” etc. This can be explained by the beaver`s night vision. When inspecting the manure, Woody says “Don't mess with camp!“, which most likely means he was a camp counselor. In any werewolf form, Woody can use the dance emote. The werepig will not attack Woody if he is in werewolf form during a full moon (DST).",
+        "StatsImg": "images/Characters/Woodie/en/Character_Card.png",
+        "DayCharacterImg": "images/Characters/Woodie/Daily/Character.png",
+        "CharacterSkinsImg": "images/Characters/Woodie/Daily/Skins.png",
+        "VideoLink": "d0r0WfV2y5s",
+        "SearchImg": "images/Characters/Woodie/en/Search.png",
+        "Gallery": [
+          "images/Characters/Woodie/Galery/Sleep.png",
+          "images/Characters/Woodie/Galery/Portret.png",
+          "images/Characters/Woodie/Galery/Ghost.png",
+          "images/Characters/Woodie/Galery/Meme.png"
+        ]
+      },
+      {
+        "ID": "wickerbottom",
+        "Name": "Wickerbottom",
+        "Phrase": "“Knowledge is power!”",
+        "PhraseColor": "#00EBFA",
+        "Background": "When people meet Miss Wickerbottom, most people assume that they have a good idea of who they are looking at. She looks like the typical librarian she calls herself. Being at home, among the bookshelves, she feels as if she is in her natural habitat. No one would even be surprised to learn that such a person is well versed in a wide range of issues. But might he think that her knowledge rivals that of the experts? And, obviously, it would never even occur to anyone to wonder what a librarian could be doing during non-working hours, when the library doors are closed from prying eyes...",
+        "Description": "Wickerbottom is the sixth (fifth unlockable) character. She is a textbook image of a librarian: gray hair gathered in a bun, a book, glasses.",
+        "Percs": {
+          "Pros": [
+            "Wickerbottom's knowledge is one level higher than that of other characters, so she initially has access to recipes that are unlocked on the scientific machine, and when building it, recipes for the alchemy engine are unlocked.",
+            "It has its own building - a bookcase.",
+            "Can create and read various books."
+          ],
+          "Cons": [
+            "When eating rotten food (yellow background), he receives less satiety and does not restore health at all.",
+            "Cannot eat rotten food (red background).",
+            "Reading books wastes your mind."
+          ],
+          "General": [
+            "Cannot sleep, including from gestalts, flutes and the yawn of a badger bear."
+          ]
+        },
+        "Tips": [
+          "Due to his spell enhancements, Wickerbottom is a better healer than other characters.",
+          "Copes well with the role of a magician; in the battle with the Hog Warrior after he summons grunts from the inferno, an enhanced meteor can kill minions in one shot if there are no battle banners of defense on the battlefield.",
+          "A fairly common tactic after the 3rd wave is to install a bloom of life, and then, when all the boars reach it and fall asleep, wall them up in stone. The main thing is that some player with a Crucible hammer does not hit the anvil."
+        ],
+        "Quotes": [
+          "Normal: “Ah, greetings, (player)! It's funny to see you here.”",
+          "Attacker: “(Player)'s immorality is creating holes in my hypotheses about multiverses.”",
+          "Assassin: “I'm my own worst critic!”",
+          "Resurrectionist: “Our knowledge helped us, right,(player)?”",
+          "Ghost: “Our self-help books are finally going to come in handy, huh, (player)?”",
+          "Pyro: “Burning books is quite tactless, (player).”"
+        ],
+        "Others": "Wickerbottom was added to the game with the Progress! update. With the update, “Strange New Powers“ received its own features and a “Books“ tab. Before this update, she could create prototypes of a shadow manipulator when she was next to an alchemical machine. At the beginning of the game, Wickerbottom has 2 units of papyrus in her inventory, which can be spent on creating a book or, for example, a birdcage. Has the highest level of intelligence among the characters (except for the fully gear-improved WX-78 and Warbucks in its early versions). The voice sounds like an oboe. Often names the names of plants and animals (also bone eyes and wormholes) in Latin. You can see Wickerbottom's remarks here. The only female character to have eye pupils, with the exception of Wynonna. Judging by the lines, Wickerbottom loves owls and fish dishes. Her eyes are always covered with eyelids, they can only be seen open during the start of the game, and when Wickerbottom is sleeping, fishing, or looking around in fear when her sanity is low. When lightning strikes her, you can see bones in her skirt and hair. The rest of the characters also have book reading animations in the game files. Her snowfall skin may be a reference to the Snow Queen from the fairy tale of the same name or to the White Witch from the book “The Chronicles of Narnia“. Wendy's line about the Wickerbottom Murderer (“Murder, she wrote“) is a reference to the popular American detective television series. Wigfrid's phrase about the ghost of Wickerbottom (Heart! Heart! My camp for the heart!) is a reference to William Shakespeare's tragedy “King Richard III“ (A horse, a horse, half a kingdom for a horse!).",
+        "StatsImg": "images/Characters/Wickerbottom/en/Character_Card.png",
+        "DayCharacterImg": "images/Characters/Wickerbottom/Daily/Character.png",
+        "CharacterSkinsImg": "images/Characters/Wickerbottom/Daily/Skins.png",
+        "VideoLink": "15ESUxxJvZs",
+        "SearchImg": "images/Characters/Wickerbottom/en/Search.png",
+        "Gallery": [
+          "images/Characters/Wickerbottom/Galery/Sleep.png",
+          "images/Characters/Wickerbottom/Galery/Portret.png",
+          "images/Characters/Wickerbottom/Galery/Ghost.png",
+          "images/Characters/Wickerbottom/Galery/Meme.png"
         ]
       }
     ]
@@ -349,8 +599,8 @@
       {
         "ID": "wilson",
         "Name": "Уилсон",
-        "Phrase": "“Я буду побеждать силой своего РАЗУМА!”",
-        "PhraseColor": "#2AF556",
+        "Phrase": "“Я буду побеждать силой своего РАЗУМА!””",
+        "PhraseColor": "#A88875",
         "Background": "Однажды поздно вечером, работая в своей домашней лаборатории, Уилсон был ошеломлён: он услышал голос из радио, что обращался непосредственно к нему. Сперва его обуял страх, что он свихнулся от слишком частых поздних экспериментов или от химических паров, что мог случайно вдохнуть. Но голос заверил, что он не просто плод воображения. Более того, голос озвучил учёному предложение: если Уилсон построит машину согласно всем правилам, то наградой ему станут запретные знания, которых ещё никто никогда не видел. Оставив в стороне всё своё здравомыслие (ну какой вред могут принести подозрительные сделки с таинственными бестелесными голосами, в конце-то концов?), Уилсон немедля приступил к созданию машины. Когда она была наконец завершена, у учёного зародилась толика сомнения... то, что могло бы спасти его от его предстоящей участи, будь он твёрже волей. Но голос настоял, и Уилсон повернул рычаг, активировав своё творение... и его больше никогда не видели. Ну, по крайней мере, не в этом мире.",
         "Description": "Уилсон (Wilson) (полн. имя — Уилсон Персиваль Хиггсбери) — первый и главный персонаж, своего рода визитная карточка игры Don't Starve. Он бесстрашный, но довольно самонадеянный учёный джентльмен, который был пойман Максвеллом и перенесён в таинственный дикий мир, в котором он должен выжить.",
         "Percs": {
@@ -380,7 +630,8 @@
         "StatsImg": "images/Characters/Wilson/ru/Character_Card.png",
         "DayCharacterImg": "images/Characters/Wilson/Daily/Character.png",
         "CharacterSkinsImg": "images/Characters/Wilson/Daily/Skins.png",
-        "VideoLink": "https://www.youtube.com/watch?v=A-A9RM0jdwo",
+        "VideoLink": "A-A9RM0jdwo",
+        "SearchImg": "images/Characters/Wilson/ru/Search.png",
         "Gallery": [
           "images/Characters/Wilson/Galery/Sleep.png",
           "images/Characters/Wilson/Galery/Portret.png",
@@ -392,7 +643,7 @@
         "ID": "wormwood",
         "Name": "Вормвуд",
         "Phrase": "“Привет. Друг?”",
-        "PhraseColor": "#2AF556",
+        "PhraseColor": "#05E55E",
         "Background": "В одном из измерений Постоянства с дикими джунглями с ”луны” свалился странный драгоценный камень зелёного цвета (не путать с зелёным самоцветом!), который подарил жизнь ростку растения. Новорождённый Вормвуд пытается осознать, кто он такой. Бабочка? Может, птичка? Нет, не похоже. А может, собачка? Но нет, он только пугает всех зверюшек. Одинокий Вормвуд ложится спать под корень одного из своих неодушевлённых родственников, после чего на нём, как и на других растениях, распускаются цветы.",
         "Description": "Вормвуд (Wormwood) — изначально доступный в Don't Starve: Hamlet персонаж, а также один из платных персонажей в Don't Starve Together, однако будет открыт, если у игрока уже приобретено DLC Hamlet.",
         "Percs": {
@@ -446,7 +697,8 @@
         "StatsImg": "images/Characters/Wormwood/ru/Character_Card.png",
         "DayCharacterImg": "images/Characters/Wormwood/Daily/Character.png",
         "CharacterSkinsImg": "images/Characters/Wormwood/Daily/Skins.png",
-        "VideoLink": "https://www.youtube.com/watch?v=4hugrMLgDsQ",
+        "VideoLink": "4hugrMLgDsQ",
+        "SearchImg": "images/Characters/Wormwood/ru/Search.png",
         "Gallery": [
           "images/Characters/Wormwood/Galery/Sleep.png",
           "images/Characters/Wormwood/Galery/Portret.png",
@@ -458,7 +710,7 @@
         "ID": "maxwell",
         "Name": "Максвелл",
         "Phrase": "“Свобода!”",
-        "PhraseColor": "#2AF556",
+        "PhraseColor": "#020C06",
         "Background": "Бывший король кошмарного трона и к тому же эгоист. Максвелл (который получил своё имя от своей бывшей сценической персоны ”Невероятный Максвелл”) когда-то был наивным ”Уильямом Картером”, бедняком из Лондона, который мечтал стать всемирно известным фокусником. В тот момент, когда судьба вручила Уильяму Кодекс Умбры, он впервые в жизни ощутил настоящую силу. Отбросив свои старые привычки и полностью приняв свою новую личность как харизматичного мастера тёмной магии, Максвелл добился славы и успеха, но ему этого было мало. По мере того, как он всё глубже и глубже погружался в свой магический том, изучая его тайны, тёмное знание одурманивало разум и затуманивало сердце. В своём последнем выступлении Максвелл потерял контроль над чёрной магией, которую он так нагло использовал, и он, и его ассистентка Чарли были втянуты в Постоянство. Там он пробудет, казалось, целую вечность, привязанный к кошмарному трону и вынужденный заманивать всё больше жертв в ловушку Постоянства. Его всё ещё не покидает мысль, что кто-то, кого он обманом заманил в этот мир, мог найти в своём сердце желание освободить его... и это его сильно раздражает. Он никогда не любил быть должником.",
         "Description": "Максвелл (Maxwell) (также известен как ”Демон” и Уильям Картер) — главный антагонист в игре Don't Starve, выступающий в роли неигрового персонажа. Впоследствии может быть разблокирован в качестве игрового персонажа, а в Don't Starve Together изначально является таковым, в мобильной версии DLC доступен сразу. Имеет уникальные способности, тесно связанные с теневой магией.",
         "Percs": {
@@ -492,12 +744,260 @@
         "StatsImg": "images/Characters/Maxwell/ru/Character_Card.png",
         "DayCharacterImg": "images/Characters/Maxwell/Daily/Character.png",
         "CharacterSkinsImg": "images/Characters/Maxwell/Daily/Skins.png",
-        "VideoLink": "https://www.youtube.com/watch?v=A35X4h590Ek",
+        "VideoLink": "A35X4h590Ek",
+        "SearchImg": "images/Characters/Maxwell/ru/Search.png",
         "Gallery": [
           "images/Characters/Maxwell/Galery/Sleep.png",
           "images/Characters/Maxwell/Galery/Portret.png",
           "images/Characters/Maxwell/Galery/Ghost.png",
           "images/Characters/Maxwell/Galery/Meme.png"
+        ]
+      },
+      {
+        "ID": "willow",
+        "Name": "Уиллоу",
+        "Phrase": "“Вещи намного красивее, когда они горят.”",
+        "PhraseColor": "#E54805",
+        "Background": "Уиллоу попала в Постоянство для того, чтобы начать всё с чистого листа — так она всегда считала. Это и позволило ей многое оставить позади. С юных лет Уиллоу, казалось, только и делала, что притягивала неприятности. Она рано осиротела и была вынуждена жить в детском доме с жестокими воспитательницами. А вскоре оказалось, что по ночам ей видятся ужасные существа... существа, от которых мог защитить только её верный плюшевый мишка Берни. Но Берни отняли в наказание за то, что воспитательницы сочли неподходящим поведением, и тени явились за Уиллоу. Ей ничего не оставалось, кроме как постоять за себя. Именно тогда она и узнала: ничто не сдержит тьму лучше ревущего пламени. И до чего же приятно наблюдать за тем, как все твои беды вспыхивают одна за другой и тут же обращаются в пепел... Это будет не в последний раз, когда Уиллоу сожжёт всё, чтобы начать сначала.",
+        "Description": "Уиллоу (Willow) — первый открываемый персонаж и первая девушка в игре. Судя по репликам, обладает довольно скверным характером. Очень любит огонь и не получает от него урона. Уиллоу может пережить ночь без посторонних источников света, так как имеет зажигалку. Чтобы открыть Уиллоу, игроку нужно 160 очков опыта (8 игровых дней, или же 1 час 4 минуты).",
+        "Percs": {
+          "Pros": [
+            "В инвентаре с самого начала игры есть зажигалка, аналогичная по функционалу факелу. Отличается от него меньшей площадью освещения. Зажигалка имеет прочность и рецепт, а также с помощью неё можно жарить продукты.",
+            "Помимо зажигалки, есть старый медвежонок Берни. Берни может быть экипирован для восстановления рассудка и согревания за счёт потери прочности. При низком рассудке Уиллоу Берни будет становиться большим и отвлекать ужасы и враждебных существ на себя.",
+            "Имеет иммунитет к урону от огня.",
+            "Горящие объекты, а также постройки типа костра или кострища повышают рассудок до +6.25/мин, если огонь достаточно яркий и Уиллоу находится близко к нему (эффект складывается).",
+            "Получает меньше урона от перегрева и меньше подвержена перегреву.",
+            "Разжигает костёр эффективнее других персонажей в 1,5 раза.",
+            "Не получает урона при тушении предметов, а также делает это быстрее других персонажей."
+          ],
+          "Cons": [
+            "Теряет рассудок и получает больше урона от замерзания. Больше подвержена как замерзанию, так и замораживанию (например, от циклопа-оленя или ледяного посоха), а тёплая одежда ей помогает хуже, чем остальным персонажам.",
+            "Имеет мало единиц рассудка и, следовательно, другие пороги безумия."
+          ],
+          "General": [
+            "Оба уникальных предмета могут использовать другие игроки (готовить продукты на зажигалке умеют только Уиллоу, Варли и Уолтер, а Берни гигантским становится лишь при безумии самой Уиллоу).",
+            "Теряет и получает на 10% больше рассудка от влияния аур монстров, одежды и т.д."
+          ]
+        },
+        "Tips": [
+          "В связи с тем, что зажигалка не имеет бесконечной прочности, рекомендуется пережидать ночь, поджигая деревья или разводя костёр.",
+          "Очень приятным бонусом является то, что на зажигалке можно поджаривать пищу: можно быстро приготовить мясо, не используя открытый огонь.",
+          "Берни является полноценным боевым спутником, способным помочь в борьбе с многочисленными врагами, но малоэффективен в битве с боссами. Не рекомендуется его использовать постоянно: во-первых, нужно быть в состоянии безумия, и без должного снаряжения можно погибнуть, во-вторых, для починки Берни нужен набор для шитья или верная лента, которые не очень просто достать на ранних этапах игры.",
+          "Минус к замерзанию не играет особой роли, если своевременно нагревать термальный камень и носить шляпу бифало. Удобно греться, стоя вплотную к горящему дереву."
+        ],
+        "Quotes": [
+          "Обычный: “Эй! Это моё лицо, (игрок)! Отдай!”",
+          "Атакующий: “Ты выставляешь нас идиотами, (игрок)!”",
+          "Убийца: “Убийца! Сжечь самозванку!”",
+          "Воскрешающий: “Хаха, неплохо, (игрок).”",
+          "Призрак: “Это вот так мои призрачные волосы выглядят?”",
+          "Поджигатель: “Близняшки-поджигашки! Дай пять.”"
+        ],
+        "Others": "Уиллоу была добавлена в игру с обновлением от 7 августа 2012. С обновлением ”Strange New Powers” получила собственные особенности и уникальный предмет. При осмотре палатки она говорит, что была гёрл-скаутом и заработала все значки. Уиллоу примерно 20 лет. Уиллоу имеет психическое отклонение, называемое пироманией. Оно проявляется в болезненном влечении к поджогам. Точно не известно, поджигает ли Уиллоу при низком рассудке землю спичками или же это случай проявления у неё пирокинеза — способности воспламенять предметы силой мысли. Персона Уиллоу, вероятно, основана на романе Стивена Кинга ”Воспламеняющая взглядом”. Ознакомиться с репликами Уиллоу можно здесь. В старых версиях игры не было зажигалки. Уиллоу поджигала под собой землю, если находилась в полной темноте слишком долго. Драконья муха (RoG icon) не поджигает своей атакой Уиллоу, что в разы облегчает сражение. DLC: RoG: если тушить строения руками, то урон Уиллоу не получит, но скажет, что она обожглась. При осмотре красного зонтика говорит: ”Я люблю этот цвет!”. Также про все красные вещи она говорит, что они красивы, например: красный гриб — ”Красиво”, красный самоцвет — ”Так красиво!”. Поэтому можно предположить, что красный — любимый цвет Уиллоу. Вероятно, из-за того, что красный всегда ассоциируется с огнём. Ненавидит всё, что связано с холодом и льдом, а также синий цвет, ассоциирующийся с ними, что можно понять при осмотре синего самоцвета: ”Фу. Он ужасен.” и ледяного амулета: ”Фу! Эта вещица не по мне.” У Уиллоу, как и у всех игровых персонажей женского пола (кроме Уикерботтом и Виноны), отсутствуют зрачки. Если экипировать зажигалку вместе с цилиндром, рассудок от темноты не будет падать даже ночью.  В синематике можно заметить зажигалку Уиллоу на полке в чулане. Её голос напоминает флейту. Прообразом для мрачного скина вероятно является Уэнсдей Аддамс.",
+        "StatsImg": "images/Characters/Willow/ru/Character_Card.png",
+        "DayCharacterImg": "images/Characters/Willow/Daily/Character.png",
+        "CharacterSkinsImg": "images/Characters/Willow/Daily/Skins.png",
+        "VideoLink": "TKKXXKtFiQw",
+        "SearchImg": "images/Characters/Willow/ru/Search.png",
+        "Gallery": [
+          "images/Characters/Willow/Galery/Sleep.png",
+          "images/Characters/Willow/Galery/Portret.png",
+          "images/Characters/Willow/Galery/Ghost.png",
+          "images/Characters/Willow/Galery/Meme.png"
+        ]
+      },
+      {
+        "ID": "wendy",
+        "Name": "Венди",
+        "Phrase": "“Абигейл? Вернись! Я с тобой ещё не доиграла.”",
+        "PhraseColor": "#0579E5",
+        "Background": "Рассказ о горе Венди начинается с преждевременной гибели её дорогой сестры Абигейл. Венди никак не могла принять мысль о том, что ей придётся продолжить жить без своей сестры. Она обратилась к оккультизму в надежде, что найдёт хоть какой-нибудь способ поговорить с теми, кто на другой стороне. В итоге, после долгих проб и ошибок, когда свечи с сеансов сгорели до основания, а все спиритические доски были выброшены в порыве гнева, девочка была почти готова сдаться и впасть в отчаяние... пока, наконец, не явился знак. Мелодия в стиле рэгтайм могла бы показаться весьма странным посланием из потустороннего мира, но Венди была готова хвататься за всё, лишь бы приблизиться к сестре. И конечно же, скоро голос расскажет ей, что нужно делать...",
+        "Description": "Венди (Wendy) — девочка с весьма макабристическими взглядами на жизнь. Всё происходящее вокруг неё связывает со смертью, даже саму себя. Чтобы открыть Венди, нужно 640 очков опыта (32 игровых дня, или же 4 часа 16 минут).",
+        "Percs": {
+          "Pros": [
+            "Начинает игру, имея при себе цветок Абигейл, с помощью которого призывается призрак её покойной сестры-близнеца Абигейл.",
+            "Теряет только 75% рассудка от монстров и темноты.",
+            "Не теряет рассудок вблизи призраков.",
+            "Не теряет рассудок при наличии в мире призрака другого игрока в режиме сервера ”Выживание”.",
+            "Восстанавливает 15 единиц рассудка при призыве Абигейл.",
+            "Может усиливать Абигейл с помощью эликсиров из своего фильтра создания.",
+            "Может создать сестринскую урну в своём фильтре. Постройка восстанавливает 25 рассудка в минуту и ускоряет в два раза получения следующего уровня Абигейл, когда заполнена лепестками."
+          ],
+          "Cons": [
+            "Наносит на 25% меньше урона, чем другие персонажи.",
+            "Теряет 30 единиц рассудка при смерти Абигейл."
+          ],
+          "General": ["Призрак сестры наносит урон по области."]
+        },
+        "Tips": [
+          "Призывайте сестру с самого начала игры, чтобы к третьему дню она могла наносить больший урон.",
+          "Атакуйте группы противников (пчел, пауков и т. д.), из-за высокого урона и защиты сестры это бадет легкий фарм."
+        ],
+        "Quotes": [
+          "Обычный: “Она выглядит грустной...”",
+          "Атакующий: “(Игрок)... она мне не сестра.”",
+          "Убийца: “Разве не достаточно смертей мы видели, (игрок)?”",
+          "Воскрешающий: “Надеюсь, ты не нравишься Абигейл больше меня...”",
+          "Призрак: “По крайней мере, сердце вернёт одну сестру в этот мир...”",
+          "Поджигатель: “Огонь, вероятно, не тот метод, который я бы избрала...”"
+        ],
+        "Others": "Венди была добавлена в игру с безымянным обновлением от 7 августа 2012. До обновления ”Strange New Powers” Абигейл приходила к Венди просто так по ночам и могла даже нанести ей урон. В DST получила обновление персонажа 19 марта 2020 года. До него Венди обладала теми же особенностями, что в Don't Starve. По словам разработчиков, возраст Венди — от 8 до 10 лет. Венди любит читать, о чём говорят её цитаты с отсылками на различные литературные произведения. Судя по репликам Венди о доступных в игре музыкальных инструментах, она увлекается музыкой. Возможно, Венди любит сладкий картофель, на что намекает фраза девочки из DLC Shipwrecked, являющаяся одной из немногих её оптимистичных фраз касательно самой себя. Однако, возможно это намёк на то, что сладкой Венди будет для монстров. Венди очень любит Абигейл. Венди и Абигейл — дочери Джека Картера, брата Уильяма Картера, известного как Максвелл. Однако, что примечательно, на Максвелла, как на дядю, они никак не реагируют, что в одиночной игре, что в DST и даже в синематиках. Причём Максвелл тоже в них своих родственниц не видит. Предположение, что Венди и Абигейл — родня Максвелла, появились задолго до официального подтверждения этого факта разработчиками. В форме призрака из DST цветок на её голове становится жёлтым, чтобы отличать её от Абигейл. Судя по некоторым репликам, у Венди и Веббера дружеские отношения. Понятия (ровно как и науки) ”эктогербология” в реальном мире не существует. Оно образованно путём скрещения древнегреческого слова ”ἐϰτός” (внешний) и английского ”herbology” (гербология/травология). Что данная наука изучает на данный момент неизвестно, но, исходя из образующих её название слов, можно предположить, что подразумевается связь с ”внешним миром” (миром мёртвых) через растения. Собственно, так это в игре и выглядит. Похожее направление существовало в алхимии, но не в оккультизме. Что примечательно, увлекалась Венди именно последним, но не первой.",
+        "StatsImg": "images/Characters/Wendy/ru/Character_Card.png",
+        "DayCharacterImg": "images/Characters/Wendy/Daily/Character.png",
+        "CharacterSkinsImg": "images/Characters/Wendy/Daily/Skins.png",
+        "VideoLink": "7ozRwX35fHE",
+        "SearchImg": "images/Characters/Wendy/ru/Search.png",
+        "Gallery": [
+          "images/Characters/Wendy/Galery/Sleep.png",
+          "images/Characters/Wendy/Galery/Portret.png",
+          "images/Characters/Wendy/Galery/Ghost.png",
+          "images/Characters/Wendy/Galery/Meme.png"
+        ]
+      },
+      {
+        "ID": "wx-78",
+        "Name": "WX-78",
+        "Phrase": "“МОДУЛЬ СОСТРАДАНИЯ НЕ ОТВЕЧАЕТ”",
+        "PhraseColor": "#E58B05",
+        "Background": "[ЖУРНАЛ_ОШИБОК_СИНТАКСИСА] WX-78 был результатом невероятного эксперимента под руководством {[ЗагрузкаБиблиотекиМодуляСострадания()]} и Роберта Вагстаффа. Эксперимент обернулся [ОШЕЛОМИТЕЛЬНЫМ УСПЕХОМ], но Вагстафф, [НЕДАЛЬНОВИДНЫЙ ДУРАК, БОЯЩИЙСЯ ПРОГРЕССА], решил прекратить дальнейшие исследования. Непреклонно веря в то, что процесс его создания всё ещё можно усовершенствовать, WX отказался сдаваться и продолжал свои эксперименты в тайне. Когда Вагстафф наконец узнал, чем он занимался, разгорелся жаркий спор, но 01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101 00100000 01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101 00100000 01110100 01101111 01101111 00100000 01101100 01100001 01110100 01100101",
+        "Description": "WX-78 — пятый (четвёртый разблокируемый) персонаж в игре. Робот, презирающий все биологические формы жизни за редким исключением. Обладает самыми низкими характеристиками среди всех персонажей (за исключением DST), но может в разы увеличить их.",
+        "Percs": {
+          "Pros": [
+            "В DST персонаж также может есть испорченную еду без штрафов к характеристикам еды.",
+            "Имеет уникальную шкалу энергии, в которую может вставлять различные схемы для получения усилений.",
+            "Может есть шестерёнки для получения 60 единиц здоровья, 75 сытости и 50 рассудка, хотя и не может улучшать максимальные характеристики с помощью них в отличие от одиночной версии игры.",
+            "Механические шахматы более нейтральны к WX-78, радиус приближения к ним без последующей агрессии существенно снижен."
+          ],
+          "Cons": [
+            "Если параметр влажности поднимается выше 15, то начинает терять 1 единицу заряда каждые пять секунд и получать от 3,3 до 9 единиц урона каждые пять секунд в зависимости от степени намокания.",
+            "Начинает игру с более низкими характеристиками, чем большинство персонажей, но может улучшать их с помощью схем."
+          ],
+          "General": [
+            "Может использовать громоотводы, генераторы, Д.Р.А.Г.енераторы Виноны, электрическое молоко и шофруа из вольт-козы для получения энергии.",
+            "Получает некоторое количество съеденных шестерёнок обратно после смены персонажа или смерти."
+          ]
+        },
+        "Tips": [
+          "WX-78 притягивает к себе молнии как громоотвод, однако, приоритет у последнего выше — находясь в радиусе действия структуры, молния ударит в неё, а не в персонажа.",
+          "Доступны также следующие способы получить перегрузку системы: активировать алтарь, использовать посох телелокации, ударить древнюю псевдонаучную станцию молотом, находиться в радиусе вихря лусят, подойти к грозовой птице."
+        ],
+        "Quotes": [
+          "Обычный: “ПРИВЕТСТВУЮ, (игрок). ТЫ ВЫГЛЯДИШЬ РАЗУМНЕЕ ДРУГИХ”",
+          "Атакующий: “МОИ ИСПОЛНЯЕМЫЕ ФАЙЛЫ ГОТОВЫ К ЗАПУСКУ, (игрок)”",
+          "Убийца: “ВРЕМЯ ДЛЯ УСТРАНЕНИЯ ВИРУСА (игрок)”",
+          "Воскрешающий: “(Игрок), КОНЕЧНО ЖЕ, НАШ САМЫЙ ЦЕННЫЙ АКТИВ”",
+          "Призрак: “ПОДЧИНЁННОМУ (игрок) ТРЕБУЕТСЯ СЕРДЦЕ”",
+          "Поджигатель: “МОЯ ЛЮБИМАЯ НАСТРОЙКА. ВЫЖИГАНИЕ”"
+        ],
+        "Others": "WX-78 был добавлен в игру с обновлением “Spoiled Rotten“. С обновлением “Strange New Powers“ получил больше собственных особенностей. Название WX-78, вероятно, является отсылкой на мобильные костюмы серии RX-78 из аниме “Mobile Suit Gundam“. Наиболее примечательным является RX-78-2 из той же серии. Ознакомиться с репликами WX-78 можно здесь. У WX-78 есть цитата про странную картофелину: “НАПОМИНАЕТ МНЕ МОЮ МАТЬ“, что может быть отсылкой к GLaDOS из серии игр Portal. В DLC Reign of Giants при высокой влажности теряет 0,5 единиц рассудка в секунду. В DST при включенном PvP режиме сервера WX не получает дополнительного урона от электрического оружия. Судя по репликам, немногие живые существа, которых он не презирает, — это пчёлы, грозовые птицы и свины-рабочие: при осмотре первых он говорит “БЕЗДУМНЫЙ ДРОН. ОН МНЕ НРАВИТСЯ“, вторых — “НАКОНЕЦ-ТО! ПОЛЕЗНАЯ БИОЛОГИЧЕСКАЯ ЕДИНИЦА!“, а третьих — “РАБОЧИЙ. БЛАГОРОДНАЯ ПРОФЕССИЯ“. Заряженная вольт-коза и медузы, ударив током, не заряжают WX-78. Его призрак похож на дроида R2-D2 из фильма “Звёздные Войны“. Время усилений от молний суммируется и может длиться несколько дней, однако желательно держать в кармане факел, чтобы быть готовым к концу этих способностей ночью, в противном случае вас убьёт Чарли. Если WX-78 перейдёт между уровнями мира, то потеряет бонус к скорости и свечение. Если в Don't Starve Together WX-78 умрёт рядом с Вортоксом, то из него не выпадет душа, в отличие от остальных персонажей. По каким-то причинам не любит даже Люси, хотя в игре она и не является органической формой жизни. При её осмотре он говорит “УБЕРИТЕ ЭТО“. По анимационному ролику и некоторым деталям можно понять, что WX-78 является созданием Роберта Вагстаффа: Его имя похоже на название одной из моделей радио компании Воксола — PR-76. Радио можно заметить на жезле поиска. При осмотре корабельного коня Вагстафф говорит: “Невероятно! Даже я не смог сделать свою машину водонепроницаемой“. Это может являться отсылкой к слабости WX-78 к воде. Когда Вагстафф осматривает сидящего на кошмарном троне WX-78, он узнаёт его. (“Это же...? Не может быть!“) И Вагстафф, и WX-78 имеют похожие реплики при осмотре шишки. (Вагстафф: “Мой любимый портативный счётчик Фибоначчи“ и WX-78: “ПОРТАТИВНЫЙ СЧЁТЧИК ФИБОНАЧЧИ“) WX-78 и Вагстафф — единственные персонажи, способные понять, какой детали не хватает разбитому ААК устройству, а именно DR356X001. (Вагстафф: “Ох. Ему не хватает DR356X001“ и WX-78: “КОНЕЧНО, ОНО СЛОМАНО, У НЕГО ОТСУТСТВУЕТ DR356X001“) Судя по реплике на зернистое вещание, WX-78 узнаёт Вагстаффа (“ТЫ“). Следуя из новой информации в ролике, который приурочен к обновлению WX-78, можно понять следующее: Внутри WX-78 находится сознание неизвестного учёного, скопированное или перемещённое в механическое тело робота Вагстаффом в процессе эксперимента. Между WX-78 и Вагстаффом произошёл конфликт, так как WX хотел продолжить производство себе подобных машин. Вагстафф уничтожил его разработки и отправил самого WX-78 в Постоянство. Фраза Уилсона при осмотре убийцы WX-78 отсылает на первый закон робототехники. В ранних версиях Don't Starve Together максимальное количество голода, рассудка и здоровья ограничивались 200 ед. Все фразы WX-78 пишутся заглавными буквами. Если в Don't Starve Together написать сообщение в чат, то над роботом оно тоже отобразится полностью заглавными буквами.",
+        "StatsImg": "images/Characters/WX-78/ru/Character_Card.png",
+        "DayCharacterImg": "images/Characters/WX-78/Daily/Character.png",
+        "CharacterSkinsImg": "images/Characters/WX-78/Daily/Skins.png",
+        "VideoLink": "7ozRwX35fHE",
+        "SearchImg": "images/Characters/WX-78/ru/Search.png",
+        "Gallery": [
+          "images/Characters/WX-78/Galery/Sleep.png",
+          "images/Characters/WX-78/Galery/Portret.png",
+          "images/Characters/WX-78/Galery/Ghost.png",
+          "images/Characters/WX-78/Galery/Meme.png"
+        ]
+      },
+      {
+        "ID": "woodie",
+        "Name": "Вуди",
+        "Phrase": "“Неплохое дерево, а?”",
+        "PhraseColor": "#9F3000",
+        "Background": "Вуди скромный, но ужасно загадочный человек, родом из Великого белого Севера, где горы сплошь покрыты соснами. Дровосек держит прошлое при себе, при своей жилетке (или, в его случае, при фланели). Его никогда не видели без фирменной густой бороды или верного топора Люси, который сам по себе загадка. Остальные выжившие не могут точно сказать: то ли Вуди просто двинулся, то ли что-то обитает в неодушевлённом на вид предмете. Иногда они клянутся, что слышат весёлый женский голос, говорящий с Вуди, когда рядом никого нет... По мере того, как возрастала сила луны, увеличивались и последствия проклятия Вуди. Вскоре он обнаружил, что может превращаться не только в бобра, но и в лося, и даже в гуся. Когда его превращения стало труднее предсказать, Вуди решил найти способ получше контролировать своё проклятие. Используя все знания, которые он получил за время пребывания в Постоянстве (и некоторые дополнительные советы от Уикерботтом), он вскоре обнаружил, что его преобразования действительно можно контролировать. И теперь, создавая идолы и потребляя их тогда, когда он хотел обратиться, Вуди чувствует себя более уютно в собственной шкуре, чем прежде.",
+        "Description": "Вуди (Woodie) — седьмой (шестой разблокируемый) персонаж, представляющий собой образ типичного лесоруба: густая борода и усы, фланелевая клетчатая рубашка и штаны на подтяжках.",
+        "Percs": {
+          "Pros": [
+            "У него есть говорящий топор по имени Люси, который не имеет запаса прочности и рубит деревья в 2 раза сильнее и быстрее обычного.",
+            "Может создавать особые идолы для превращения.",
+            "Приручает свинов, зайцев и каменных лобстеров на более долгий срок, чем другие персонажи."
+          ],
+          "Cons": [
+            "Инвентарь, сбор, создание и использование предметов недоступны при превращении.",
+            "Если Вуди умрёт в форме оборотня, то умрёт и в обычном состоянии, по аналогии с Уилбой.",
+            "Снижение рассудка со скоростью 6 ед./мин при превращение."
+          ],
+          "General": [
+            "Шанс вызвать энта на 50% выше, чем у других персонажей (то есть примерно 2%).",
+            "Борода даёт 45 теплоизоляции (как на второй стадии бороды Уилсона), но её нельзя сбрить.",
+            "Превращается в бобра, лося или гуся в полнолуние, при съедании двух кусков мяса монстра (случайный оборотень) или при съедании одного из идолов (оборотень, соответствующий идолу).",
+            "Древесный голод удалён и заменён оборотнеметром, который появляется лишь в форме оборотня. Соответственно, теперь нельзя есть растительность."
+          ]
+        },
+        "Tips": [
+          "Несмотря на свои реплики, Вуди — прирождённый бегун. Броски Люси мгновенно провоцируют агрессию воинов на Вуди, что позволяет поддерживать внимание опасных врагов на себе даже лучше, чем Вэсу. Перьевой венок и тростниковая туника с пером позволяют Вуди быть практически недосягаемым к атакам свиты Пугны, даже к Свинорилле.",
+          "На ранних волнах, когда опасных воинов мало, может сыграть роль неплохого танка ввиду повышенной скорости атаки его топора. Также рекомендуется принимать эту роль в сражении с самым опасным воином."
+        ],
+        "Quotes": [
+          "Обычный: “(Игрок)! Забавно здесь видеть ещё одного канадца.”",
+          "Атакующий: “(Игрок) не настоящий канадец...”",
+          "Убийца: “Эй, иди-ка сюда, (игрок)! Тут встал ОСТРИЁМ один вопросик!”",
+          "Воскрешающий: “У тебя действительно такое же большое сердце, как и борода, (игрок).”",
+          "Призрак: “Канадцы должны помогать друг другу, (игрок). Давай-ка добудем сердце.”",
+          "Поджигатель: “Сейчас этот пожар вроде как во вред, а?”"
+        ],
+        "Others": "Вуди был добавлен в игру с обновлением Strange New Powers“. В DST получил обновление персонажа 12 сентября 2019 года. До него древесный голод являлся дополнительным параметром, падающим в течение времени или интенсивно при рубке деревьев. При достижении 25 единиц древесного голода Вуди превращался в бобра. Голос Вуди — виолончель; Люси — музыкальная пила. Фраза “Я люблю Люси!“ может являться отсылкой к одноимённому сериалу. Если после превращения бобра обратно в Вуди зайти в подземелье и выйти, то Люси появится у вас в инвентаре. При прохождении портала Максвелла Люси добавляется в инвентарь повторно. С репликами Вуди можно ознакомиться здесь. Судя по репликам, страдает орнитофобией (боязнью птиц). Судя по реплике о паутине возможно страдает арахнофобией (боязнью пауков). Канадец по происхождению. Реакция на заполненный сундук — “Он и так набит почище трамвая в Торонто“ и на открытую карстовую воронку — “Там внизу — что в твоём Садбери“. Возможно, Вуди в прошлом работал на строительстве железных дорог, так как при взгляде на селитру он говорит: “Вот так мы и строим железные дороги“. Также, судя по репликам, страдает аллергией на траву. Отказывается брить бороду. Комментирует это тем, что настоящие дровосеки не бреются. Вуди не умеет плавать. Возможно, это объясняет невозможность плавать в обличии бобра (SW). При сражении Вуди кричит фразу: “Get over here, eh!“. Возможно, это отсылка к известной фразе Скорпиона из серии игр “Mortal Kombat“. Свины, оставшиеся без дома, в ночное время бегают за Вуди-бобром, говоря: “Огонь — хорошо“ и т. п. Это можно объяснить ночным зрением бобра. При осмотре навоза Вуди говорит “Не гадь в лагере!“, что скорее всего означает, что он был вожатым в лагере. В любой форме оборотня Вуди может использовать эмоцию танца. Свин-оборотень не нападёт на Вуди, если тот находится в форме оборотня во время полнолуния (DST).",
+        "StatsImg": "images/Characters/Woodie/ru/Character_Card.png",
+        "DayCharacterImg": "images/Characters/Woodie/Daily/Character.png",
+        "CharacterSkinsImg": "images/Characters/Woodie/Daily/Skins.png",
+        "VideoLink": "d0r0WfV2y5s",
+        "SearchImg": "images/Characters/Woodie/ru/Search.png",
+        "Gallery": [
+          "images/Characters/Woodie/Galery/Sleep.png",
+          "images/Characters/Woodie/Galery/Portret.png",
+          "images/Characters/Woodie/Galery/Ghost.png",
+          "images/Characters/Woodie/Galery/Meme.png"
+        ]
+      },
+      {
+        "ID": "wickerbottom",
+        "Name": "Уикерботтом",
+        "Phrase": "“Тс-с-с-с! Не разговаривать!”",
+        "PhraseColor": "#00EBFA",
+        "Background": "Когда люди встречают мисс Уикерботтом, большинство предполагает, что они прекрасно понимают, кого видят перед собой. Она выглядит как типичная библиотекарша, какой себя называет. Находясь дома, среди книжных полок, она чувствует себя словно в естественной среде обитания. Никто даже не удивится, если узнает, что такой человек хорошо разбирается в широком круге вопросов. Но может ли он подумать, что её знания соперничают со знаниями экспертов? И, очевидно, никому и в голову не придёт задаваться вопросом, чем может быть занята библиотекарша в нерабочее время, когда двери библиотеки закрыты от посторонних глаз...",
+        "Description": "Уикерботтом (Wickerbottom) — шестой (пятый разблокируемый) персонаж. Представляет из себя хрестоматийный образ библиотекарши: собранные в пучок седые волосы, книжка, очки.",
+        "Percs": {
+          "Pros": [
+            "Знания Уикерботтом на один уровень выше, чем у других персонажей, поэтому ей изначально доступны рецепты, открывающиеся на научной машине, а при её постройке открываются рецепты алхимического двигателя.",
+            "Имеет собственную постройку — книжный шкаф.",
+            "Может создавать и читать различные книги."
+          ],
+          "Cons": [
+            "При поедании подгнившей еды (жёлтый фон) получает меньше сытости, а здоровье не восполняет вообще.",
+            "Не может есть гнилую еду (красный фон).",
+            "Чтение книг тратит рассудок."
+          ],
+          "General": [
+            "Не может уснуть, в том числе от гештальтов, флейты и зевка медведя-барсука"
+          ]
+        },
+        "Tips": [
+          "Из-за усиления заклинаний Уикерботтом является лучшим лекарем, чем остальные персонажи.",
+          "Хорошо справляется и с ролью мага; в битве с Боровом-воином после призыва им хряков из пекла усиленный метеор в один выстрел может убить миньонов, если на поле боя нет боевых знамён защиты.",
+          "Довольно распространённой тактикой после 3 волны является установка цветения жизни, а после, когда все хряки добегут до него и уснут, замуровать их в камень. Главное, чтобы какой-нибудь игрок с молотом Горнила не совершил удар по наковальне."
+        ],
+        "Quotes": [
+          "Обычный: “Ах, приветствую, (игрок)! Забавно тебя здесь видеть.”",
+          "Атакующий: “Аморальность (игрок) создаёт дыры в моих гипотезах о мультивселенных.”",
+          "Убийца: “Я сама себе худший критик!”",
+          "Воскрешающий: “Наши знания нам подсобили, так ведь, (игрок)?”",
+          "Призрак: “Наши книги о самопощи наконец-то пригодятся, а, (игрок)?”",
+          "Поджигатель: “Жечь книги достаточно бестактно, (игрок).”"
+        ],
+        "Others": "Уикерботтом была добавлена в игру с обновлением “Progress!“. С обновлением “Strange New Powers“ получила собственные особенности и вкладку “Книги“. До этого же обновления она, находясь рядом с алхимической машиной, могла создавать прототипы теневого манипулятора. В начале игры в инвентаре Уикерботтом есть 2 единицы папируса, которые можно потратить на создание книги или, например, птичьей клетки. Имеет самый высокий уровень рассудка среди персонажей (кроме полностью улучшенного шестерёнками WX-78 и Ворбакса в ранних своих версиях). Голос звучит как гобой. Зачастую называет имена растений и животных (также костеглаза и червоточины) на латыни. Ознакомиться с репликами Уикерботтом можно здесь. Единственный персонаж женского пола, у которого имеются глазные зрачки, за исключением Виноны. Судя по репликам, Уикерботтом любит сов и рыбные блюда. Её глаза всегда прикрыты веками, их можно увидеть открытыми лишь во время старта игры, и когда Уикерботтом спит, рыбачит или испуганно озирается при низком рассудке. При ударе в неё молнии можно увидеть кости в юбке и волосах. У остальных персонажей в файлах игры также имеется анимация чтения книг. Её снегопадающий скин может быть отсылкой на Снежную Королеву из одноимённой сказки или на Белую колдунью из книги “Хроники Нарнии“. Фраза Венди об Уикерботтом-убийце (Она написала “убийство“) является отсылкой к популярному американскому детективному телесериалу. Фраза Вигфрид о призраке Уикерботтом (Сердце! Сердце! Мой лагерь за сердце!) является отсылкой к трагедии Уильяма Шекспира «Король Ричард III» (Коня, коня, полцарства за коня!).",
+        "StatsImg": "images/Characters/Wickerbottom/ru/Character_Card.png",
+        "DayCharacterImg": "images/Characters/Wickerbottom/Daily/Character.png",
+        "CharacterSkinsImg": "images/Characters/Wickerbottom/Daily/Skins.png",
+        "VideoLink": "15ESUxxJvZs",
+        "SearchImg": "images/Characters/Wickerbottom/ru/Search.png",
+        "Gallery": [
+          "images/Characters/Wickerbottom/Galery/Sleep.png",
+          "images/Characters/Wickerbottom/Galery/Portret.png",
+          "images/Characters/Wickerbottom/Galery/Ghost.png",
+          "images/Characters/Wickerbottom/Galery/Meme.png"
         ]
       }
     ]

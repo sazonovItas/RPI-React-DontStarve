@@ -1,6 +1,6 @@
 .DailyCharacter-container {
   width: 80%;
-  margin: 40px 0 40px 0;
+  margin: 40px 0 25px 0;
 
   display: flex;
   flex-direction: column;
@@ -21,7 +21,6 @@
   width: 100%;
 
   display: flex;
-  justify-content: space-between;
 }
 
 .DailyCharacter-desc {
@@ -39,14 +38,16 @@
 }
 
 .DCName {
-  color: #fff;
+  color: #e0ffff;
 
   font-size: 56px;
+  align-self: center;
   line-height: 120%;
   align-self: center;
 }
 
 .DCPhrase {
+  align-self: center;
   font-size: 48px;
   line-height: 100%;
   align-self: center;
@@ -56,11 +57,14 @@
   width: 100%;
 
   color: #fff;
+  align-self: center;
   font-size: 28px;
   align-self: center;
 }
 
 .DCSkins {
+  margin: 20px 0 0 0;
+
   width: 100%;
 }
 
@@ -69,4 +73,42 @@
 
   width: 80%;
   align-self: center;
+}
+
+@media (max-width: 940px) {
+  .DailyCharacter-container {
+    width: 90%;
+  }
+
+  .DailyCharacter-desc-container {
+    flex-direction: column;
+  }
+
+  .DCImage-container {
+    max-width: 300px;
+    align-self: center;
+  }
+
+  .DailyCharacter-desc {
+    margin: 0 0 0 0;
+  }
+}
+
+@media (max-width: 550px) {
+  .DailyCharacter-container {
+    width: 95%;
+  }
+
+  .DailyCharacter-desc-container {
+    flex-direction: column;
+  }
+
+  .DailyCharacter-desc {
+    margin: 0 0 0 0;
+  }
+
+  .DCVideo {
+    margin: 20px 0 20px 0;
+    width: 100%;
+  }
 }
