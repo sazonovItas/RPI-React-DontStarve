@@ -6,7 +6,7 @@
   display: flex;
   justify-content: center;
 
-  font-size: 60px;
+  font-size: 56px;
   line-height: 180%;
 }
 
@@ -28,7 +28,19 @@
   }
 
   .DevloperCard-container {
-    font-size: 42px;
+    font-size: 46px;
     line-height: 180%;
+  }
+}
+
+@media (max-width: 880px) {
+  .DeveloperCard-img {
+    max-width: 60px;
+    max-height: 60px;
+  }
+
+  .DevloperCard-container {
+    font-size: 38px;
+    line-height: 190%;
   }
 }
