@@ -22,12 +22,19 @@
 }
 
 @media (max-width: 880px) {
+  .SepTitle-container {
+    margin: 8px 0 8px 0;
+  }
+
   .SepTitle-text {
     font-size: 44px;
   }
 }
 
 @media (max-width: 550px) {
+  .SepTitle-container {
+    margin: 5px 0 5px 0;
+  }
   .SepTitle-text {
     font-size: 32px;
   }

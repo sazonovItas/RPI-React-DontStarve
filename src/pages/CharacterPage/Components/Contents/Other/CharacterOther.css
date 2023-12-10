@@ -1,0 +1,40 @@
+.CharacterOther-container {
+  margin: 20px 0 20px 0;
+  width: 80%;
+
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  align-content: center;
+}
+
+.CharacterOther-desc {
+  text-align: center;
+  font-family: "DontStarveFont";
+  font-style: normal;
+  font-weight: 400;
+  color: #683f0e;
+  font-size: 36px;
+}
+
+@media (max-width: 880px) {
+  .CharacterOther-container {
+    margin: 15px 0 20px 0;
+    width: 90%;
+  }
+
+  .CharacterOther-desc {
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 550px) {
+  .CharacterOther-container {
+    margin: 10px 0 20px 0;
+    width: 95%;
+  }
+
+  .CharacterOther-desc {
+    font-size: 26px;
+  }
+}

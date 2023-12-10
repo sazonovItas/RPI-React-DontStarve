@@ -6,14 +6,14 @@
 
   font-family: "DontStarveFont";
   font-style: normal;
-  font-weight: 400;
+  font-weight: 200;
   text-decoration: none;
 }
 
 .contents-header {
   padding: 0 0 0 10px;
 
-  font-size: 44px;
+  font-size: 50px;
   color: #fff;
 }
 
@@ -24,11 +24,38 @@
 }
 
 .contents-list-item {
-  font-size: 36px;
+  font-size: 42px;
   color: #000;
 }
 
 .contents-list-item:hover {
   text-shadow: 0px 0px 7px #fff;
   cursor: pointer;
+}
+
+@media (max-width: 1280px) {
+  .contents-header {
+    font-size: 44px;
+  }
+  .contents-list-item {
+    font-size: 36px;
+  }
+}
+
+@media (max-width: 880px) {
+  .contents-header {
+    font-size: 38px;
+  }
+  .contents-list-item {
+    font-size: 34px;
+  }
+}
+
+@media (max-width: 550px) {
+  .contents-header {
+    font-size: 34px;
+  }
+  .contents-list-item {
+    font-size: 30px;
+  }
 }

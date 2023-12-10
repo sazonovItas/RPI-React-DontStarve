@@ -1,19 +1,14 @@
-.CharacterOrigin-container {
-  width: 85%;
+.CharacterTips-container {
   margin: 20px 0 20px 0;
+
+  width: 85%;
 
   display: flex;
   flex-direction: column;
-  align-content: center;
   align-self: center;
 }
 
-.CharacterOrigin-desc {
-  display: flex;
-  flex-direction: column;
-  align-content: center;
-
-  text-align: center;
+.CharacterTips-list {
   font-family: "DontStarveFont";
   font-style: normal;
   font-weight: 400;
@@ -21,31 +16,26 @@
   font-size: 36px;
 }
 
-.Video-container {
-  margin: 20px 0 20px 0;
-  align-self: center;
-  max-width: 720px;
-  width: 100%;
+.CharacterTips-list-item {
+  margin: 0 0 0 15px;
 }
 
 @media (max-width: 880px) {
-  .CharacterOrigin-container {
+  .CharacterTips-container {
     margin: 15px 0 15px 0;
     width: 90%;
   }
-
-  .CharacterOrigin-desc {
+  .CharacterTips-list {
     font-size: 30px;
   }
 }
 
 @media (max-width: 550px) {
-  .CharacterOrigin-container {
+  .CharacterTips-container {
     margin: 10px 0 10px 0;
     width: 95%;
   }
-
-  .CharacterOrigin-desc {
+  .CharacterTips-list {
     font-size: 26px;
   }
 }

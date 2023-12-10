@@ -8,6 +8,8 @@ import Header from "../../components/Layouts/Header/Header";
 import Footer from "../../components/Layouts/Footer/Footer";
 import CharacterIntro from "./Components/CharacterIntro/CharacterIntro";
 import CharacterOrigin from "./Components/Contents/Origin/CharacterOrigin";
+import CharacterOther from "./Components/Contents/Other/CharacterOther";
+import CharacterTips from "./Components/Contents/Tips/CharacterTips";
 
 function CharacterPage() {
   useEffect(() => {
@@ -44,6 +46,14 @@ function CharacterPage() {
           Title={db.CharacterPage.Content.Background}
           YoutubeVideoId={character.VideoLink}
           Text={character.Background}
+        />
+        <CharacterTips
+          Title={db.CharacterPage.Content.Tips}
+          Text={character.Tips}
+        />
+        <CharacterOther
+          Title={db.CharacterPage.Content.Other}
+          Text={character.Others}
         />
         <Footer
           Title={db.CharacterPage.Footer.Title}

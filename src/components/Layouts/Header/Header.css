@@ -88,6 +88,7 @@
 
 .header-description {
   display: flex;
+
   flex-direction: column;
 }
 
@@ -96,7 +97,7 @@
   max-height: 120px;
 }
 
-@media (max-width: 1320px) {
+@media (max-width: 1420px) {
   .header-title {
     font-size: 44px;
     line-height: 100%;
@@ -138,9 +139,9 @@
   }
 }
 
-@media (max-width: 820px) {
+@media (max-width: 860px) {
   .header-title {
-    font-size: 24px;
+    font-size: 28px;
     line-height: 100%;
   }
 
@@ -150,7 +151,7 @@
   }
 
   .Item-Menu-H {
-    font-size: 20px;
+    font-size: 24px;
   }
 
   .header-logo {
@@ -159,13 +160,13 @@
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 550px) {
   .header-description {
     flex-direction: row;
   }
 
   .header-title {
-    max-width: 200px;
+    max-width: 220px;
     font-size: 22px;
     line-height: 100%;
   }

@@ -6,8 +6,8 @@ import SepTitle from "../../../../../components/common/SepTitle/SepTitle";
 function CharacterOrigin(props: CharacterOriginProps) {
   return (
     <>
+      <SepTitle Text={props.Title} Id={"background"} />
       <div className="CharacterOrigin-container">
-        <SepTitle Text={props.Title} Id={"background"} />
         <div className="Video-container">
           <Video VideoId={props.YoutubeVideoId} />
         </div>
