@@ -5,6 +5,7 @@ export interface Database {
   Footer: Footer;
   MainPage: MainPage;
   SearchPage: SearchPage;
+  CharacterPage: CharacterPage;
   Characters: Character[];
 }
 
@@ -18,6 +19,10 @@ export interface ServerErrorPage {
   Title: string;
   SubTitle: string;
   Description: string;
+}
+
+export interface CharacterPage {
+  Footer: FooterItems;
 }
 
 export interface MainPage {

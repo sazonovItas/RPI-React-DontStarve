@@ -123,6 +123,21 @@
         ]
       }
     },
+    "CharacterPage": {
+      "Footer": {
+        "Title": "Survivor Encyclopedia: Don't Starve Together Characters",
+        "Menu": [
+          {
+            "Text": "Characters",
+            "Url": "/RPI-React-DontStarve/Characters#main"
+          },
+          {
+            "Text": "Searching",
+            "Url": "/RPI-React-DontStarve/Characters#searching"
+          }
+        ]
+      }
+    },
     "Characters": [
       {
         "ID": "wilson",
@@ -642,6 +657,21 @@
         "Menu": [
           {
             "Text": "Главная",
+            "Url": "/RPI-React-DontStarve/Characters#main"
+          },
+          {
+            "Text": "Поиск",
+            "Url": "/RPI-React-DontStarve/Characters#searching"
+          }
+        ]
+      }
+    },
+    "CharacterPage": {
+      "Footer": {
+        "Title": "Энциклопедия выживших: Персонажи Don't Starve Together",
+        "Menu": [
+          {
+            "Text": "Персонажи",
             "Url": "/RPI-React-DontStarve/Characters#main"
           },
           {

@@ -15,6 +15,7 @@ function SearchInput(props: ISearchInput) {
           className="Input"
           style={{
             color: "#000",
+            width: "100%",
             padding: "20px 0 20px 34px",
             fontFamily: "DontStarveFont",
             fontSize: "30px",
