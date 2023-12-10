@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import background from "/images/backgrounds/NotFoundPage.png";
+import background from "/images/backgrounds/SearchPage.jpg";
 import "./SearchPage.css";
 import Header from "../../components/Layouts/Header/Header";
 import Footer from "../../components/Layouts/Footer/Footer";

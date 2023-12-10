@@ -1,5 +1,5 @@
 import "./404Page.css";
-import background from "/images/backgrounds/NotFoundPage.png";
+import background from "/images/backgrounds/NotFoundPage.jpg";
 import ErrorComponent from "../../components/ErrorComponent/ErrorComponent";
 import character from "/images/404NotFound/character.png";
 import Header from "../../components/Layouts/Header/Header";

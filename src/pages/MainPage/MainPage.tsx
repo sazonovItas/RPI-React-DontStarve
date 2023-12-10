@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import background from "/images/backgrounds/MainPage.png";
+import background from "/images/backgrounds/MainPage.jpg";
 import Header from "../../components/Layouts/Header/Header";
 import Footer from "../../components/Layouts/Footer/Footer";
 import "./MainPage.css";

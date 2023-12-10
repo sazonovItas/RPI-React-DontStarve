@@ -1,5 +1,5 @@
 import "./500Page.css";
-import background from "/images/backgrounds/ServerErrorPage.png";
+import background from "/images/backgrounds/ServerErrorPage.jpg";
 import ErrorComponent from "../../components/ErrorComponent/ErrorComponent";
 import character from "/images/500ServerError/character.png";
 import { useDatabase } from "../../db/DataContext";
