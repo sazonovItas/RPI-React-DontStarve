@@ -1,0 +1,29 @@
+.contents-container {
+  max-width: 300px;
+
+  border: 5px solid #d0c881;
+  background: rgba(221, 192, 136, 0.37);
+
+  font-family: "DontStarveFont";
+  font-style: normal;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.contents-header {
+  padding: 0 0 0 10px;
+
+  font-size: 44px;
+  color: #000;
+}
+
+.contents-list {
+  padding: 0 0 0 40px;
+
+  list-style-type: decimal;
+}
+
+.contents-list-item {
+  font-size: 36px;
+  color: #fff;
+}

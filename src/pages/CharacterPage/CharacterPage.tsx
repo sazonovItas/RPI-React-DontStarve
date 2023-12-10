@@ -6,8 +6,11 @@ import { Character } from "../../db/DbScheme";
 import NotFoundPage from "../404Page/404Page";
 import Header from "../../components/Layouts/Header/Header";
 import Footer from "../../components/Layouts/Footer/Footer";
+import ContentsComponent from "../../components/common/Contents/Contents";
 
 function CharacterPage() {
+  const curUrl = location.pathname;
+
   useEffect(() => {
     const body = document.body;
     if (body != null) {
@@ -30,6 +33,11 @@ function CharacterPage() {
     <>
       <Header isFullWidth={true} />
       <div className="main-container">
+        <ContentsComponent
+          CurUrl={curUrl}
+          Title={db.CharacterPage.Content.Title}
+          Contents={db.CharacterPage.Content.Contents}
+        />
         <Footer
           Title={db.CharacterPage.Footer.Title}
           Menu={db.CharacterPage.Footer.Menu}

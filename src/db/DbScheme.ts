@@ -22,7 +22,24 @@ export interface ServerErrorPage {
 }
 
 export interface CharacterPage {
+  Content: Content;
   Footer: FooterItems;
+}
+
+export interface Content {
+  Title: string;
+  Contents: Contents[];
+  Background: string;
+  Percs: string;
+  Tips: string;
+  Quotes: string;
+  Other: string;
+  Gallery: string;
+}
+
+export interface Contents {
+  Url: string;
+  Text: string;
 }
 
 export interface MainPage {
