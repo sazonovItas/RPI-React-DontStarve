@@ -36,7 +36,12 @@ export interface SepTitle {
 export interface SearchPage {
   Intro: Intro;
   Title: SepTitle;
+  SearchInput: Input;
   Footer: FooterItems;
+}
+
+export interface Input {
+  Text: string;
 }
 
 export interface Intro {

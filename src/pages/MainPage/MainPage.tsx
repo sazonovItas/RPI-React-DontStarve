@@ -13,8 +13,6 @@ import DailyCharacter from "./Components/DailyCharacter/DailyCharacter";
 function MainPage() {
   const db = useDatabase();
   const characterId = GetOrSetDailyCharacter(db.Characters.length);
-
-  // Set background
   useEffect(() => {
     const body = document.body;
     if (body != null) {

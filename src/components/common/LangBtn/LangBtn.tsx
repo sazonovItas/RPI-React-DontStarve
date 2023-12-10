@@ -11,7 +11,7 @@ function LangBtn() {
 
   return (
     <button
-      className={`LangBtn LangBtn-${lang === "en" ? "en" : "ru"}`}
+      className={`LangBtn LangBtn-${lang === "en" ? "en" : "ru"} `}
       onClick={() => changeButton()}
     ></button>
   );

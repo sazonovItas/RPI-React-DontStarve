@@ -102,6 +102,9 @@
         "Title": "Characters",
         "Desc": "The game features 19 characters, some of which will be unlocked only after purchasing the DLC. In Don't Starve Together, all standard characters are immediately unlocked, as well as Wynonna and Walter. Wormwood, Vortox, Wurt and Wanda are unlocked for 2700 threads."
       },
+      "SearchInput": {
+        "Text": "Search character..."
+      },
       "Title": {
         "Text": "List of game characters",
         "Id": "gamecharacters"
@@ -133,9 +136,7 @@
             "Wilson have a skill tree",
             "Wilson one of the most balanced character"
           ],
-          "Cons": [
-            "No cons"
-          ],
+          "Cons": ["No cons"],
           "General": [
             "Wilson grows a beard that protects against freezing, but slows down cooling when overheated"
           ]
@@ -247,12 +248,8 @@
             "Capable of restoring sanity without additional means (+6.7/min)",
             "Does not cost Sanity when equipping Armor of Night, Darksaber, Dreadstone Armor, Dreadstone Helm, Void Robe, Void Hood, and Shadow Reaper"
           ],
-          "Cons": [
-            "Physically weak: has only 75 health units."
-          ],
-          "General": [
-            "Can use Wickerbottom books, but not create them."
-          ]
+          "Cons": ["Physically weak: has only 75 health units."],
+          "General": ["Can use Wickerbottom books, but not create them."]
         },
         "Tips": [
           "Mage is the main role in Maxwell's priority. Starting the game with a Tome of Petrification, Maxwell must neutralize small groups of enemy warriors, turning them to stone. Pairs especially well with Wickerbottom in a team, allowing the use of 2 volumes of petrification. Once the Hellstaff drops, Maxwell can either wield it for the rest of the match, dealing significant damage with his duelists, or alternate it with the Summon Tome, setting up Golems for more firepower",
@@ -355,9 +352,7 @@
             "Deals 25% less damage than other characters.",
             "Loses 30 sanity when Abigail dies."
           ],
-          "General": [
-            "Sistra's Wraith deals splash damage."
-          ]
+          "General": ["Sistra's Wraith deals splash damage."]
         },
         "Tips": [
           "Summon your sister from the very beginning of the game so that by the third day she can deal more damage.",
@@ -635,6 +630,9 @@
         "Title": "Персонажи",
         "Desc": "В игре присутствую 19 персонажей, часть из которых будут разблокированы только после покупки DLC. В Don't Starve Together сразу открыты все стандартные персонажи, а также Винона и Уолтер. Вормвуд, Вортокс, Вурт и Ванда открываются за 2700 ниток."
       },
+      "SearchInput": {
+        "Text": "Найти персонажа..."
+      },
       "Title": {
         "Text": "Список игровых персонажей",
         "Id": "gamecharacters"
@@ -666,9 +664,7 @@
             "У Уилсона есть древо навыков",
             "Уилсон один из самых сбалансированных персонажей"
           ],
-          "Cons": [
-            "Нет недостатков"
-          ],
+          "Cons": ["Нет недостатков"],
           "General": [
             "Уилсон отращивает бороду, которая защищает от замерзания, но замедляет охлаждение при перегреве"
           ]
@@ -781,9 +777,7 @@
             "Способен восстанавливать рассудок без дополнительных средств (+6.7/мин)",
             "Не тратит рассудок при экипировке брони ночи, тёмного меча, брони из камня ужаса, шлема из камня ужаса, мантии пустоты, капюшона пустоты и теневого жнеца"
           ],
-          "Cons": [
-            "Слаб физически: имеет всего 75 единиц здоровья"
-          ],
+          "Cons": ["Слаб физически: имеет всего 75 единиц здоровья"],
           "General": [
             "Может использовать книги Уикерботтом, но не создавать их"
           ]
@@ -889,9 +883,7 @@
             "Наносит на 25% меньше урона, чем другие персонажи.",
             "Теряет 30 единиц рассудка при смерти Абигейл."
           ],
-          "General": [
-            "Призрак сестры наносит урон по области."
-          ]
+          "General": ["Призрак сестры наносит урон по области."]
         },
         "Tips": [
           "Призывайте сестру с самого начала игры, чтобы к третьему дню она могла наносить больший урон.",

@@ -1,38 +1,36 @@
 import { useState } from "react";
 import "./SearchInput.css";
 import { ISearchInput } from "./SearchInput";
-import SearchIcon from "@mui/icons-material/Search";
 import InputBase from "@mui/material/InputBase";
-import InputAdornment from "@mui/material/InputAdornment";
 
-function SearchInput({ onSearch, id }: ISearchInput) {
+function SearchInput(props: ISearchInput) {
   const [inputValue, setInputValue] = useState("");
 
   return (
-    <div className="Root" id={id}>
-      <InputBase
-        placeholder="I am looking for..."
-        className="Input"
-        style={{
-          color: "#68759E",
-          padding: "22px 0 22px 26px",
-          fontFamily: "DontStarveFont",
-          fontSize: "25px",
-          fontWeight: "400",
-        }}
-        startAdornment={
-          <InputAdornment position="start">
-            <SearchIcon className="Icon" style={{ fontSize: "40px" }} />
-          </InputAdornment>
-        }
-        onChange={(e) => {
-          setInputValue(e.target.value);
-          if (e.target.value.trim() !== "") {
-            onSearch(e.target.value);
-          }
-        }}
-        value={inputValue}
-      />
+    <div className="input-covering">
+      <div className="input-container" id={props.id}>
+        <InputBase
+          placeholder={props.searchText}
+          id="search-input"
+          className="Input"
+          style={{
+            color: "#000",
+            padding: "20px 0 20px 34px",
+            fontFamily: "DontStarveFont",
+            fontSize: "30px",
+            fontStyle: "normal",
+            fontWeight: "400",
+            lineHeight: "160%",
+          }}
+          onChange={(e) => {
+            setInputValue(e.target.value);
+            if (e.target.value.trim() !== "") {
+              props.onSearch(e.target.value);
+            }
+          }}
+          value={inputValue}
+        />
+      </div>
     </div>
   );
 }
