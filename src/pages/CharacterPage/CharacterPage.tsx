@@ -1,16 +1,15 @@
 import { useEffect, useMemo } from "react";
-import background from "/images/backgrounds/CharacterPage.png";
+import background from "/images/backgrounds/CharacterPage.jpg";
 import { useParams } from "react-router-dom";
 import { useDatabase } from "../../db/DataContext";
 import { Character } from "../../db/DbScheme";
 import NotFoundPage from "../404Page/404Page";
 import Header from "../../components/Layouts/Header/Header";
 import Footer from "../../components/Layouts/Footer/Footer";
-import ContentsComponent from "../../components/common/Contents/Contents";
+import CharacterIntro from "./Components/CharacterIntro/CharacterIntro";
+import CharacterOrigin from "./Components/Contents/Origin/CharacterOrigin";
 
 function CharacterPage() {
-  const curUrl = location.pathname;
-
   useEffect(() => {
     const body = document.body;
     if (body != null) {
@@ -33,10 +32,18 @@ function CharacterPage() {
     <>
       <Header isFullWidth={true} />
       <div className="main-container">
-        <ContentsComponent
-          CurUrl={curUrl}
-          Title={db.CharacterPage.Content.Title}
-          Contents={db.CharacterPage.Content.Contents}
+        <CharacterIntro
+          Name={character.Name}
+          Phrase={character.Phrase}
+          PhraseColor={character.PhraseColor}
+          Description={character.Description}
+          StatsImg={character.StatsImg}
+          Content={db.CharacterPage.Content}
+        />
+        <CharacterOrigin
+          Title={db.CharacterPage.Content.Background}
+          YoutubeVideoId={character.VideoLink}
+          Text={character.Background}
         />
         <Footer
           Title={db.CharacterPage.Footer.Title}

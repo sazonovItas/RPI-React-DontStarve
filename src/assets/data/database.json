@@ -178,7 +178,7 @@
         "ID": "wilson",
         "Name": "Wilson",
         "Phrase": "“I will conquer it all with the power of my MIND!”",
-        "PhraseColor": "#A88875",
+        "PhraseColor": "#9E6C3E",
         "Background": "Late one evening, while working in his home laboratory, Wilson was stunned to hear a voice from the radio speaking directly to him. At first he was overcome by the fear that he had gone crazy from too many late experiments or from chemical fumes that he might accidentally inhale. But the voice assured that he was not just a figment of the imagination. Moreover, the voice voiced a proposal to the scientist: if Wilson builds a machine according to all the rules, then his reward will be forbidden knowledge that no one has ever seen before. Leaving all his sanity aside (what harm can suspicious transactions with mysterious disembodied voices do, after all?), Wilson immediately began creating the machine. When it was finally completed, the scientist began to have a bit of doubt... something that could have saved him from his impending fate if he had had a stronger will. But the voice insisted, and Wilson turned the lever, activating his creation... and it was never seen again.",
         "Description": "Wilson (full name - Wilson Percival Higgsbury) is the first and main character, a kind of calling card of the game Don't Starve. He is a fearless but rather arrogant gentleman scientist who is captured by Maxwell and taken to a mysterious wild world in which he must survive.",
         "Percs": {
@@ -186,9 +186,7 @@
             "Wilson have a skill tree",
             "Wilson one of the most balanced character"
           ],
-          "Cons": [
-            "No cons"
-          ],
+          "Cons": ["No cons"],
           "General": [
             "Wilson grows a beard that protects against freezing, but slows down cooling when overheated"
           ]
@@ -300,12 +298,8 @@
             "Capable of restoring sanity without additional means (+6.7/min)",
             "Does not cost Sanity when equipping Armor of Night, Darksaber, Dreadstone Armor, Dreadstone Helm, Void Robe, Void Hood, and Shadow Reaper"
           ],
-          "Cons": [
-            "Physically weak: has only 75 health units."
-          ],
-          "General": [
-            "Can use Wickerbottom books, but not create them."
-          ]
+          "Cons": ["Physically weak: has only 75 health units."],
+          "General": ["Can use Wickerbottom books, but not create them."]
         },
         "Tips": [
           "Mage is the main role in Maxwell's priority. Starting the game with a Tome of Petrification, Maxwell must neutralize small groups of enemy warriors, turning them to stone. Pairs especially well with Wickerbottom in a team, allowing the use of 2 volumes of petrification. Once the Hellstaff drops, Maxwell can either wield it for the rest of the match, dealing significant damage with his duelists, or alternate it with the Summon Tome, setting up Golems for more firepower",
@@ -408,9 +402,7 @@
             "Deals 25% less damage than other characters.",
             "Loses 30 sanity when Abigail dies."
           ],
-          "General": [
-            "Sistra's Wraith deals splash damage."
-          ]
+          "General": ["Sistra's Wraith deals splash damage."]
         },
         "Tips": [
           "Summon your sister from the very beginning of the game so that by the third day she can deal more damage.",
@@ -764,7 +756,7 @@
         "ID": "wilson",
         "Name": "Уилсон",
         "Phrase": "“Я буду побеждать силой своего РАЗУМА!””",
-        "PhraseColor": "#A88875",
+        "PhraseColor": "#9E6C3E",
         "Background": "Однажды поздно вечером, работая в своей домашней лаборатории, Уилсон был ошеломлён: он услышал голос из радио, что обращался непосредственно к нему. Сперва его обуял страх, что он свихнулся от слишком частых поздних экспериментов или от химических паров, что мог случайно вдохнуть. Но голос заверил, что он не просто плод воображения. Более того, голос озвучил учёному предложение: если Уилсон построит машину согласно всем правилам, то наградой ему станут запретные знания, которых ещё никто никогда не видел. Оставив в стороне всё своё здравомыслие (ну какой вред могут принести подозрительные сделки с таинственными бестелесными голосами, в конце-то концов?), Уилсон немедля приступил к созданию машины. Когда она была наконец завершена, у учёного зародилась толика сомнения... то, что могло бы спасти его от его предстоящей участи, будь он твёрже волей. Но голос настоял, и Уилсон повернул рычаг, активировав своё творение... и его больше никогда не видели. Ну, по крайней мере, не в этом мире.",
         "Description": "Уилсон (Wilson) (полн. имя — Уилсон Персиваль Хиггсбери) — первый и главный персонаж, своего рода визитная карточка игры Don't Starve. Он бесстрашный, но довольно самонадеянный учёный джентльмен, который был пойман Максвеллом и перенесён в таинственный дикий мир, в котором он должен выжить.",
         "Percs": {
@@ -772,9 +764,7 @@
             "У Уилсона есть древо навыков",
             "Уилсон один из самых сбалансированных персонажей"
           ],
-          "Cons": [
-            "Нет недостатков"
-          ],
+          "Cons": ["Нет недостатков"],
           "General": [
             "Уилсон отращивает бороду, которая защищает от замерзания, но замедляет охлаждение при перегреве"
           ]
@@ -887,9 +877,7 @@
             "Способен восстанавливать рассудок без дополнительных средств (+6.7/мин)",
             "Не тратит рассудок при экипировке брони ночи, тёмного меча, брони из камня ужаса, шлема из камня ужаса, мантии пустоты, капюшона пустоты и теневого жнеца"
           ],
-          "Cons": [
-            "Слаб физически: имеет всего 75 единиц здоровья"
-          ],
+          "Cons": ["Слаб физически: имеет всего 75 единиц здоровья"],
           "General": [
             "Может использовать книги Уикерботтом, но не создавать их"
           ]
@@ -995,9 +983,7 @@
             "Наносит на 25% меньше урона, чем другие персонажи.",
             "Теряет 30 единиц рассудка при смерти Абигейл."
           ],
-          "General": [
-            "Призрак сестры наносит урон по области."
-          ]
+          "General": ["Призрак сестры наносит урон по области."]
         },
         "Tips": [
           "Призывайте сестру с самого начала игры, чтобы к третьему дню она могла наносить больший урон.",

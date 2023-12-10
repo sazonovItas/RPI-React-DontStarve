@@ -1,0 +1,27 @@
+.CharacterOrigin-container {
+  margin: 0 20px 0 20px;
+
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+.CharacterOrigin-desc {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+
+  text-align: center;
+  font-family: "DontStarveFont";
+  font-style: normal;
+  font-weight: 400;
+  color: #683f0e;
+  font-size: 36px;
+}
+
+.Video-container {
+  margin: 20px 0 20px 0;
+  align-self: center;
+  max-width: 720px;
+  width: 85%;
+}
