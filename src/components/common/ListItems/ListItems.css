@@ -1,0 +1,58 @@
+.ListItems-Common {
+  width: 100%;
+
+  display: flex;
+  align-items: center;
+}
+
+.ListItems-icon {
+  margin: 0 10px 0 0;
+}
+
+.ListItems-container {
+  margin: 20px 0 20px 0;
+  width: 100%;
+
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  align-content: center;
+}
+
+.ListItems-list {
+  margin: 5px 0 5px 35px;
+}
+
+.ListItems-list-item {
+  color: #683f0e;
+
+  font-family: "DontStarveFont";
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 120%;
+}
+
+@media (max-width: 880px) {
+  .ListItems-container {
+    margin: 12px 0 12px 0;
+  }
+
+  .ListItems-list-item {
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 550px) {
+  .ListItems-container {
+    margin: 8px 0 8px 0;
+  }
+
+  .ListItems-icon {
+    margin: 0 5px 0 0;
+  }
+
+  .ListItems-list-item {
+    font-size: 26px;
+  }
+}

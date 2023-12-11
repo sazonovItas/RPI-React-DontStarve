@@ -32,9 +32,14 @@ export interface Content {
   Background: string;
   Percs: string;
   Tips: string;
-  Quotes: string;
+  Quotes: Quote[];
   Other: string;
   Gallery: string;
+}
+
+export interface Quote {
+  Class: string;
+  Text: string;
 }
 
 export interface Contents {
@@ -74,6 +79,7 @@ export interface Intro {
 export interface Update {
   Img: string;
   Desc: string;
+  Link: string;
 }
 
 export interface Header {

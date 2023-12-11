@@ -24,7 +24,11 @@ function MainPage() {
       <Header isFullWidth={true} />
       <div className="main-container">
         <Intro Title={db.MainPage.Intro.Title} Desc={db.MainPage.Intro.Desc} />
-        <Update Img={db.MainPage.Update.Img} Desc={db.MainPage.Update.Desc} />
+        <Update
+          Img={db.MainPage.Update.Img}
+          Desc={db.MainPage.Update.Desc}
+          Link={db.MainPage.Update.Link}
+        />
         <DailyCharacter
           Title={db.MainPage.DailyCharacter.Title}
           Character={db.Characters[characterId]}

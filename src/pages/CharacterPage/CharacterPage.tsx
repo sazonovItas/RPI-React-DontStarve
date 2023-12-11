@@ -10,6 +10,9 @@ import CharacterIntro from "./Components/CharacterIntro/CharacterIntro";
 import CharacterOrigin from "./Components/Contents/Origin/CharacterOrigin";
 import CharacterOther from "./Components/Contents/Other/CharacterOther";
 import CharacterTips from "./Components/Contents/Tips/CharacterTips";
+import CharacterPercs from "./Components/Contents/Percs/CharacterPercs";
+import CharacterQuotes from "./Components/Contents/Quotes/CharacterQuotes";
+import CharacterGallery from "./Components/Contents/Gallery/CharacterGallery";
 
 function CharacterPage() {
   useEffect(() => {
@@ -47,9 +50,23 @@ function CharacterPage() {
           YoutubeVideoId={character.VideoLink}
           Text={character.Background}
         />
+        <CharacterPercs
+          Title={db.CharacterPage.Content.Percs}
+          Pros={character.Percs.Pros}
+          Cons={character.Percs.Cons}
+          General={character.Percs.General}
+        />
         <CharacterTips
           Title={db.CharacterPage.Content.Tips}
           Text={character.Tips}
+        />
+        <CharacterQuotes
+          Title={db.CharacterPage.Content.Quotes}
+          Quotes={character.Quotes}
+        />
+        <CharacterGallery
+          Title={db.CharacterPage.Content.Gallery}
+          Imgs={character.Gallery}
         />
         <CharacterOther
           Title={db.CharacterPage.Content.Other}

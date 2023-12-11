@@ -49,7 +49,8 @@
       },
       "Update": {
         "Img": "images/MainPage/Update.jpg",
-        "Desc": "Don't Starve Together update “Host of Horros” is already avaliable!"
+        "Desc": "Don't Starve Together update “Host of Horros” is already avaliable!",
+        "Link": "https://forums.kleientertainment.com/game-updates/dst"
       },
       "DailyCharacter": {
         "Title": "Daily Character"
@@ -62,7 +63,7 @@
               "Src": "images/MainPage/0TheThing0.png",
               "Alt": "0TheThing0"
             },
-            "Nick": "Ilya Markouwski",
+            "Nick": "Ilya Markovsky",
             "Link": "https://github.com/0TheThing0"
           },
           {
@@ -70,7 +71,7 @@
               "Src": "images/MainPage/GGQwerty.png",
               "Alt": "GGQwerty"
             },
-            "Nick": "Vitalya Lapus",
+            "Nick": "Vitaly Lapus",
             "Link": "https://github.com/GGqwerty"
           },
           {
@@ -144,12 +145,12 @@
             "Text": "Quotes"
           },
           {
-            "Url": "#other",
-            "Text": "Other"
-          },
-          {
             "Url": "#gallery",
             "Text": "Gallery"
+          },
+          {
+            "Url": "#other",
+            "Text": "Other"
           }
         ],
         "Background": "Origin",
@@ -197,12 +198,30 @@
           "Without any downsides, Wilson is equally effective in almost all situations."
         ],
         "Quotes": [
-          "Normal: “Star-atoms! Are you my double?”",
-          "Attacker: “Oh my god. Do I always look this creepy?”",
-          "Assassin: “Your existence violates the laws of science, (player)!”",
-          "Resurrectionist: “(The player) is excellent at putting theories into practice.”",
-          "Ghost: “It`s better to concoct a means of resurrection. I can`t leave another scientist hanging.”",
-          "Pyro: “It wasn't very scientific to burn it, (player).”"
+          {
+            "Class": "Normal",
+            "Text": "“Star-atoms! Are you my double?”"
+          },
+          {
+            "Class": "Attacker",
+            "Text": "“Oh my god. Do I always look this creepy?”"
+          },
+          {
+            "Class": "Assassin",
+            "Text": "“Your existence violates the laws of science, (player)!”"
+          },
+          {
+            "Class": "Resurrectionist",
+            "Text": "“(The player) is excellent at putting theories into practice.”"
+          },
+          {
+            "Class": "Ghost",
+            "Text": "“It`s better to concoct a means of resurrection. I can`t leave another scientist hanging.”"
+          },
+          {
+            "Class": "Pyro",
+            "Text": "“It wasn't very scientific to burn it, (player).”"
+          }
         ],
         "Others": "Wilson is just over 30 years old, as Klei wrote on their Facebook. According to some players, Wilson is wearing what appears to be a long-sleeved T-shirt or glove under his shirt; however, this is nothing more than speculation. According to official information, the black “sleeves“ are actually shading added for added contrast.Wilson may have a medical background. This is hinted at by his ability to revive allies faster in The Forge, the quote when examining the wooden leg, and his costume in The Gorge, where he is depicted as a doctor. Based on the quotes, Wilson seems to care a lot about his hair. Wilson had a nanny, as evidenced by his quote when examining Mumzy. Suffers from arachnophobia. His field notes exist in which he described his adventures in Persistence. A thick beard also protects against the cold: the stubble and beard are very weak, but a thick beard is a little better than a winter hat. Wilson's last name is Higgsbury, possibly a reference to the famous Higgs boson. Lefty; Possibly ambidextrous. Gentleman Scientist is a special social status that was assigned to a person with an academic degree who conducts independent research work. Research could be ordered - and, accordingly, financed - by the university to which the scientist belonged, or it could be a personal initiative and financed from personal funds; in such cases, the scientist usually had a private source of income (for example, dividends) and conducted research on topics of personal interest to him. The most famous gentlemen scientists are Thomas Jefferson, Antoine Lavoisier, Charles Darwin and others. Seven seconds into the “The Forbidden Knowledge“ video, a “GENIUS AT WORK“ sign can be seen nailed to the fence of Wilson's home. While being the ruler of Permanence, Wilson did not increase in size, although the other two rulers (Maxwell and Charlie) grew taller than other characters. This link provides access to Wilson's workshop, where Maxwell's door still stands. If you pull down the switch, the door will open and redirect you to a hidden page where you can see a message from Maxwell and concept art for the game. Team Fortress 2 featured a headdress based on Wilson's hairstyle. Before the August 7, 2012 update, Wilson had a different sprite. You can read Wilson's remarks here.",
         "StatsImg": "images/Characters/Wilson/en/Character_Card.png",
@@ -263,12 +282,30 @@
           "Thanks to Wormwood's immunity to allergies, you no longer have to worry about finding nettles, a gas mask, or a fan! You can spend this time on other things"
         ],
         "Quotes": [
-          "Normal: “Looking great, buddy!”",
-          "Attacker: “Why are you behaving badly, (player)?”",
-          "Assassin: “(Player), no! It is forbidden!”",
-          "Resurrectionist: “(Player) makes friends better!”",
-          "Ghost: “Oh. (player), is that you?”",
-          "Pyro: “Why make so much fire?!”"
+          {
+            "Class": "Normal",
+            "Text": "“Looking great, buddy!”"
+          },
+          {
+            "Class": "Attacker",
+            "Text": "“Why are you behaving badly, (player)?”"
+          },
+          {
+            "Class": "Assassin",
+            "Text": "“(Player), no! It is forbidden!”"
+          },
+          {
+            "Class": "Resurrectionist",
+            "Text": "“(Player) makes friends better!”"
+          },
+          {
+            "Class": "Ghost",
+            "Text": "“Oh. (player), is that you?”"
+          },
+          {
+            "Class": "Pyro",
+            "Text": "“Why make so much fire?!”"
+          }
         ],
         "Others": "You can find Wormwood's replicas here. Wormwood was added to the Hamlet DLC on February 7, 201Added to Don't Starve Together on June 6, 201Wormwood's voice is a didgeridoo. His name, Wormwood, translates to “wormwood“ in English. In the DLC, Hamlet has a unique font and phrase color. The font was transferred to DST, but the color became standard, because each player in the chat has its own random color. Appears surrounded by stones, instead of a balloon, which is more useful in terms of resources. Maxameleon also has a different dialogue with him. If any other creature starts a fire while Wormwood stands nearby, its sanity will also decrease. Has a special item creation animation when creating a living log. Special animations do not work if the character is in a boat. If the character has 20 health units left, you cannot kill yourself by creating a living log, since there will be one unit left. Dung, guano and a bucket of fertilizer restore two health points to Wormwood. If the fertilizer bucket is completely used in this way, you can get a total of 10 health units. Before Wormwood was officially released into the game, animations of Wormwood with a different design were found in the files.",
         "StatsImg": "images/Characters/Wormwood/en/Character_Card.png",
@@ -308,12 +345,30 @@
           "In addition, clones disrupt attacks against small enemy units"
         ],
         "Quotes": [
-          "Normal: “What a neat guy!”",
-          "Attacker: “I'm familiar with this look, (player). What are you up to?”",
-          "Assassin: “Old habits need to be broken... just like you!”",
-          "Resurrectionist: “Just rely on yourself, huh, (player)?”",
-          "Ghost: “I must pay in blood to bring you back, (player).”",
-          "Pyro: “Don't blow it up on us, (player).”"
+          {
+            "Class": "Normal",
+            "Text": "“What a neat guy!”"
+          },
+          {
+            "Class": "Attacker",
+            "Text": "“I'm familiar with this look, (player). What are you up to?”"
+          },
+          {
+            "Class": "Assassin",
+            "Text": "“Old habits need to be broken... just like you!”"
+          },
+          {
+            "Class": "Resurrectionist",
+            "Text": "“Just rely on yourself, huh, (player)?”"
+          },
+          {
+            "Class": "Ghost",
+            "Text": "“I must pay in blood to bring you back, (player).”"
+          },
+          {
+            "Class": "Pyro",
+            "Text": "“Don't blow it up on us, (player).”"
+          }
         ],
         "Others": "Maxwell was added as a playable character with the ”The End of the Beginning” update. And with the update ”All's Well that Maxwell” I received the Umbra Codex. Initially, in the guise of the antagonist, his head was supposed to be smaller. This texture and its animations are still in the game files. In very early versions, he was much older than he is represented in the game, he was hunchbacked and fat, and also wore a top hat. Despite the fact that Maxwell is only one of the three known rulers of Permanence (the other two are Charlie and Wilson), he can easily be considered the main antagonist of the franchise, because it was because of him and his games with dark magic that this whole story began. Maxwell's voice sounds like a harmonium. The proportions of the game character are noticeably different from the proportions of Maxwell, who appears at the start of the game. In Adventure mode, he is dressed differently than throughout the rest of the game. Maxwell was the first to mention Charlie. When he had phrases associated with her, no one yet knew what kind of character he was. Maxwell loves chess. Judging by the Wolfgang animation, he wore glasses for a while. As with Charlie, Maxwell's exact height is unknown. It varies in cinematics and from form to form in Adventure mode; it is especially worth noting the huge head of the antagonist hanging over Wilson's house in one of the cinematics. It is possible that Maxwell simply knows how to change his appearance, at least in the role of an antagonist. Unlike other characters, Maxwell differs significantly from himself in the cinematics and in the game, both in his villainous form and in his character form. Created his statues in the world. Klei created a very large puzzle for the players, as a result of which a story was revealed to everyone, which caused a lot of emotions. The complete solution to this puzzle is here. When Maxwell appears in the normal world, he says the line: “Freedom, at last!” (“Freedom, finally!”). You can use the console to summon his huge head, but judging by the character quotes, this is a mock-up. Using the console, you can summon Maxwell himself using the DebugSpawn(”maxwell”) command, and the model of Maxwell that appears when you start the game with any character except Maxwell himself will appear. The characters can examine it. In the game code it is written as Waxwell.",
         "StatsImg": "images/Characters/Maxwell/en/Character_Card.png",
@@ -361,12 +416,30 @@
           "The downside to freezing does not play a special role if you heat the thermal stone in a timely manner and wear a beefalo hat. It is convenient to warm yourself by standing close to a burning tree."
         ],
         "Quotes": [
-          "Normal: “Hey! This is my face, (player)! Give it back!”",
-          "Attacker: “You're making us look like idiots, (player)!”",
-          "Assassin: “Murderer! Burn the impostor!”",
-          "Resurrectionist: “Haha, not bad, (player).”",
-          "Ghost: “Is this what my ghost hair looks like?”",
-          "Pyro: “The Arsonist Twins! High five.”"
+          {
+            "Class": "Normal",
+            "Text": "“Hey! This is my face, (player)! Give it back!”"
+          },
+          {
+            "Class": "Attacker",
+            "Text": "“You're making us look like idiots, (player)!”"
+          },
+          {
+            "Class": "Assassin",
+            "Text": "“Murderer! Burn the impostor!”"
+          },
+          {
+            "Class": "Resurrectionist",
+            "Text": "“Haha, not bad, (player).”"
+          },
+          {
+            "Class": "Ghost",
+            "Text": "“Is this what my ghost hair looks like?”"
+          },
+          {
+            "Class": "Pyro",
+            "Text": "“The Arsonist Twins! High five.”"
+          }
         ],
         "Others": "Willow was added to the game with an update on August 7, 2012. With the update, Strange New Powers received its own features and a unique item. While inspecting the tent, she says that she was a Girl Scout and earned all her badges. Willow is approximately 20 years old. Willow has a mental disorder called pyromania. It manifests itself in a painful attraction to arson. It is not known exactly whether Willow, when her sanity is low, sets fire to the ground with matches or whether this is a case of her displaying pyrokinesis - the ability to ignite objects with the power of thought. Willow's persona is likely based on Stephen King's novel Fire in the Eye. You can check out Willow's lines here. Older versions of the game did not have a lighter. Willow would set the ground beneath her on fire if she was in complete darkness for too long. The dragon fly (RoG icon) does not set Willow on fire with its attack, which makes the battle much easier. DLC: RoG: if you extinguish buildings with your hands, Willow will not receive damage, but will say that she was burned. When examining the red umbrella, he says: “I love this color!” She also says about all red things that they are beautiful, for example: a red mushroom - “Beautiful”, a red gem - “So beautiful!” Therefore, it can be assumed that red is Willow's favorite color. Probably because red is always associated with fire. Hates everything related to cold and ice, as well as the blue color associated with them, which can be understood when examining the blue gem: ”Ugh. It's terrible.” and an ice amulet: ”Ugh! This thing is not for me.” Willow, like all female playable characters (except Wickerbottom and Wynonna), lacks pupils. If you equip a lighter along with a cylinder, your sanity will not fall from the darkness even at night. In the cinematic, you can see Willow's lighter on a shelf in the closet. Her voice resembles a flute. The prototype for the dark skin is probably Wednesday Addams.",
         "StatsImg": "images/Characters/Willow/en/Character_Card.png",
@@ -409,12 +482,30 @@
           "Attack groups of enemies (bees, spiders, etc.), due to the high damage and protection of the sister, this will be an easy farm."
         ],
         "Quotes": [
-          "Normal: “She looks sad...”",
-          "Attacker: “Wait, that's not necessary, (player).”",
-          "Assassin: “Haven't we seen enough death, (player)?”",
-          "Resurrectionist: “I hope Abigail doesn't like you more than me...”",
-          "Ghost: “At least the heart will bring one sister back to this world...”",
-          "Pyro: “Fire is probably not the method I would choose...”"
+          {
+            "Class": "Normal",
+            "Text": "“She looks sad...”"
+          },
+          {
+            "Class": "Attacker",
+            "Text": "“Wait, that's not necessary, (player).”"
+          },
+          {
+            "Class": "Assassin",
+            "Text": "“Haven't we seen enough death, (player)?”"
+          },
+          {
+            "Class": "Resurrectionist",
+            "Text": "“I hope Abigail doesn't like you more than me...”"
+          },
+          {
+            "Class": "Ghost",
+            "Text": "“At least the heart will bring one sister back to this world...”"
+          },
+          {
+            "Class": "Pyro",
+            "Text": "“Fire is probably not the method I would choose...”"
+          }
         ],
         "Others": "Wendy was added to the game with an unnamed update on August 7, 2012. Before the Strange New Powers update, Abigail would come to Wendy for no reason at night and could even cause damage to her. DST received a character update on March 19, 2020. Before him, Wendy had the same features as in Don't Starve. According to the developers, Wendy's age is from 8 to 10 years. Wendy loves to read, as evidenced by her quotes with references to various literary works. Judging by Wendy's remarks about the musical instruments available in the game, she is interested in music. It is possible that Wendy likes sweet potatoes, as hinted at by the girl's line in the Shipwrecked DLC, which is one of her few optimistic lines about herself. However, this may be a hint that Wendy will be sweet for the monsters. Wendy loves Abigail very much. Wendy and Abigail are the daughters of Jack Carter, brother of William Carter, known as Maxwell. However, what is noteworthy is that they do not react to Maxwell, as an uncle, in any way, either in a single game, or in DST, or even in cinematics. Moreover, Maxwell also does not see his relatives in them. The assumption that Wendy and Abigail are Maxwell`s relatives appeared long before the official confirmation of this fact by the developers. In her DST ghost form, the flower on her head turns yellow to differentiate her from Abigail. Judging by some of the lines, Wendy and Webber have a friendly relationship. The concept (just like science) of “ectoherbology” does not exist in the real world. It is formed by crossing the ancient Greek word “ἐϰτός“ (external) and the English word “herbology“ (herbology/herbology). What this science studies is currently unknown, but based on the words that form its name, it can be assumed that it implies a connection with the “outer world” (the world of the dead) through plants. Actually, this is how it looks in the game. A similar trend existed in alchemy, but not in occultism. What is noteworthy is that Wendy was interested in the latter, but not the first.",
         "StatsImg": "images/Characters/Wendy/en/Character_Card.png",
@@ -457,12 +548,30 @@
           "The following ways to get a system overload are also available: activate the altar, use the telelocation staff, hit the ancient pseudoscientific station with a hammer, be within the radius of the husky whirlwind, approach the thunderbird."
         ],
         "Quotes": [
-          "Normal: “GREETINGS, (player). YOU LOOK SMARTER THAN OTHERS”",
-          "Attacker: “MY EXECUTABLES ARE READY TO RUN, (player)”",
-          "Assassin: “TIME TO ELIMINATE THE VIRUS (player).”",
-          "Resurrectionist: “(Player), OF COURSE, OUR MOST VALUABLE ASSET”",
-          "Ghost: “SUBJECT (player) NEEDS A HEART”",
-          "Pyro: “MY FAVORITE SETTING. BURNING”"
+          {
+            "Class": "Normal",
+            "Text": "“GREETINGS, (player). YOU LOOK SMARTER THAN OTHERS”"
+          },
+          {
+            "Class": "Attacker",
+            "Text": "“MY EXECUTABLES ARE READY TO RUN, (player)”"
+          },
+          {
+            "Class": "Assassin",
+            "Text": "“TIME TO ELIMINATE THE VIRUS (player).”"
+          },
+          {
+            "Class": "Resurrectionist",
+            "Text": "“(Player), OF COURSE, OUR MOST VALUABLE ASSET”"
+          },
+          {
+            "Class": "Ghost",
+            "Text": "“SUBJECT (player) NEEDS A HEART”"
+          },
+          {
+            "Class": "Pyro",
+            "Text": "“MY FAVORITE SETTING. BURNING”"
+          }
         ],
         "Others": "The WX-78 was added to the game with the Spoiled Rotten update. With the update, “Strange New Powers“ received more of its own features. The name WX-78 is likely a reference to the RX-78 series mobile suits from the anime Mobile Suit Gundam. The most notable is the RX-78-2 from the same series. You can check out the WX-78 replicas here. WX-78 has a quote about the strange potato: “REMINDS ME OF MY MOTHER“, which may be a reference to GLaDOS from the Portal series. In the Reign of Giants DLC, when the humidity is high, the player loses 0.5 sanity per second. In DST, when the PvP server mode is enabled, WX does not receive additional damage from electric weapons. Judging by his lines, the few living things he doesn't despise are bees, thunderbirds, and worker pigs: when examining the former, he says, “THE MINDLESS DRONE. I LIKE IT,“ and the latter, “FINALLY! A USEFUL BIOLOGICAL UNIT!“ , and third - “WORKER. NOBLE PROFESSION.“ Charged Volt-Goat and Jellyfish do not charge the WX-78 when they are shocked. His ghost resembles the droid R2-D2 from the Star Wars movie. The duration of the lightning buffs is cumulative and can last for several days, however it is advisable to keep a torch in your pocket to be prepared for the end of these powers at night, otherwise you will be killed by Charlie. If WX-78 moves between world levels, it will lose its speed bonus and glow. In Don't Starve Together, if WX-78 dies near Vortox, he will not lose his soul, unlike other characters. For some reason, he doesn't even like Lucy, although in the game she is not an organic life form. Upon examining her, he says, “TAKE IT OUT.“ From the animation and some details you can understand that the WX-78 is the creation of Robert Wagstaff: Its name is similar to the name of one of the Voxol radio models - PR-76. The radio can be seen on the search rod. When inspecting the ship's horse, Wagstaff says: “Incredible! Even I couldn't make my car waterproof.“ This may be a reference to the WX-78's weakness to water. When Wagstaff examines WX-78 sitting on the nightmare throne, he recognizes it. (“This is...? It can't be!“) Both Wagstaff and WX-78 have similar cues when examining a bud. (Wagstaff: “My Favorite Portable Fibonacci Counter“ and WX-78: “PORTABLE FIBONACCI COUNTER“) WX-78 and Wagstaff are the only characters able to understand what part the broken AAK device is missing, namely DR356X001. (Wagstaff: “Oh. It's missing DR356X001“ and WX-78: “OF COURSE IT'S BROKEN, IT'S MISSING DR356X001“) Based on the grainy broadcast cue, WX-78 recognizes Wagstaff (“YOU“). Based on the new information in the video dedicated to the WX-78 update, you can understand the following: Inside WX-78 is the consciousness of an unknown scientist, copied or transferred into the robot's mechanical body by Wagstaff during an experiment. There was a conflict between the WX-78 and Wagstaff, as WX wanted to continue producing similar machines. Wagstaff destroyed his designs and sent WX-78 itself to Permanence. Wilson's line when examining the WX-78 killer refers to the first law of robotics[6]. In early versions of Don't Starve Together, the hunger, sanity, and health caps were capped at 200. All WX-78 phrases are written in capital letters. If you write a chat message in Don't Starve Together, it will also appear above the robot in all capital letters.",
         "StatsImg": "images/Characters/WX-78/en/Character_Card.png",
@@ -507,12 +616,30 @@
           "In the early waves, when there are few dangerous warriors, it can play the role of a good tank due to the increased attack speed of its axe. It is also recommended to take this role in battle with the most dangerous warrior."
         ],
         "Quotes": [
-          "Normal: “(Player)! It's funny to see another Canadian here.”",
-          "Attacker: “(Player) is not a real Canadian...”",
-          "Assassin: “Hey, come here, (player)! Here one question came to the fore!”",
-          "Resurrectionist: “You truly have a heart as big as your beard, (player).”",
-          "Ghost: “Canadians should help each other, (player). Let's get the heart.”",
-          "Pyro: “Now this fire seems to be harmful, huh?”"
+          {
+            "Class": "Normal",
+            "Text": "“(Player)! It's funny to see another Canadian here.”"
+          },
+          {
+            "Class": "Attacker",
+            "Text": "“(Player) is not a real Canadian...”"
+          },
+          {
+            "Class": "Assassin",
+            "Text": "“Hey, come here, (player)! Here one question came to the fore!”"
+          },
+          {
+            "Class": "Resurrectionist",
+            "Text": "“You truly have a heart as big as your beard, (player).”"
+          },
+          {
+            "Class": "Ghost",
+            "Text": "“Canadians should help each other, (player). Let's get the heart.”"
+          },
+          {
+            "Class": "Pyro",
+            "Text": "“Now this fire seems to be harmful, huh?”"
+          }
         ],
         "Others": "Woody was added to the game with the Strange New Powers update. Received a character update in DST on September 12, 2019. Before him, wood hunger was an additional parameter that fell over time or intensely when trees were cut down. Upon reaching 25 units of wood hunger, Woody turned into a beaver. Woody's voice is cello; Lucy is a musical saw. The phrase “I love Lucy!“ may be a reference to the series of the same name. If, after turning the beaver back into Woody, you go into the dungeon and exit, Lucy will appear in your inventory. When passing through Maxwell's portal, Lucy is added to the inventory again. Woody's lines can be found here. Judging by his remarks, he suffers from ornithophobia (fear of birds). Judging by the remark about the web, he may suffer from arachnophobia (fear of spiders). Canadian by birth. The reaction to a filled chest is “It`s already packed worse than a tram in Toronto” and to an open sinkhole – “It`s like what`s in your Sudbury down there.” Woody may have worked in railroad construction in the past, because when he looks at the saltpeter, he says, “This is how we build railroads.” Also, judging by the remarks, he suffers from an allergy to grass. Refuses to shave his beard. He comments on this by saying that real woodcutters do not shave. Woody can't swim. This may explain the inability to swim as a beaver (SW). During the battle, Woody shouts the phrase: “Get over here, eh!“ This may be a reference to Scorpion's famous line from the Mortal Kombat series. Pigs left without a home run after Woody Beaver at night, saying: “Fire is good,” etc. This can be explained by the beaver`s night vision. When inspecting the manure, Woody says “Don't mess with camp!“, which most likely means he was a camp counselor. In any werewolf form, Woody can use the dance emote. The werepig will not attack Woody if he is in werewolf form during a full moon (DST).",
         "StatsImg": "images/Characters/Woodie/en/Character_Card.png",
@@ -555,12 +682,30 @@
           "A fairly common tactic after the 3rd wave is to install a bloom of life, and then, when all the boars reach it and fall asleep, wall them up in stone. The main thing is that some player with a Crucible hammer does not hit the anvil."
         ],
         "Quotes": [
-          "Normal: “Ah, greetings, (player)! It's funny to see you here.”",
-          "Attacker: “(Player)'s immorality is creating holes in my hypotheses about multiverses.”",
-          "Assassin: “I'm my own worst critic!”",
-          "Resurrectionist: “Our knowledge helped us, right,(player)?”",
-          "Ghost: “Our self-help books are finally going to come in handy, huh, (player)?”",
-          "Pyro: “Burning books is quite tactless, (player).”"
+          {
+            "Class": "Normal",
+            "Text": "“Ah, greetings, (player)! It's funny to see you here.”"
+          },
+          {
+            "Class": "Attacker",
+            "Text": "“(Player)'s immorality is creating holes in my hypotheses about multiverses.”"
+          },
+          {
+            "Class": "Assassin",
+            "Text": "“I'm my own worst critic!”"
+          },
+          {
+            "Class": "Resurrectionist",
+            "Text": "“Our knowledge helped us, right,(player)?”"
+          },
+          {
+            "Class": "Ghost",
+            "Text": "“Our self-help books are finally going to come in handy, huh, (player)?”"
+          },
+          {
+            "Class": "Pyro",
+            "Text": "“Burning books is quite tactless, (player).”"
+          }
         ],
         "Others": "Wickerbottom was added to the game with the Progress! update. With the update, “Strange New Powers“ received its own features and a “Books“ tab. Before this update, she could create prototypes of a shadow manipulator when she was next to an alchemical machine. At the beginning of the game, Wickerbottom has 2 units of papyrus in her inventory, which can be spent on creating a book or, for example, a birdcage. Has the highest level of intelligence among the characters (except for the fully gear-improved WX-78 and Warbucks in its early versions). The voice sounds like an oboe. Often names the names of plants and animals (also bone eyes and wormholes) in Latin. You can see Wickerbottom's remarks here. The only female character to have eye pupils, with the exception of Wynonna. Judging by the lines, Wickerbottom loves owls and fish dishes. Her eyes are always covered with eyelids, they can only be seen open during the start of the game, and when Wickerbottom is sleeping, fishing, or looking around in fear when her sanity is low. When lightning strikes her, you can see bones in her skirt and hair. The rest of the characters also have book reading animations in the game files. Her snowfall skin may be a reference to the Snow Queen from the fairy tale of the same name or to the White Witch from the book “The Chronicles of Narnia“. Wendy's line about the Wickerbottom Murderer (“Murder, she wrote“) is a reference to the popular American detective television series. Wigfrid's phrase about the ghost of Wickerbottom (Heart! Heart! My camp for the heart!) is a reference to William Shakespeare's tragedy “King Richard III“ (A horse, a horse, half a kingdom for a horse!).",
         "StatsImg": "images/Characters/Wickerbottom/en/Character_Card.png",
@@ -627,7 +772,8 @@
       },
       "Update": {
         "Img": "images/MainPage/Update.jpg",
-        "Desc": "Обновление Don't Starve Together “Host of Horros” уже вышло!"
+        "Desc": "Обновление Don't Starve Together “Host of Horros” уже вышло!",
+        "Link": "https://forums.kleientertainment.com/game-updates/dst"
       },
       "DailyCharacter": {
         "Title": "Персонаж дня"
@@ -722,12 +868,12 @@
             "Text": "Цитаты"
           },
           {
-            "Url": "#other",
-            "Text": "Разное"
-          },
-          {
             "Url": "#gallery",
             "Text": "Галерея"
+          },
+          {
+            "Url": "#other",
+            "Text": "Разное"
           }
         ],
         "Background": "Предыстория",
@@ -775,12 +921,30 @@
           "За неимением минусов, Уилсон почти во всех ситуациях одинаково эффективен."
         ],
         "Quotes": [
-          "Обычный: “Звёзды-атомы! Ты мой двойник?”",
-          "Атакующий: “Боже. Я всегда выгляжу так жутко?”",
-          "Убийца: “Твоё существование нарушает законы науки, (игрок)!”",
-          "Воскрешающий: “(Игрок) отлично применяет теории на практике.”",
-          "Призрак: “Лучше состряпать средство воскрешения. Не могу оставить другого учёного в подвешенном состоянии.”",
-          "Поджигатель: “Не особо научным было сжигание этого, (игрок).”"
+          {
+            "Class": "Обычный",
+            "Text": "“Звёзды-атомы! Ты мой двойник?”"
+          },
+          {
+            "Class": "Атакующий",
+            "Text": "“Боже. Я всегда выгляжу так жутко?”"
+          },
+          {
+            "Class": "Убийца",
+            "Text": "“Твоё существование нарушает законы науки, (игрок)!”"
+          },
+          {
+            "Class": "Воскрешающий",
+            "Text": "“(Игрок) отлично применяет теории на практике.”"
+          },
+          {
+            "Class": "Призрак",
+            "Text": "“Лучше состряпать средство воскрешения. Не могу оставить другого учёного в подвешенном состоянии.”"
+          },
+          {
+            "Class": "Поджигатель",
+            "Text": "“Не особо научным было сжигание этого, (игрок).”"
+          }
         ],
         "Others": "Уилсону чуть больше 30 лет, о чём написали Klei на своём Facebook. По мнению некоторых игроков, у Уилсона под рубашкой надето нечто вроде футболки с длинным рукавом, или же перчатки; однако это не более чем домыслы. Согласно официальной информации, чёрные “рукава“ на самом деле штриховка, добавленная для большей контрастности. Уилсон, возможно, имеет медицинское образование. На это намекают его способность быстрее воскрешать союзников в событии The Forge, цитата при осмотре деревянной ноги и костюм в событии The Gorge, где он изображен врачом. Судя по цитатам, Уилсона сильно заботит его прическа. У Уилсона была няня, о чем говорит его цитата при осмотре Мамзи. Страдает арахнофобией. Существуют его полевые заметки, в которых он описал свои приключения в Постоянстве. Также густая борода защищает от холода: щетина и борода очень слабо, а густая ‒ немного лучше, чем зимняя шапка. Фамилия Уилсона ‒ Хиггсбери, возможно, отсылка к знаменитому бозону Хиггса. Левша; возможно, является амбидекстром. Учёный джентльмен (англ. Gentleman Scientist) ‒ особый социальный статус, который присваивался человеку с учёной степенью, ведущему самостоятельную исследовательскую работу. Исследования могли заказываться ‒ и оответственно, финансироваться ‒ университетом, к которому относился учёный, либо являлись личной инициативой и финансировались из личных средств; в таких случаях учёный, как правило, имел частный источник дохода (например, дивиденды) и проводил исследования на темы, интересующие лично его. Самые известные учёные джентльмены ‒ Томас Джефферсон, Антуан Лавуазье, Чарльз Дарвин и др. На седьмой секунде видео “The Forbidden Knowledge“ видна табличка “GENIUS AT WORK“ (“Гений за работой“), прибитая к забору дома Уилсона. Будучи правителем Постоянства, Уилсон не увеличился в размерах, хотя два других правителя (Максвелл и Чарли) становились выше других персонажей. По этой ссылке доступен вход в мастерскую Уилсона, где всё ещё стоит дверь Максвелла. Если опустить рубильник, дверь откроется и перенаправит вас на скрытую страницу, где можно увидеть обращение от Максвелла и концепт-арт к игре. В Team Fortress 2 был головной убор, основанный на прическе Уилсона. До обновления за 7 августа 2012 Уилсон имел другой спрайт. Ознакомиться с репликами Уилсона можно здесь.",
         "StatsImg": "images/Characters/Wilson/ru/Character_Card.png",
@@ -842,12 +1006,30 @@
           "Благодаря иммунитету Вормвуда к аллергии больше не нужно беспокоиться за добычу крапивы, противогаза или вентилятора! Можно потратить это время на другие дела"
         ],
         "Quotes": [
-          "Обычный: “Отлично выглядишь, друг!”",
-          "Атакующий: “Пришло время пустить тебя на дрова.”",
-          "Убийца: “Не переживай, (игрок). Вырубка будет быстрой.”",
-          "Воскрешающий: “(Игрок) делает друзьям лучше!”",
-          "Призрак: “Помощь нужна, малыш?”",
-          "Поджигатель: “(Игрок), наверное, не очень умён...”"
+          {
+            "Class": "Обычный",
+            "Text": "“Отлично выглядишь, друг!”"
+          },
+          {
+            "Class": "Атакующий",
+            "Text": "“Пришло время пустить тебя на дрова.”"
+          },
+          {
+            "Class": "Убийца",
+            "Text": "“Не переживай, (игрок). Вырубка будет быстрой.”"
+          },
+          {
+            "Class": "Воскрешающий",
+            "Text": "“(Игрок) делает друзьям лучше!”"
+          },
+          {
+            "Class": "Призрак",
+            "Text": "“Помощь нужна, малыш?”"
+          },
+          {
+            "Class": "Поджигатель",
+            "Text": "“(Игрок), наверное, не очень умён...”"
+          }
         ],
         "Others": "С репликами Вормвуда вы можете ознакомится здесь. В DLC Hamlet Вормвуд был добавлен 7 февраля 201В Don't Starve Together был добавлен 6 июня 201Голос Вормвуда — диджериду. Его имя, Wormwood, переводится с английского как ”горькая полынь”. В DLC Hamlet имеет уникальный шрифт и цвет фраз. Шрифт был перенесён и в DST, однако цвет стал стандартным, потому что для каждого игрока в чате предусмотрен свой случайный цвет. Появляется в окружении камней, вместо воздушного шара, который более полезен по ресурсам. Также Максамелеон ведёт с ним другой диалог. Если любое другое существо устроит пожар, а Вормвуд будет стоять рядом, то его рассудок тоже будет снижаться. Имеет особую анимацию создания предмета при создании живого бревна. Особые анимации не работают, если персонаж в лодке. Если у персонажа осталось 20 единиц здоровья, убить себя с помощью создания живого бревна нельзя, поскольку останется одна единица. Навоз, гуано и ведро с удобрениями восстанавливают Вормвуду две единицы здоровья. Если ведро с удобрениями полностью использовать таким способом, то всего можно получить 10 единиц здоровья. Перед тем как Вормвуд был официально введён в игру, в файлах были найдены его анимации с другим дизайном.",
         "StatsImg": "images/Characters/Wormwood/ru/Character_Card.png",
@@ -889,12 +1071,30 @@
           "Кроме того, клоны сбивают атаки малым вражеским единицам"
         ],
         "Quotes": [
-          "Обычный: “Что за опрятный парень!”",
-          "Атакующий: “Мне знаком этот вид, (игрок). Что ты задумал?”",
-          "Убийца: “От старых привычек нужно избавляться... как и от тебя!”",
-          "Воскрешающий: “Только на себя и надейся, а, (игрок)?”",
-          "Призрак: “Я должен расплатиться кровью, дабы вернуть тебя назад, (игрок).”",
-          "Поджигатель: “Не раздувай его на нас, (игрок).”"
+          {
+            "Class": "Обычный",
+            "Text": "“Что за опрятный парень!”"
+          },
+          {
+            "Class": "Атакующий",
+            "Text": "“Мне знаком этот вид, (игрок). Что ты задумал?”"
+          },
+          {
+            "Class": "Убийца",
+            "Text": "“От старых привычек нужно избавляться... как и от тебя!”"
+          },
+          {
+            "Class": "Воскрешающий",
+            "Text": "“Только на себя и надейся, а, (игрок)?”"
+          },
+          {
+            "Class": "Призрак",
+            "Text": "“Я должен расплатиться кровью, дабы вернуть тебя назад, (игрок).”"
+          },
+          {
+            "Class": "Поджигатель",
+            "Text": "“Не раздувай его на нас, (игрок).”"
+          }
         ],
         "Others": "Максвелл, в качестве играбельного персонажа, был добавлен с обновлением ”The End of the Beginning”. А с обновлением ”All's Well that Maxwell” получил Кодекс Умбра. Изначально в облике антагониста его голова должна была быть меньших размеров. Данная текстура и её анимации всё ещё остались в файлах игры. В совсем ранних версиях был гораздо старше, нежели чем представлен в игре, был горбатым и толстым, а также носил цилиндр. Несмотря на то, что Максвелл является лишь одним из трёх известных правителей Постоянства (другие два: Чарли и Уилсон), его вплоне можно считать главным антагонистом франшизы, ведь именно из-за него и его игр с тёмной магией началась вся эта история. Голос Максвелла звучит как фисгармония. Пропорции игрового персонажа заметно отличаются от пропорций Максвелла, появляющегося при старте игры. В режиме Приключения одет иначе, нежели на протяжении всей остальной игры. Максвелл был первым, кто упомянул Чарли. Когда у него появились связанные с ней фразы, никто ещё не знал, что это за персонаж. Максвелл любит шахматы. Судя из анимации про Вольфганга, некоторое время носил очки. Как и в случае Чарли, точный рост Максвелла неизвестен. Он разнится в синематиках и от формы к форме в режиме Приключений, отдельно стоит отметить огромную голову антагониста, нависшую над домом Уилсона в одном из синематиков. Не исключено, что Максвелл просто умеет менять свою внешность, по крайней мере в роли антагониста. В отличии от других персонажей, Максвелл в синематиках и в игре значительно отличается от самого себя, причём это касается как его злодейской формы, так и формы персонажа. Создал свои статуи в мире.",
         "StatsImg": "images/Characters/Maxwell/ru/Character_Card.png",
@@ -942,12 +1142,30 @@
           "Минус к замерзанию не играет особой роли, если своевременно нагревать термальный камень и носить шляпу бифало. Удобно греться, стоя вплотную к горящему дереву."
         ],
         "Quotes": [
-          "Обычный: “Эй! Это моё лицо, (игрок)! Отдай!”",
-          "Атакующий: “Ты выставляешь нас идиотами, (игрок)!”",
-          "Убийца: “Убийца! Сжечь самозванку!”",
-          "Воскрешающий: “Хаха, неплохо, (игрок).”",
-          "Призрак: “Это вот так мои призрачные волосы выглядят?”",
-          "Поджигатель: “Близняшки-поджигашки! Дай пять.”"
+          {
+            "Class": "Обычный",
+            "Text": "“Эй! Это моё лицо, (игрок)! Отдай!”"
+          },
+          {
+            "Class": "Атакующий",
+            "Text": "“Ты выставляешь нас идиотами, (игрок)!”"
+          },
+          {
+            "Class": "Убийца",
+            "Text": "“Убийца! Сжечь самозванку!”"
+          },
+          {
+            "Class": "Воскрешающий",
+            "Text": "“Хаха, неплохо, (игрок).”"
+          },
+          {
+            "Class": "Призрак",
+            "Text": "“Это вот так мои призрачные волосы выглядят?”"
+          },
+          {
+            "Class": "Поджигатель",
+            "Text": "“Близняшки-поджигашки! Дай пять.”"
+          }
         ],
         "Others": "Уиллоу была добавлена в игру с обновлением от 7 августа 2012. С обновлением ”Strange New Powers” получила собственные особенности и уникальный предмет. При осмотре палатки она говорит, что была гёрл-скаутом и заработала все значки. Уиллоу примерно 20 лет. Уиллоу имеет психическое отклонение, называемое пироманией. Оно проявляется в болезненном влечении к поджогам. Точно не известно, поджигает ли Уиллоу при низком рассудке землю спичками или же это случай проявления у неё пирокинеза — способности воспламенять предметы силой мысли. Персона Уиллоу, вероятно, основана на романе Стивена Кинга ”Воспламеняющая взглядом”. Ознакомиться с репликами Уиллоу можно здесь. В старых версиях игры не было зажигалки. Уиллоу поджигала под собой землю, если находилась в полной темноте слишком долго. Драконья муха (RoG icon) не поджигает своей атакой Уиллоу, что в разы облегчает сражение. DLC: RoG: если тушить строения руками, то урон Уиллоу не получит, но скажет, что она обожглась. При осмотре красного зонтика говорит: ”Я люблю этот цвет!”. Также про все красные вещи она говорит, что они красивы, например: красный гриб — ”Красиво”, красный самоцвет — ”Так красиво!”. Поэтому можно предположить, что красный — любимый цвет Уиллоу. Вероятно, из-за того, что красный всегда ассоциируется с огнём. Ненавидит всё, что связано с холодом и льдом, а также синий цвет, ассоциирующийся с ними, что можно понять при осмотре синего самоцвета: ”Фу. Он ужасен.” и ледяного амулета: ”Фу! Эта вещица не по мне.” У Уиллоу, как и у всех игровых персонажей женского пола (кроме Уикерботтом и Виноны), отсутствуют зрачки. Если экипировать зажигалку вместе с цилиндром, рассудок от темноты не будет падать даже ночью.  В синематике можно заметить зажигалку Уиллоу на полке в чулане. Её голос напоминает флейту. Прообразом для мрачного скина вероятно является Уэнсдей Аддамс.",
         "StatsImg": "images/Characters/Willow/ru/Character_Card.png",
@@ -990,12 +1208,30 @@
           "Атакуйте группы противников (пчел, пауков и т. д.), из-за высокого урона и защиты сестры это бадет легкий фарм."
         ],
         "Quotes": [
-          "Обычный: “Она выглядит грустной...”",
-          "Атакующий: “(Игрок)... она мне не сестра.”",
-          "Убийца: “Разве не достаточно смертей мы видели, (игрок)?”",
-          "Воскрешающий: “Надеюсь, ты не нравишься Абигейл больше меня...”",
-          "Призрак: “По крайней мере, сердце вернёт одну сестру в этот мир...”",
-          "Поджигатель: “Огонь, вероятно, не тот метод, который я бы избрала...”"
+          {
+            "Class": "Обычный",
+            "Text": "“Она выглядит грустной...”"
+          },
+          {
+            "Class": "Атакующий",
+            "Text": "“(Игрок)... она мне не сестра.”"
+          },
+          {
+            "Class": "Убийца",
+            "Text": "“Разве не достаточно смертей мы видели, (игрок)?”"
+          },
+          {
+            "Class": "Воскрешающий",
+            "Text": "“Надеюсь, ты не нравишься Абигейл больше меня...”"
+          },
+          {
+            "Class": "Призрак",
+            "Text": "“По крайней мере, сердце вернёт одну сестру в этот мир...”"
+          },
+          {
+            "Class": "Поджигатель",
+            "Text": "“Огонь, вероятно, не тот метод, который я бы избрала...”"
+          }
         ],
         "Others": "Венди была добавлена в игру с безымянным обновлением от 7 августа 2012. До обновления ”Strange New Powers” Абигейл приходила к Венди просто так по ночам и могла даже нанести ей урон. В DST получила обновление персонажа 19 марта 2020 года. До него Венди обладала теми же особенностями, что в Don't Starve. По словам разработчиков, возраст Венди — от 8 до 10 лет. Венди любит читать, о чём говорят её цитаты с отсылками на различные литературные произведения. Судя по репликам Венди о доступных в игре музыкальных инструментах, она увлекается музыкой. Возможно, Венди любит сладкий картофель, на что намекает фраза девочки из DLC Shipwrecked, являющаяся одной из немногих её оптимистичных фраз касательно самой себя. Однако, возможно это намёк на то, что сладкой Венди будет для монстров. Венди очень любит Абигейл. Венди и Абигейл — дочери Джека Картера, брата Уильяма Картера, известного как Максвелл. Однако, что примечательно, на Максвелла, как на дядю, они никак не реагируют, что в одиночной игре, что в DST и даже в синематиках. Причём Максвелл тоже в них своих родственниц не видит. Предположение, что Венди и Абигейл — родня Максвелла, появились задолго до официального подтверждения этого факта разработчиками. В форме призрака из DST цветок на её голове становится жёлтым, чтобы отличать её от Абигейл. Судя по некоторым репликам, у Венди и Веббера дружеские отношения. Понятия (ровно как и науки) ”эктогербология” в реальном мире не существует. Оно образованно путём скрещения древнегреческого слова ”ἐϰτός” (внешний) и английского ”herbology” (гербология/травология). Что данная наука изучает на данный момент неизвестно, но, исходя из образующих её название слов, можно предположить, что подразумевается связь с ”внешним миром” (миром мёртвых) через растения. Собственно, так это в игре и выглядит. Похожее направление существовало в алхимии, но не в оккультизме. Что примечательно, увлекалась Венди именно последним, но не первой.",
         "StatsImg": "images/Characters/Wendy/ru/Character_Card.png",
@@ -1038,12 +1274,30 @@
           "Доступны также следующие способы получить перегрузку системы: активировать алтарь, использовать посох телелокации, ударить древнюю псевдонаучную станцию молотом, находиться в радиусе вихря лусят, подойти к грозовой птице."
         ],
         "Quotes": [
-          "Обычный: “ПРИВЕТСТВУЮ, (игрок). ТЫ ВЫГЛЯДИШЬ РАЗУМНЕЕ ДРУГИХ”",
-          "Атакующий: “МОИ ИСПОЛНЯЕМЫЕ ФАЙЛЫ ГОТОВЫ К ЗАПУСКУ, (игрок)”",
-          "Убийца: “ВРЕМЯ ДЛЯ УСТРАНЕНИЯ ВИРУСА (игрок)”",
-          "Воскрешающий: “(Игрок), КОНЕЧНО ЖЕ, НАШ САМЫЙ ЦЕННЫЙ АКТИВ”",
-          "Призрак: “ПОДЧИНЁННОМУ (игрок) ТРЕБУЕТСЯ СЕРДЦЕ”",
-          "Поджигатель: “МОЯ ЛЮБИМАЯ НАСТРОЙКА. ВЫЖИГАНИЕ”"
+          {
+            "Class": "Обычный",
+            "Text": "“ПРИВЕТСТВУЮ, (игрок). ТЫ ВЫГЛЯДИШЬ РАЗУМНЕЕ ДРУГИХ”"
+          },
+          {
+            "Class": "Атакующий",
+            "Text": "“МОИ ИСПОЛНЯЕМЫЕ ФАЙЛЫ ГОТОВЫ К ЗАПУСКУ, (игрок)”"
+          },
+          {
+            "Class": "Убийца",
+            "Text": "“ВРЕМЯ ДЛЯ УСТРАНЕНИЯ ВИРУСА (игрок)”"
+          },
+          {
+            "Class": "Воскрешающий",
+            "Text": "“(Игрок), КОНЕЧНО ЖЕ, НАШ САМЫЙ ЦЕННЫЙ АКТИВ”"
+          },
+          {
+            "Class": "Призрак",
+            "Text": "“ПОДЧИНЁННОМУ (игрок) ТРЕБУЕТСЯ СЕРДЦЕ”"
+          },
+          {
+            "Class": "Поджигатель",
+            "Text": "“МОЯ ЛЮБИМАЯ НАСТРОЙКА. ВЫЖИГАНИЕ”"
+          }
         ],
         "Others": "WX-78 был добавлен в игру с обновлением “Spoiled Rotten“. С обновлением “Strange New Powers“ получил больше собственных особенностей. Название WX-78, вероятно, является отсылкой на мобильные костюмы серии RX-78 из аниме “Mobile Suit Gundam“. Наиболее примечательным является RX-78-2 из той же серии. Ознакомиться с репликами WX-78 можно здесь. У WX-78 есть цитата про странную картофелину: “НАПОМИНАЕТ МНЕ МОЮ МАТЬ“, что может быть отсылкой к GLaDOS из серии игр Portal. В DLC Reign of Giants при высокой влажности теряет 0,5 единиц рассудка в секунду. В DST при включенном PvP режиме сервера WX не получает дополнительного урона от электрического оружия. Судя по репликам, немногие живые существа, которых он не презирает, — это пчёлы, грозовые птицы и свины-рабочие: при осмотре первых он говорит “БЕЗДУМНЫЙ ДРОН. ОН МНЕ НРАВИТСЯ“, вторых — “НАКОНЕЦ-ТО! ПОЛЕЗНАЯ БИОЛОГИЧЕСКАЯ ЕДИНИЦА!“, а третьих — “РАБОЧИЙ. БЛАГОРОДНАЯ ПРОФЕССИЯ“. Заряженная вольт-коза и медузы, ударив током, не заряжают WX-78. Его призрак похож на дроида R2-D2 из фильма “Звёздные Войны“. Время усилений от молний суммируется и может длиться несколько дней, однако желательно держать в кармане факел, чтобы быть готовым к концу этих способностей ночью, в противном случае вас убьёт Чарли. Если WX-78 перейдёт между уровнями мира, то потеряет бонус к скорости и свечение. Если в Don't Starve Together WX-78 умрёт рядом с Вортоксом, то из него не выпадет душа, в отличие от остальных персонажей. По каким-то причинам не любит даже Люси, хотя в игре она и не является органической формой жизни. При её осмотре он говорит “УБЕРИТЕ ЭТО“. По анимационному ролику и некоторым деталям можно понять, что WX-78 является созданием Роберта Вагстаффа: Его имя похоже на название одной из моделей радио компании Воксола — PR-76. Радио можно заметить на жезле поиска. При осмотре корабельного коня Вагстафф говорит: “Невероятно! Даже я не смог сделать свою машину водонепроницаемой“. Это может являться отсылкой к слабости WX-78 к воде. Когда Вагстафф осматривает сидящего на кошмарном троне WX-78, он узнаёт его. (“Это же...? Не может быть!“) И Вагстафф, и WX-78 имеют похожие реплики при осмотре шишки. (Вагстафф: “Мой любимый портативный счётчик Фибоначчи“ и WX-78: “ПОРТАТИВНЫЙ СЧЁТЧИК ФИБОНАЧЧИ“) WX-78 и Вагстафф — единственные персонажи, способные понять, какой детали не хватает разбитому ААК устройству, а именно DR356X001. (Вагстафф: “Ох. Ему не хватает DR356X001“ и WX-78: “КОНЕЧНО, ОНО СЛОМАНО, У НЕГО ОТСУТСТВУЕТ DR356X001“) Судя по реплике на зернистое вещание, WX-78 узнаёт Вагстаффа (“ТЫ“). Следуя из новой информации в ролике, который приурочен к обновлению WX-78, можно понять следующее: Внутри WX-78 находится сознание неизвестного учёного, скопированное или перемещённое в механическое тело робота Вагстаффом в процессе эксперимента. Между WX-78 и Вагстаффом произошёл конфликт, так как WX хотел продолжить производство себе подобных машин. Вагстафф уничтожил его разработки и отправил самого WX-78 в Постоянство. Фраза Уилсона при осмотре убийцы WX-78 отсылает на первый закон робототехники. В ранних версиях Don't Starve Together максимальное количество голода, рассудка и здоровья ограничивались 200 ед. Все фразы WX-78 пишутся заглавными буквами. Если в Don't Starve Together написать сообщение в чат, то над роботом оно тоже отобразится полностью заглавными буквами.",
         "StatsImg": "images/Characters/WX-78/ru/Character_Card.png",
@@ -1088,12 +1342,30 @@
           "На ранних волнах, когда опасных воинов мало, может сыграть роль неплохого танка ввиду повышенной скорости атаки его топора. Также рекомендуется принимать эту роль в сражении с самым опасным воином."
         ],
         "Quotes": [
-          "Обычный: “(Игрок)! Забавно здесь видеть ещё одного канадца.”",
-          "Атакующий: “(Игрок) не настоящий канадец...”",
-          "Убийца: “Эй, иди-ка сюда, (игрок)! Тут встал ОСТРИЁМ один вопросик!”",
-          "Воскрешающий: “У тебя действительно такое же большое сердце, как и борода, (игрок).”",
-          "Призрак: “Канадцы должны помогать друг другу, (игрок). Давай-ка добудем сердце.”",
-          "Поджигатель: “Сейчас этот пожар вроде как во вред, а?”"
+          {
+            "Class": "Обычный",
+            "Text": "“(Игрок)! Забавно здесь видеть ещё одного канадца.”"
+          },
+          {
+            "Class": "Атакующий",
+            "Text": "“(Игрок) не настоящий канадец...”"
+          },
+          {
+            "Class": "Убийца",
+            "Text": "“Эй, иди-ка сюда, (игрок)! Тут встал ОСТРИЁМ один вопросик!”"
+          },
+          {
+            "Class": "Воскрешающий",
+            "Text": "“У тебя действительно такое же большое сердце, как и борода, (игрок).”"
+          },
+          {
+            "Class": "Призрак",
+            "Text": "“Канадцы должны помогать друг другу, (игрок). Давай-ка добудем сердце.”"
+          },
+          {
+            "Class": "Поджигатель",
+            "Text": "“Сейчас этот пожар вроде как во вред, а?”"
+          }
         ],
         "Others": "Вуди был добавлен в игру с обновлением Strange New Powers“. В DST получил обновление персонажа 12 сентября 2019 года. До него древесный голод являлся дополнительным параметром, падающим в течение времени или интенсивно при рубке деревьев. При достижении 25 единиц древесного голода Вуди превращался в бобра. Голос Вуди — виолончель; Люси — музыкальная пила. Фраза “Я люблю Люси!“ может являться отсылкой к одноимённому сериалу. Если после превращения бобра обратно в Вуди зайти в подземелье и выйти, то Люси появится у вас в инвентаре. При прохождении портала Максвелла Люси добавляется в инвентарь повторно. С репликами Вуди можно ознакомиться здесь. Судя по репликам, страдает орнитофобией (боязнью птиц). Судя по реплике о паутине возможно страдает арахнофобией (боязнью пауков). Канадец по происхождению. Реакция на заполненный сундук — “Он и так набит почище трамвая в Торонто“ и на открытую карстовую воронку — “Там внизу — что в твоём Садбери“. Возможно, Вуди в прошлом работал на строительстве железных дорог, так как при взгляде на селитру он говорит: “Вот так мы и строим железные дороги“. Также, судя по репликам, страдает аллергией на траву. Отказывается брить бороду. Комментирует это тем, что настоящие дровосеки не бреются. Вуди не умеет плавать. Возможно, это объясняет невозможность плавать в обличии бобра (SW). При сражении Вуди кричит фразу: “Get over here, eh!“. Возможно, это отсылка к известной фразе Скорпиона из серии игр “Mortal Kombat“. Свины, оставшиеся без дома, в ночное время бегают за Вуди-бобром, говоря: “Огонь — хорошо“ и т. п. Это можно объяснить ночным зрением бобра. При осмотре навоза Вуди говорит “Не гадь в лагере!“, что скорее всего означает, что он был вожатым в лагере. В любой форме оборотня Вуди может использовать эмоцию танца. Свин-оборотень не нападёт на Вуди, если тот находится в форме оборотня во время полнолуния (DST).",
         "StatsImg": "images/Characters/Woodie/ru/Character_Card.png",
@@ -1136,12 +1408,30 @@
           "Довольно распространённой тактикой после 3 волны является установка цветения жизни, а после, когда все хряки добегут до него и уснут, замуровать их в камень. Главное, чтобы какой-нибудь игрок с молотом Горнила не совершил удар по наковальне."
         ],
         "Quotes": [
-          "Обычный: “Ах, приветствую, (игрок)! Забавно тебя здесь видеть.”",
-          "Атакующий: “Аморальность (игрок) создаёт дыры в моих гипотезах о мультивселенных.”",
-          "Убийца: “Я сама себе худший критик!”",
-          "Воскрешающий: “Наши знания нам подсобили, так ведь, (игрок)?”",
-          "Призрак: “Наши книги о самопощи наконец-то пригодятся, а, (игрок)?”",
-          "Поджигатель: “Жечь книги достаточно бестактно, (игрок).”"
+          {
+            "Class": "Обычный",
+            "Text": "“Ах, приветствую, (игрок)! Забавно тебя здесь видеть.”"
+          },
+          {
+            "Class": "Атакующий",
+            "Text": "“Аморальность (игрок) создаёт дыры в моих гипотезах о мультивселенных.”"
+          },
+          {
+            "Class": "Убийца",
+            "Text": "“Я сама себе худший критик!”"
+          },
+          {
+            "Class": "Воскрешающий",
+            "Text": "“Наши знания нам подсобили, так ведь, (игрок)?”"
+          },
+          {
+            "Class": "Призрак",
+            "Text": "“Наши книги о самопощи наконец-то пригодятся, а, (игрок)?”"
+          },
+          {
+            "Class": "Поджигатель",
+            "Text": "“Жечь книги достаточно бестактно, (игрок).”"
+          }
         ],
         "Others": "Уикерботтом была добавлена в игру с обновлением “Progress!“. С обновлением “Strange New Powers“ получила собственные особенности и вкладку “Книги“. До этого же обновления она, находясь рядом с алхимической машиной, могла создавать прототипы теневого манипулятора. В начале игры в инвентаре Уикерботтом есть 2 единицы папируса, которые можно потратить на создание книги или, например, птичьей клетки. Имеет самый высокий уровень рассудка среди персонажей (кроме полностью улучшенного шестерёнками WX-78 и Ворбакса в ранних своих версиях). Голос звучит как гобой. Зачастую называет имена растений и животных (также костеглаза и червоточины) на латыни. Ознакомиться с репликами Уикерботтом можно здесь. Единственный персонаж женского пола, у которого имеются глазные зрачки, за исключением Виноны. Судя по репликам, Уикерботтом любит сов и рыбные блюда. Её глаза всегда прикрыты веками, их можно увидеть открытыми лишь во время старта игры, и когда Уикерботтом спит, рыбачит или испуганно озирается при низком рассудке. При ударе в неё молнии можно увидеть кости в юбке и волосах. У остальных персонажей в файлах игры также имеется анимация чтения книг. Её снегопадающий скин может быть отсылкой на Снежную Королеву из одноимённой сказки или на Белую колдунью из книги “Хроники Нарнии“. Фраза Венди об Уикерботтом-убийце (Она написала “убийство“) является отсылкой к популярному американскому детективному телесериалу. Фраза Вигфрид о призраке Уикерботтом (Сердце! Сердце! Мой лагерь за сердце!) является отсылкой к трагедии Уильяма Шекспира «Король Ричард III» (Коня, коня, полцарства за коня!).",
         "StatsImg": "images/Characters/Wickerbottom/ru/Character_Card.png",
