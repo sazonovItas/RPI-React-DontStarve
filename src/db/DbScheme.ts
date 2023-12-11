@@ -32,7 +32,7 @@ export interface Content {
   Background: string;
   Percs: string;
   Tips: string;
-  Quotes: Quote[];
+  Quotes: string;
   Other: string;
   Gallery: string;
 }
@@ -122,7 +122,7 @@ export interface Character {
   Description: string;
   Percs: Percs;
   Tips: string[];
-  Quotes: string[];
+  Quotes: Quote[];
   Others: string;
 
   // Images paths, links and others

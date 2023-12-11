@@ -1,5 +1,5 @@
 .CharacterQuotes-container {
-  margin: 20px 0 20px 0;
+  margin: 20px auto 20px auto;
   width: 85%;
 
   display: flex;
@@ -7,14 +7,42 @@
   align-self: center;
 }
 
+.CharacterQuotes-list {
+  width: 95%;
+  margin: auto;
+
+  list-style: none;
+  font-family: "DontStarveFont";
+  font-style: normal;
+  font-weight: 400;
+  color: #683f0e;
+  font-size: 36px;
+}
+
+.CharacterQuotes-list-item {
+  display: flex;
+}
+
+.Quote-desc {
+  color: #000;
+}
+
 @media (max-width: 880px) {
   .CharacterQuotes-container {
     width: 90%;
+  }
+
+  .CharacterQuotes-list {
+    font-size: 30px;
   }
 }
 
 @media (max-width: 550px) {
   .CharacterQuotes-container {
     width: 95%;
+  }
+
+  .CharacterQuotes-list {
+    font-size: 26px;
   }
 }

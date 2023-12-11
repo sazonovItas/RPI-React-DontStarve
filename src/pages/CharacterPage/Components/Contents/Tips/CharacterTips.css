@@ -9,6 +9,8 @@
 }
 
 .CharacterTips-list {
+  width: 95%;
+  margin: auto;
   font-family: "DontStarveFont";
   font-style: normal;
   font-weight: 400;
@@ -16,13 +18,9 @@
   font-size: 36px;
 }
 
-.CharacterTips-list-item {
-  margin: 0 0 0 15px;
-}
-
 @media (max-width: 880px) {
   .CharacterTips-container {
-    margin: 15px 0 15px 0;
+    padding: 15px 0 15px 15px;
     width: 90%;
   }
   .CharacterTips-list {

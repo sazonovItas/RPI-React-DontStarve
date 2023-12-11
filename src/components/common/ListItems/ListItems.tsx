@@ -14,8 +14,10 @@ function ListItems(props: ListItemsProps) {
           }}
         >
           <ul className="ListItems-list">
-            {props.Text.map((item) => (
-              <li className="ListItems-list-item">{item}</li>
+            {props.Text.map((item, key) => (
+              <li key={key} className="ListItems-list-item">
+                {item}
+              </li>
             ))}
           </ul>
         </div>

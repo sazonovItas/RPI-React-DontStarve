@@ -8,8 +8,10 @@ function CharacterTips(props: CharacterTipsProps) {
       <SepTitle Text={props.Title} Id="tips" />
       <div className="CharacterTips-container">
         <ul className="CharacterTips-list">
-          {props.Text.map((item) => (
-            <li className="CharacterTips-list-item">{item}</li>
+          {props.Text.map((item, key) => (
+            <li key={key} className="CharacterTips-list-item">
+              {item}
+            </li>
           ))}
         </ul>
       </div>
