@@ -13,6 +13,7 @@ import CharacterTips from "./Components/Contents/Tips/CharacterTips";
 import CharacterPercs from "./Components/Contents/Percs/CharacterPercs";
 import CharacterQuotes from "./Components/Contents/Quotes/CharacterQuotes";
 import CharacterGallery from "./Components/Contents/Gallery/CharacterGallery";
+import Timeline from "./Components/Contents/Timeline/Timeline.tsx";
 
 function CharacterPage() {
   useEffect(() => {
@@ -71,6 +72,10 @@ function CharacterPage() {
         <CharacterOther
           Title={db.CharacterPage.Content.Other}
           Text={character.Others}
+        />
+        <Timeline
+          Title={db.CharacterPage.Content.Timeline}
+          Timeline={character.Timeline}
         />
         <Footer
           Title={db.CharacterPage.Footer.Title}

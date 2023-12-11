@@ -32,6 +32,7 @@ export interface Content {
   Background: string;
   Percs: string;
   Tips: string;
+  Timeline: string;
   Quotes: string;
   Other: string;
   Gallery: string;
@@ -124,6 +125,7 @@ export interface Character {
   Tips: string[];
   Quotes: Quote[];
   Others: string;
+  Timeline: Timeline[];
 
   // Images paths, links and others
   StatsImg: string;
@@ -132,6 +134,12 @@ export interface Character {
   CharacterSkinsImg: string;
   VideoLink: string;
   Gallery: string[];
+}
+
+export interface Timeline {
+  Title: string;
+  Description: string;
+  Date: string;
 }
 
 export interface Percs {

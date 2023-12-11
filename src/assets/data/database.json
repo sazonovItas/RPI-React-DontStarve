@@ -149,6 +149,10 @@
             "Text": "Gallery"
           },
           {
+            "Url": "#timeline",
+            "Text": "Character updates"
+          },
+          {
             "Url": "#other",
             "Text": "Other"
           }
@@ -157,6 +161,7 @@
         "Percs": "Percs",
         "Tips": "Tips",
         "Quotes": "Quoutes",
+        "Timeline": "Characters updates",
         "Other": "Other",
         "Gallery": "Gallery"
       },
@@ -219,6 +224,7 @@
             "Text": "“It`s better to concoct a means of resurrection. I can`t leave another scientist hanging.”"
           },
           {
+            "Title": "",
             "Class": "Pyro",
             "Text": "“It wasn't very scientific to burn it, (player).”"
           }
@@ -234,6 +240,28 @@
           "images/Characters/Wilson/Galery/Portret.png",
           "images/Characters/Wilson/Galery/Ghost.png",
           "images/Characters/Wilson/Galery/Meme.png"
+        ],
+        "Timeline": [
+          {
+            "Title": "[Game Update] - 505508",
+            "Description": "Wilson has mastered new methods of manipulating science, allowing him to create unique inventions to increase survivability and explore the world of Don't Starve.",
+            "Date": "11/11/2022"
+          },
+          {
+            "Title": "[Game Update] - 505511",
+            "Description": "Wilson can now create mechanical allies to help him gather resources and fight enemies.",
+            "Date": "15/01/2023"
+          },
+          {
+            "Title": "[Game Update] - 505550",
+            "Description": "Wilson has learned new scientific methods for processing resources, making him more efficient at using them to create items and weapons.",
+            "Date": "07/06/2023"
+          },
+          {
+            "Title": "[Game Update] - 505623",
+            "Description": "Wilson has gained new skills in creating machines and devices that will help him explore and defend against the dangers of the world of Don't Starve.",
+            "Date": "01/12/2023"
+          }
         ]
       },
       {
@@ -318,6 +346,28 @@
           "images/Characters/Wormwood/Galery/Portret.png",
           "images/Characters/Wormwood/Galery/Ghost.png",
           "images/Characters/Wormwood/Galery/Meme.png"
+        ],
+        "Timeline": [
+          {
+            "Title": "[Game Update] - 505508",
+            "Description": "Wormwood now has the ability to control plants, making it more efficient at gathering resources and growing crops.",
+            "Date": "11/11/2022"
+          },
+          {
+            "Title": "[Game Update] - 505511",
+            "Description": "Wormwood can now create protective barriers from plants that help him protect himself from enemies and dangers.",
+            "Date": "15/01/2023"
+          },
+          {
+            "Title": "[Game Update] - 505550",
+            "Description": "Wormwood has acquired new skills in communicating with nature, which makes it more effective in using plants for its purposes.",
+            "Date": "07/06/2023"
+          },
+          {
+            "Title": "[Game Update] - 505623",
+            "Description": "Wormwood has mastered new methods of growing and caring for plants, making it more powerful and resilient in the world of Don't Starve.",
+            "Date": "01/12/2023"
+          }
         ]
       },
       {
@@ -381,6 +431,28 @@
           "images/Characters/Maxwell/Galery/Portret.png",
           "images/Characters/Maxwell/Galery/Ghost.png",
           "images/Characters/Maxwell/Galery/Meme.png"
+        ],
+        "Timeline": [
+          {
+            "Title": "[Game Update] - 505508",
+            "Description": "Maxwell has gained new abilities to control shadows, making him more powerful in combat and opening up new ways to use them in everyday life.",
+            "Date": "11/11/2022"
+          },
+          {
+            "Title": "[Game Update] - 505511",
+            "Description": "Maxwell can now summon armies of shadows to help him fight enemies and protect his base.",
+            "Date": "15/01/2023"
+          },
+          {
+            "Title": "[Game Update] - 505550",
+            "Description": "Maxwell has learned new skills to manipulate shadows, making him more effective at using them for his purposes.",
+            "Date": "07/06/2023"
+          },
+          {
+            "Title": "[Game Update] - 505623",
+            "Description": "Maxwell has mastered new methods of creating items from shadows, making him more powerful and resilient in the world of Don't Starve. These are the character update descriptions for Don't Starve Together, I hope you find them helpful in your work!",
+            "Date": "01/12/2023"
+          }
         ]
       },
       {
@@ -452,6 +524,28 @@
           "images/Characters/Willow/Galery/Portret.png",
           "images/Characters/Willow/Galery/Ghost.png",
           "images/Characters/Willow/Galery/Meme.png"
+        ],
+        "Timeline": [
+          {
+            "Title": "[Game Update] - 505508",
+            "Description": "Willow has gained a new ability to control fire, making her more effective at using flames to survive and fight enemies.",
+            "Date": "11/11/2022"
+          },
+          {
+            "Title": "[Game Update] - 505511",
+            "Description": "Willow can now summon fiery helpers to help her fight enemies and cook food.",
+            "Date": "15/01/2023"
+          },
+          {
+            "Title": "[Game Update] - 505550",
+            "Description": "Willow has learned new fire magic skills that will help her use fire for survival and protection.",
+            "Date": "07/06/2023"
+          },
+          {
+            "Title": "[Game Update] - 505623",
+            "Description": "Willow has mastered new methods of creating items from fire, making her more efficient at using the element to survive.",
+            "Date": "01/12/2023"
+          }
         ]
       },
       {
@@ -518,6 +612,28 @@
           "images/Characters/Wendy/Galery/Portret.png",
           "images/Characters/Wendy/Galery/Ghost.png",
           "images/Characters/Wendy/Galery/Meme.png"
+        ],
+        "Timeline": [
+          {
+            "Title": "[Game Update] - 505508",
+            "Description": "Wendy can now summon spiritual flames, which provide her and her allies with protection from the dangers of the night and help them travel through the dark places of the world of Don't Starve.",
+            "Date": "11/11/2022"
+          },
+          {
+            "Title": "[Game Update] - 505511",
+            "Description": "Wendy has gained a new understanding of the ghostly world, allowing her to use its powers to ease her way through the world of Don't Starve.",
+            "Date": "15/01/2023"
+          },
+          {
+            "Title": "[Game Update] - 505550",
+            "Description": "Wendy can now summon her ghostly brother to help her fight enemies and collect resources.",
+            "Date": "07/06/2023"
+          },
+          {
+            "Title": "[Game Update] - 505623",
+            "Description": "Wendy has learned new black magic skills that will help her fight the dangers of the world of Don't Starve.",
+            "Date": "01/12/2023"
+          }
         ]
       },
       {
@@ -584,6 +700,28 @@
           "images/Characters/WX-78/Galery/Portret.png",
           "images/Characters/WX-78/Galery/Ghost.png",
           "images/Characters/WX-78/Galery/Meme.png"
+        ],
+        "Timeline": [
+          {
+            "Title": "[Game Update] - 505508",
+            "Description": "The WX-78 now has the ability to upgrade its parts, making it more effective at using various modifications.",
+            "Date": "11/11/2022"
+          },
+          {
+            "Title": "[Game Update] - 505511",
+            "Description": "Now WX-78 can improve its systems, which helps it in collecting data and analyzing the world around it.",
+            "Date": "15/01/2023"
+          },
+          {
+            "Title": "[Game Update] - 505550",
+            "Description": "The WX-78 has gained new mechanical manipulation skills, making it more efficient at using its capabilities.",
+            "Date": "07/06/2023"
+          },
+          {
+            "Title": "[Game Update] - 505623",
+            "Description": "WX-78 has mastered new methods of upgrading its components, making it more powerful and adaptable in the world of Don't Starve.",
+            "Date": "01/12/2023"
+          }
         ]
       },
       {
@@ -652,6 +790,28 @@
           "images/Characters/Woodie/Galery/Portret.png",
           "images/Characters/Woodie/Galery/Ghost.png",
           "images/Characters/Woodie/Galery/Meme.png"
+        ],
+        "Timeline": [
+          {
+            "Title": "[Game Update] - 505508",
+            "Description": "Woodie now has improved strength, making him more effective in battles and resource extraction.",
+            "Date": "11/11/2022"
+          },
+          {
+            "Title": "[Game Update] - 505511",
+            "Description": "Now Woodie can increase his strength even more, which will help him in the fight against stronger enemies.",
+            "Date": "15/01/2023"
+          },
+          {
+            "Title": "[Game Update] - 505550",
+            "Description": "Woodie has gained new skills in controlling power, making him more effective at using it for his own purposes.",
+            "Date": "07/06/2023"
+          },
+          {
+            "Title": "[Game Update] - 505623",
+            "Description": "Woodie has mastered new methods to increase his stamina, making him more powerful and resilient in the world of Don't Starve.",
+            "Date": "01/12/2023"
+          }
         ]
       },
       {
@@ -718,6 +878,28 @@
           "images/Characters/Wickerbottom/Galery/Portret.png",
           "images/Characters/Wickerbottom/Galery/Ghost.png",
           "images/Characters/Wickerbottom/Galery/Meme.png"
+        ],
+        "Timeline": [
+          {
+            "Title": "[Game Update] - 505508",
+            "Description": "Wickerbottom now has new knowledge and abilities as a book warlock, making her more effective at using magical knowledge.",
+            "Date": "11/11/2022"
+          },
+          {
+            "Title": "[Game Update] - 505511",
+            "Description": "Wickerbottom can now summon magical artifacts and create spells to aid her in exploration and survival.",
+            "Date": "15/01/2023"
+          },
+          {
+            "Title": "[Game Update] - 505550",
+            "Description": "Wickerbottom has gained new skills in using magic, which makes her more effective in using magical powers for her purposes.",
+            "Date": "07/06/2023"
+          },
+          {
+            "Title": "[Game Update] - 505623",
+            "Description": "Wickerbottom has mastered new methods of learning and applying magical knowledge, making her more powerful and resilient in the world of Don't Starve.",
+            "Date": "01/12/2023"
+          }
         ]
       }
     ]
@@ -872,6 +1054,10 @@
             "Text": "Галерея"
           },
           {
+            "Url": "#timeline",
+            "Text": "Обновления персонажа"
+          },
+          {
             "Url": "#other",
             "Text": "Разное"
           }
@@ -879,6 +1065,7 @@
         "Background": "Предыстория",
         "Percs": "Особенности",
         "Tips": "Советы",
+        "Timeline": "Обновления персонажа",
         "Quotes": "Цитаты",
         "Other": "Разное",
         "Gallery": "Галерея"
@@ -901,7 +1088,7 @@
       {
         "ID": "wilson",
         "Name": "Уилсон",
-        "Phrase": "“Я буду побеждать силой своего РАЗУМА!””",
+        "Phrase": "“Я буду побеждать силой своего РАЗУМА!”",
         "PhraseColor": "#9E6C3E",
         "Background": "Однажды поздно вечером, работая в своей домашней лаборатории, Уилсон был ошеломлён: он услышал голос из радио, что обращался непосредственно к нему. Сперва его обуял страх, что он свихнулся от слишком частых поздних экспериментов или от химических паров, что мог случайно вдохнуть. Но голос заверил, что он не просто плод воображения. Более того, голос озвучил учёному предложение: если Уилсон построит машину согласно всем правилам, то наградой ему станут запретные знания, которых ещё никто никогда не видел. Оставив в стороне всё своё здравомыслие (ну какой вред могут принести подозрительные сделки с таинственными бестелесными голосами, в конце-то концов?), Уилсон немедля приступил к созданию машины. Когда она была наконец завершена, у учёного зародилась толика сомнения... то, что могло бы спасти его от его предстоящей участи, будь он твёрже волей. Но голос настоял, и Уилсон повернул рычаг, активировав своё творение... и его больше никогда не видели. Ну, по крайней мере, не в этом мире.",
         "Description": "Уилсон (Wilson) (полн. имя — Уилсон Персиваль Хиггсбери) — первый и главный персонаж, своего рода визитная карточка игры Don't Starve. Он бесстрашный, но довольно самонадеянный учёный джентльмен, который был пойман Максвеллом и перенесён в таинственный дикий мир, в котором он должен выжить.",
@@ -957,7 +1144,13 @@
           "images/Characters/Wilson/Galery/Portret.png",
           "images/Characters/Wilson/Galery/Ghost.png",
           "images/Characters/Wilson/Galery/Meme.png"
-        ]
+        ],
+        "Timeline":         [
+          {"Title":"[Game Update] - 505508", "Description":"Wilson освоил новые методы манипуляции с наукой, что позволяет ему создавать уникальные изобретения для повышения уровня выживаемости и исследования мира Don't Starve.", "Date":"11/11/2022"},
+          {"Title":"[Game Update] - 505511", "Description":"Теперь Wilson может создавать механических союзников, которые помогут ему в сборе ресурсов и борьбе с врагами.", "Date":"15/01/2023"},
+          {"Title":"[Game Update] - 505550", "Description":"Wilson обучился новым научным методам обработки ресурсов, что делает его более эффективным в использовании их для создания предметов и оружия.", "Date":"07/06/2023"},
+          {"Title":"[Game Update] - 505623", "Description":"Wilson обрел новые навыки создания машин и устройств, которые помогут ему в исследовании и защите от опасностей мира Don't Starve.", "Date":"01/12/2023"}
+        ] 
       },
       {
         "ID": "wormwood",
@@ -1042,6 +1235,28 @@
           "images/Characters/Wormwood/Galery/Portret.png",
           "images/Characters/Wormwood/Galery/Ghost.png",
           "images/Characters/Wormwood/Galery/Meme.png"
+        ],
+        "Timeline": [
+          {
+            "Title": "[Game Update] - 505508",
+            "Description": "Wormwood теперь обладает способностью контролировать растения, что делает его более эффективным в сборе ресурсов и выращивании урожая.",
+            "Date": "11/11/2022"
+          },
+          {
+            "Title": "[Game Update] - 505511",
+            "Description": "Теперь Wormwood может создавать защитные барьеры из растений, которые помогают ему в защите от врагов и опасностей.",
+            "Date": "15/01/2023"
+          },
+          {
+            "Title": "[Game Update] - 505550",
+            "Description": "Wormwood обрел новые навыки общения с природой, что делает его более эффективным в использовании растений для своих целей.",
+            "Date": "07/06/2023"
+          },
+          {
+            "Title": "[Game Update] - 505623",
+            "Description": "Wormwood освоил новые методы выращивания и ухода за растениями, что делает его более мощным и устойчивым в мире Don't Starve.",
+            "Date": "01/12/2023"
+          }
         ]
       },
       {
@@ -1107,7 +1322,13 @@
           "images/Characters/Maxwell/Galery/Portret.png",
           "images/Characters/Maxwell/Galery/Ghost.png",
           "images/Characters/Maxwell/Galery/Meme.png"
-        ]
+        ],
+        "Timeline":         [
+          {"Title":"[Game Update] - 505508", "Description":"Maxwell обрел новые возможности управления тенями, что делает его более мощным в бою и открывает новые пути использования их в повседневной жизни.", "Date":"11/11/2022"},
+          {"Title":"[Game Update] - 505511", "Description":"Теперь Maxwell может призывать армии теней, которые помогут ему в борьбе с врагами и защите своей базы.", "Date":"15/01/2023"},
+          {"Title":"[Game Update] - 505550", "Description":"Maxwell обучился новым навыкам манипуляции тенями, что делает его более эффективным в использовании их для своих целей.", "Date":"07/06/2023"},
+          {"Title":"[Game Update] - 505623", "Description":"Maxwell освоил новые методы создания предметов из теней, что делает его более мощным и устойчивым в мире Don't Starve.", "Date":"01/12/2023"}
+        ] 
       },
       {
         "ID": "willow",
@@ -1178,7 +1399,13 @@
           "images/Characters/Willow/Galery/Portret.png",
           "images/Characters/Willow/Galery/Ghost.png",
           "images/Characters/Willow/Galery/Meme.png"
-        ]
+        ],
+        "Timeline":        [
+          {"Title":"[Game Update] - 505508", "Description":"Willow обрела новую способность контролировать огонь, что делает ее более эффективной в использовании пламени для выживания и в борьбе с врагами.", "Date":"11/11/2022"},
+          {"Title":"[Game Update] - 505511", "Description":"Теперь Willow может призвать огненных помощников, которые помогут ей в борьбе с врагами и приготовлении пищи.", "Date":"15/01/2023"},
+          {"Title":"[Game Update] - 505550", "Description":"Willow обучилась новым навыкам огненной магии, которые помогут ей в использовании огня для выживания и защиты.", "Date":"07/06/2023"},
+          {"Title":"[Game Update] - 505623", "Description":"Willow освоила новые методы создания предметов из огня, что делает ее более эффективной в использовании этого элемента для выживания.", "Date":"01/12/2023"}
+        ] 
       },
       {
         "ID": "wendy",
@@ -1244,7 +1471,14 @@
           "images/Characters/Wendy/Galery/Portret.png",
           "images/Characters/Wendy/Galery/Ghost.png",
           "images/Characters/Wendy/Galery/Meme.png"
-        ]
+        ],
+        "Timeline":
+        [
+          {"Title":"[Game Update] - 505508", "Description":"Wendy теперь может вызывать духовное пламя, которое обеспечивает ей и ее союзникам защиту от опасностей ночи и помогает в путешествиях по темным местам мира Don't Starve.", "Date":"11/11/2022"},
+          {"Title":"[Game Update] - 505511", "Description":"Wendy обрела новое понимание призрачного мира, что позволяет ей использовать его силы для облегчения своего пути через мир Don't Starve.", "Date":"15/01/2023"},
+          {"Title":"[Game Update] - 505550", "Description":"Теперь Wendy может призвать своего призрачного брата, который поможет ей в борьбе с врагами и собирании ресурсов.", "Date":"07/06/2023"},
+          {"Title":"[Game Update] - 505623", "Description":"Wendy обучилась новым навыкам черной магии, которые помогут ей в борьбе с опасностями мира Don't Starve.", "Date":"01/12/2023"}
+        ] 
       },
       {
         "ID": "wx-78",
@@ -1310,6 +1544,28 @@
           "images/Characters/WX-78/Galery/Portret.png",
           "images/Characters/WX-78/Galery/Ghost.png",
           "images/Characters/WX-78/Galery/Meme.png"
+        ],
+        "Timeline": [
+          {
+            "Title": "[Game Update] - 505508",
+            "Description": "WX-78 теперь обладает возможностью улучшения своих частей, что делает его более эффективным в использовании различных модификаций.",
+            "Date": "11/11/2022"
+          },
+          {
+            "Title": "[Game Update] - 505511",
+            "Description": "Теперь WX-78 может улучшать свои системы, что помогает ему в сборе данных и анализе окружающего мира.",
+            "Date": "15/01/2023"
+          },
+          {
+            "Title": "[Game Update] - 505550",
+            "Description": "WX-78 обрел новые навыки механической манипуляции, что делает его более эффективным в использовании своих возможностей.",
+            "Date": "07/06/2023"
+          },
+          {
+            "Title": "[Game Update] - 505623",
+            "Description": "WX-78 освоил новые методы апгрейда своих компонентов, что делает его более мощным и адаптивным в мире Don't Starve.",
+            "Date": "01/12/2023"
+          }
         ]
       },
       {
@@ -1378,6 +1634,28 @@
           "images/Characters/Woodie/Galery/Portret.png",
           "images/Characters/Woodie/Galery/Ghost.png",
           "images/Characters/Woodie/Galery/Meme.png"
+        ],
+        "Timeline": [
+          {
+            "Title": "[Game Update] - 505508",
+            "Description": "Woodie теперь обладает улучшенной силой, что делает его более эффективным в сражениях и добыче ресурсов.",
+            "Date": "11/11/2022"
+          },
+          {
+            "Title": "[Game Update] - 505511",
+            "Description": "Теперь Woodie может увеличить свою силу еще больше, что поможет ему в борьбе с более сильными врагами. ",
+            "Date": "15/01/2023"
+          },
+          {
+            "Title": "[Game Update] - 505550",
+            "Description": "Woodie обрел новые навыки управления силой, что делает его более эффективным в использовании ее для своих целей.",
+            "Date": "07/06/2023"
+          },
+          {
+            "Title": "[Game Update] - 505623",
+            "Description": "Wolfgang освоил новые методы повышения своей выносливости, что делает его более мощным и устойчивым в мире Don't Starve.",
+            "Date": "01/12/2023"
+          }
         ]
       },
       {
@@ -1444,6 +1722,28 @@
           "images/Characters/Wickerbottom/Galery/Portret.png",
           "images/Characters/Wickerbottom/Galery/Ghost.png",
           "images/Characters/Wickerbottom/Galery/Meme.png"
+        ],
+        "Timeline": [
+          {
+            "Title": "[Game Update] - 505508",
+            "Description": "Wickerbottom теперь обладает новыми знаниями и способностями книжного чернокнижника, что делает ее более эффективной в использовании магических знаний.",
+            "Date": "11/11/2022"
+          },
+          {
+            "Title": "[Game Update] - 505511",
+            "Description": "Теперь Wickerbottom может призывать магические артефакты и создавать заклинания, которые помогают ей в исследовании и выживании.",
+            "Date": "15/01/2023"
+          },
+          {
+            "Title": "[Game Update] - 505550",
+            "Description": "Wickerbottom обрела новые навыки в использовании магии, что делает ее более эффективной в использовании магических сил для своих целей.",
+            "Date": "07/06/2023"
+          },
+          {
+            "Title": "[Game Update] - 505623",
+            "Description": "Wickerbottom освоила новые методы изучения и применения магических знаний, что делает ее более мощной и устойчивой в мире Don't Starve.",
+            "Date": "01/12/2023"
+          }
         ]
       }
     ]
