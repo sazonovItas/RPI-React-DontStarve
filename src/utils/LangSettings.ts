@@ -4,7 +4,7 @@ export function SetLang(lang: string) {
 
 export function GetLangOrSetDefault(): string {
   const lang = localStorage.getItem("lang");
-  if (lang === null) {
+  if (lang === null || (lang !== "en" && lang !== "ru")) {
     localStorage.setItem("lang", "en");
     return "en";
   }
