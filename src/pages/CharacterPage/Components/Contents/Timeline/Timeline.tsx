@@ -23,7 +23,9 @@ function Timeline(props: TimelineProps) {
                 fontStyle: "normal",
                 fontWeight: 400,
               }}
-              contentArrowStyle={{}}
+              contentArrowStyle={{
+                borderRight: "7px solid rgba(196, 137, 21, 0.98)",
+              }}
               date={item.Date}
               dateClassName="date"
               iconStyle={{ background: "#633602", color: "#000" }}
