@@ -9,7 +9,12 @@ function CharacterGallery(props: CharacterGalleryProps) {
       <div className="CharacterGallery-container">
         {props.Imgs.map((item, key) => (
           <div key={key} className="Gallery-img-container">
-            <img className="Gallery-img" src={item} alt={"Gallery image"} />
+            <img
+              className="Gallery-img"
+              src={item}
+              alt={"Gallery image"}
+              loading="lazy"
+            />
           </div>
         ))}
       </div>

@@ -6,7 +6,12 @@ function SearchCard(props: SearchCardProps) {
     <>
       <div className="SearchCard-container">
         <a href={props.Link}>
-          <img className="SearchCard-img" src={props.Src} alt={props.Alt} />
+          <img
+            className="SearchCard-img"
+            src={props.Src}
+            alt={props.Alt}
+            loading="lazy"
+          />
         </a>
       </div>
     </>

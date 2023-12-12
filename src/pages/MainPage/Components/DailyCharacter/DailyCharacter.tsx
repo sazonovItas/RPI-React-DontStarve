@@ -22,6 +22,7 @@ function DailyCharacter(props: DailyCharacterProps) {
                 className="DCImage"
                 src={props.Character.DayCharacterImg}
                 alt="DayCharacter image"
+                loading="lazy"
               />
             </a>
           </div>
@@ -38,6 +39,7 @@ function DailyCharacter(props: DailyCharacterProps) {
               className="DCSkins"
               src={props.Character.CharacterSkinsImg}
               alt="Characters skins"
+              loading="lazy"
             />
           </div>
         </div>

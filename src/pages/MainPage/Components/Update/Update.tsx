@@ -6,7 +6,12 @@ function Update(props: UpdateProps) {
     <>
       <div className="Update-container">
         <a href={props.Link}>
-          <img className="Update-img" src={props.Img} alt={"Update image"} />
+          <img
+            className="Update-img"
+            src={props.Img}
+            alt={"Update image"}
+            loading="lazy"
+          />
           <div className="Update-desc">{props.Desc}</div>
         </a>
       </div>

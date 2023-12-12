@@ -31,6 +31,7 @@ function CharacterIntro(props: CharacterIntroProps) {
               className="CharacterIntro-img"
               src={props.StatsImg}
               alt={"Stats image"}
+              loading="lazy"
             />
           </div>
         </div>
@@ -50,6 +51,7 @@ function CharacterIntro(props: CharacterIntroProps) {
                 className="CharacterIntro-img"
                 src={props.StatsImg}
                 alt={"Stats image"}
+                loading="lazy"
               />
             </div>
             <div className="CharacterIntro-Desc">
