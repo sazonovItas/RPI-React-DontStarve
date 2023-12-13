@@ -29,13 +29,20 @@ export interface CharacterPage {
 export interface Content {
   Title: string;
   Contents: Contents[];
+  Map: string;
   Background: string;
+  Birthplace: Birthplace;
   Percs: string;
   Tips: string;
   Timeline: string;
   Quotes: string;
   Other: string;
   Gallery: string;
+}
+
+export interface Birthplace {
+  PlaceName: string;
+  Place: number[];
 }
 
 export interface Quote {

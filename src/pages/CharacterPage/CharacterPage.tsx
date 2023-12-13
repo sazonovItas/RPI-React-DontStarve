@@ -14,6 +14,7 @@ import CharacterPercs from "./Components/Contents/Percs/CharacterPercs";
 import CharacterQuotes from "./Components/Contents/Quotes/CharacterQuotes";
 import CharacterGallery from "./Components/Contents/Gallery/CharacterGallery";
 import Timeline from "./Components/Contents/Timeline/Timeline.tsx";
+import CharacterLocation from "./Components/Contents/Map/Map.tsx";
 
 function CharacterPage() {
   useEffect(() => {
@@ -45,6 +46,11 @@ function CharacterPage() {
           Description={character.Description}
           StatsImg={character.StatsImg}
           Content={db.CharacterPage.Content}
+        />
+        <CharacterLocation
+          Title={db.CharacterPage.Content.Map}
+          Place={db.CharacterPage.Content.Birthplace.Place}
+          PlaceName={db.CharacterPage.Content.Birthplace.PlaceName}
         />
         <CharacterOrigin
           Title={db.CharacterPage.Content.Background}

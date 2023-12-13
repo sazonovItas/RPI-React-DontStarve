@@ -129,6 +129,10 @@
         "Title": "Contents",
         "Contents": [
           {
+            "Url": "#map",
+            "Text": "Birthplace"
+          },
+          {
             "Url": "#background",
             "Text": "Origin"
           },
@@ -157,6 +161,11 @@
             "Text": "Character updates"
           }
         ],
+        "Map": "Birthplace",
+        "Birthplace": {
+          "PlaceName": "1000 Mainland St, Vancouver, BC V6B 6J8, Сanada",
+          "Place": [49.276624, -123.118979]
+        },
         "Background": "Origin",
         "Percs": "Percs",
         "Tips": "Tips",
@@ -1034,6 +1043,10 @@
         "Title": "Содержание",
         "Contents": [
           {
+            "Url": "#map",
+            "Text": "Место рождения"
+          },
+          {
             "Url": "#background",
             "Text": "Предыстория"
           },
@@ -1062,6 +1075,11 @@
             "Text": "Обновления персонажа"
           }
         ],
+        "Map": "Место рождения",
+        "Birthplace": {
+          "PlaceName": "1000 Mainland St, Vancouver, BC V6B 6J8, Канада",
+          "Place": [49.276624, -123.118979]
+        },
         "Background": "Предыстория",
         "Percs": "Особенности",
         "Tips": "Советы",
